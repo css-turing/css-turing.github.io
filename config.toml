@@ -1,27 +1,36 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Policy Modelling Theme @ The Alan Turing Institute'
 defaultContentLanguage = "en"
 paginate = "7"
 theme = "spectral"
 
 [params]
-fancyTitle = "Spectral" # title for frontpage, may include image
-copyright = "John Doe"
-description = 'Another fine responsive<br />site template freebie<br />crafted by <a href="http://html5up.net">HTML5 UP</a>.<br />Ported to <a href="//gohugo.io">Hugo</a> by Simon Bruder.'
-startbuttonText = "Activate"
-startbuttonLink = "#"
+# fancyTitle = '<img height="128" src="/images/screenshot.png" alt="Policy Modelling Theme"/>' # title for frontpage, may include image
+fancyTitle = 'Policy Modelling Theme' # title for frontpage, may include image
+copyright = "K. R. Fair"
+description = 'Public Policy Programme<br /><a href="https://www.turing.ac.uk/">The Alan Turing Institute</a>'
+# startbuttonText = "Go somewhere"
+# startbuttonLink = "#"
 body_is_markdown = true
 #custom_css = "foo.css"
-#images = ["path_to_social_image_for_link_previews.jpg"]
+#images = [stuff]
 
 [[params.menu.main]]
 url = '/'
 title = "Home"
 
 [[params.menu.main]]
-url = '/posts/'
-title = "Posts"
+url = '/people/'
+title = "People"
+
+[[params.menu.main]]
+url = '/projects/'
+title = "Projects"
+
+[[params.menu.main]]
+url = '/publications/'
+title = "Publications"
 
 [taxonomies]
     tag = "tags"
@@ -30,107 +39,72 @@ title = "Posts"
 
 [params.one]
 enable = true
-title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
+title = 'Meet the team'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+![hey its omar](../images/oag.jpg)
+
+<br/><br/>
+
+[Person 1](../people/johndoe)
 '''
 
-[[params.one.icon]]
-icon = "fa-diamond"
-style = "1"
-label = "Lorem"
+#[[params.one.icon]]
+#icon = "fa-diamond"
+#style = "1"
+#label = "Lorem"
 
-[[params.one.icon]]
-icon = "fa-heart-o"
-style = "2"
-label = "Ipsum"
+#[[params.one.icon]]
+#icon = "fa-heart-o"
+#style = "2"
+#label = "Ipsum"
 
-[[params.one.icon]]
-icon = "fa-code"
-style = "3"
-label = "Dolor"
+#[[params.one.icon]]
+#icon = "fa-code"
+#style = "3"
+#label = "Dolor"
 
 [params.two]
 enable = true
 
 [[params.two.section]]
-img = "img/pic01.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
-
-[[params.two.section]]
-img = "img/pic02.jpg"
-title = 'Tortor dolore feugiat<br />elementum magna'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
-
-[[params.two.section]]
-img = "img/pic03.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+img = "/images/oag.jpg"
+#title = ''
+body = '''
+## [Project 1](../projects/project1)
+One line project description 
+'''
 
 [params.three]
 enable = true
-title = 'Accumsan mus tortor nunc aliquet'
+title = 'Publications'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+[Quantifying the Technological Foundations of Economic Complexity (2023)](https://arxiv.org/abs/2301.04579)
 '''
 
-[[params.three.feature]]
-icon = "fa-paper-plane-o"
-title = "Arcu accumsan"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+#[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+#title = "Arcu accumsan"
+#body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
-[[params.three.feature]]
-icon = "fa-laptop"
-title = "Ac Augue Eget"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
-icon = "fa-code"
-title = "Foo bar"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
-icon = "fa-headphones"
-title = "Baz kram"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
-icon = "fa-heart-o"
-title = "Some latin text"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
-icon = "fa-flag-o"
-title = "Nothing important"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[params.cta]
-enable = true
-title = "Arcue ut vel commodo"
-body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+#[params.cta]
+#enable = true
+#title = "Arcue ut vel commodo"
+#body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
 
 [[params.cta.link]]
-href = "#"
-text = "Activate"
-special = true
+#href = "#"
+#text = "Learn More"
+#special = false
 
-[[params.cta.link]]
-href = "#"
-text = "Learn More"
-special = false
-
-[params.contact]
-enable = true
-title = "Contact"
-body = "Leave us a message."
-phone = "+49 (0) 030 000 000"
+#[params.contact]
+#enable = true
+#title = "Contact"
+#body = "Leave us a message."
 address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-email = "nospam@example.com"
-subject = "New Submission!"
-formspree_form_id = "example_invalid"
+##phone = "+49 (0) 030 000 000"
+#email = "nospam@example.com"
+#subject = "New Submission!"
+#formspree_form_id = "example_invalid"
 
 [params.social]
 twitter = ""
