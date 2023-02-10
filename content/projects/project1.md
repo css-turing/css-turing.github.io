@@ -3,13 +3,15 @@ title: "A project"
 draft: false
 ---
 
+{{< figure src="/images/oag.jpg" width="100px" >}}
+
 ## Project description
 
 stuff
 
 ## People
 
-[Person1](../people/johndoe)
+[Person 1]({{< ref "/people/person1" >}}) 
 
 ## Publications
 

@@ -3,13 +3,15 @@ title: "People"
 draft: false
 ---
 
-## Head of Computational Social Science
-[Omar A. Guerrero](../people/johndoe)
+This is causing problems 
 
-## Postdoctoral research associates
-[Person1](../people/johndoe)
+## Head of Computational Social Science
+[Person 1]({{< ref "/people/person1" >}}) 
+
+<!-- ## Postdoctoral research associates
+[Person1](../people/person1)
 
 ## Research assistants
-[Person1](../people/johndoe)
+[Person1](../people/person1) -->
 
 

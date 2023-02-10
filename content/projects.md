@@ -3,4 +3,5 @@ title: "Projects"
 draft: false
 ---
 
-[Project 1](../projects/project1)
+## Here we go
+[Project 1]({{< ref "/projects/project1" >}}) 

@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://policymodellingati.org/'
 languageCode = 'en-us'
 title = 'Policy Modelling Theme @ The Alan Turing Institute'
 defaultContentLanguage = "en"
@@ -20,13 +20,13 @@ body_is_markdown = true
 url = '/'
 title = "Home"
 
-[[params.menu.main]]
-url = '/people/'
-title = "People"
+# [[params.menu.main]]
+# url = '/people/'
+# title = "People"
 
 [[params.menu.main]]
-url = '/projects/'
-title = "Projects"
+url = '/projects/project1'
+title = "Project 1"
 
 [[params.menu.main]]
 url = '/publications/'
@@ -41,11 +41,14 @@ title = "Publications"
 enable = true
 title = 'Meet the team'
 body = '''
-![hey its omar](../images/oag.jpg)
 
 <br/><br/>
 
-[Person 1](../people/johndoe)
+| {{< figure src="/images/oag.jpg" width="200px" >}} | {{< figure src="/images/oag.jpg" width="200px" >}} |  {{< figure src="/images/oag.jpg" width="200px" >}} |  {{< figure src="/images/oag.jpg" width="200px" >}} |  {{< figure src="/images/oag.jpg" width="200px" >}} | 
+|  :---:  |  :---:  |  :---:  |  :---:  |  :---:  | 
+| [Omar A. Guererro](../people/person1) | [Daniele Guariso](../people/person1) | [Hardik Rajpal](../people/person1) | [Kathyrn R. Fair](../people/person1) | [Tuong Vu](../people/person1) | 
+| {{< figure src="/images/oag.jpg" width="200px" >}} | {{< figure src="/images/oag.jpg" width="200px" >}} |  {{< figure src="/images/oag.jpg" width="200px" >}} |  {{< figure src="/images/oag.jpg" width="200px" >}} |  {{< figure src="/images/oag.jpg" width="200px" >}} | 
+| [Leonardo Castro Gonzalez](../people/person1) | [Alejandro Beltran](../people/person1) | [Zach Kessler](../people/person1) | [David Meine](../people/person1) | [Santiago Musalem Pinto](../people/person1) |
 '''
 
 #[[params.one.icon]]
@@ -71,14 +74,14 @@ img = "/images/oag.jpg"
 #title = ''
 body = '''
 ## [Project 1](../projects/project1)
-One line project description 
+Short project description 
 '''
 
 [params.three]
 enable = true
 title = 'Publications'
 body = '''
-[Quantifying the Technological Foundations of Economic Complexity (2023)](https://arxiv.org/abs/2301.04579)
+* [Quantifying the Technological Foundations of Economic Complexity (2023)](https://arxiv.org/abs/2301.04579)
 '''
 
 #[[params.three.feature]]
