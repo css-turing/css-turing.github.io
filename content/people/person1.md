@@ -3,7 +3,7 @@ title: "A person"
 draft: false
 ---
 
-{{< figure src="/images/oag.jpg" width="200px" >}}
+{{< figure src="/images/aperson.jpg" width="200px" >}}
 
 ## About me
 
@@ -16,7 +16,7 @@ stufffffff
 
 or 
  
-| {{< figure src="/images/oag.jpg" width="100px" >}} | {{< figure src="/images/oag.jpg" width="100px" >}} |  {{< figure src="/images/oag.jpg" width="100px" >}} |  
+| {{< figure src="/images/aproject.jpg" width="100px" >}} | {{< figure src="/images/aproject.jpg" width="100px" >}} |  {{< figure src="/images/aproject.jpg" width="100px" >}} |  
 |  :---:  |  :---:  |  :---:  | 
 | [Project 1]({{< ref "/projects/project1" >}}) | [Project 1]({{< ref "/projects/project1" >}})| [Project 1]({{< ref "/projects/project1" >}}) |
 

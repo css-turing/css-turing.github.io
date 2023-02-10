@@ -3,7 +3,7 @@ title: "A project"
 draft: false
 ---
 
-{{< figure src="/images/oag.jpg" width="100px" >}}
+{{< figure src="/images/aproject.jpg" width="100px" >}}
 
 ## Project description
 
