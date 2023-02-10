@@ -73,7 +73,7 @@ enable = true
 img = "/images/proj1.jpg"
 #title = ''
 body = '''
-## [Zach's housing stuff](../projects/project1)
+## [Housing markets](../projects/project1)
 Short project description 
 '''
 
