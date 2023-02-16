@@ -73,6 +73,14 @@ enable = true
 img = "/images/proj1.jpg"
 #title = ''
 body = '''
+## [Policy Priority Inference](../projects/project1)
+Short project description 
+'''
+
+[[params.two.section]]
+img = "/images/proj1.jpg"
+#title = ''
+body = '''
 ## [Housing markets](../projects/project1)
 Short project description 
 '''
