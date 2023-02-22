@@ -44,9 +44,9 @@ body = '''
 
 <br/><br/>
 
-| {{< figure src="/images/oag.jpg" width="200px" >}} | {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} | 
+| {{< figure src="/images/oag.jpg" width="200px" >}} | {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/tmvu.jpeg" width="200px" >}} | 
 |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  | 
-| [Omar A. Guerrero](../people/person1) | [Daniele Guariso](../people/person1) | [Hardik Rajpal](../people/person1) | [Kathyrn R. Fair](../people/person1) | [Tuong Vu](../people/person1) | 
+| [Omar A. Guerrero](../people/person1) | [Daniele Guariso](../people/person1) | [Hardik Rajpal](../people/person1) | [Kathyrn R. Fair](../people/person1) | [Tuong Vu](../people/tmvu) | 
 | {{< figure src="/images/aperson.jpg" width="200px" >}} | {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} | 
 | [Leonardo Castro Gonzalez](../people/person1) | [Alejandro Beltran](../people/person1) | [Zach Kessler](../people/person1) | [David Meine](../people/person1) | [Santiago Musalem Pinto](../people/person1) |
 '''
