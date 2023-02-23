@@ -76,7 +76,7 @@ body = '''
 |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  | 
 | [Omar A. Guerrero](../people/person1) | [Daniele Guariso](../people/person1) | [Hardik Rajpal](../people/person1) | [Kathyrn R. Fair](../people/krf) | [Tuong Vu](../people/tmvu) | 
 | {{< figure src="/images/aperson.jpg" width="200px" >}} | {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/zbk.jpeg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} | 
-| [Leonardo Castro Gonzalez](../people/person1) | [Alejandro Beltran](../people/person1) | [Zach Kessler](../people/zbk) | [David Meine](../people/person1) | [Santiago Musalem Pinto](../people/person1) |
+| [Leonardo Castro Gonzalez](../people/person1) | [Alejandro Beltran](../people/person1) | [Zachary B. Kessler](../people/zbk) | [David Meine](../people/person1) | [Santiago Musalem Pinto](../people/person1) |
 '''
 
 #[[params.one.icon]]
