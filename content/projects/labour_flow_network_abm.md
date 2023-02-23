@@ -13,6 +13,7 @@ stuff
 
 * [Kathyrn R. Fair]({{< ref "/people/krf" >}}) 
 * [Omar A. Guerrero]({{< ref "/people/person1" >}}) 
+* [David Meine]({{< ref "/people/person1" >}}) 
 
 ## Publications
 

@@ -1,5 +1,5 @@
 ---
-title: "Holistiic Housing and Rental Market Simulations"
+title: "Holistic Housing and Rental Market Simulations"
 draft: false
 ---
 

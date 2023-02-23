@@ -15,16 +15,18 @@ Her current work focuses on labour market dynamics and aims to move beyond class
 
 * [Labour flow network modelling]({{< ref "/projects/labour_flow_network_abm" >}})
 * [Firm ownership network analysis]({{< ref "/projects/firm_network_analysis" >}}) 
+* [Skills complexity]({{< ref "/projects/skills_complexity" >}}) 
 
 ## Publications
 
-* [Emerging Labour Flow Networks (2023)](https://arxiv.org/abs/2301.07979)
-* [Estimating COVID-19 cases and deaths prevented by non-pharmaceutical interventions, and the impact of individual actions: A retrospective model-based analysis (2022)](https://www.sciencedirect.com/science/article/pii/S1755436522000159)
-* [Implications of trade network structure and population dynamics for food security and equality (2021)](https://www.biorxiv.org/content/10.1101/2021.07.08.451671v1.abstract)
-* [Population behavioural dynamics can mediate the persistence of emerging infectious diseases (2021)](https://www.medrxiv.org/content/10.1101/2021.05.03.21256551v1)
-* [Spatial structure in protected forest-grassland mosaics: Exploring futures under climate change (2020)](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15288)
-* [Dynamics of the Global Wheat Trade Network and Resilience to Shocks (2017)](https://www.nature.com/articles/s41598-017-07202-y)
+Selected publications:
 
+* Fair, K. R., & Guerrero, O. A. (2023). Emerging Labour Flow Networks. *arXiv preprint arXiv:2301.07979*. [Paper](https://arxiv.org/abs/2301.07979) [Code](https://github.com/alan-turing-institute/UK-LabourFlowNetwork-Model)
+* Fair, K. R., Karatayev, V. A., Anand, M., & Bauch, C. T. (2022). Estimating COVID-19 cases and deaths prevented by non-pharmaceutical interventions, and the impact of individual actions: A retrospective model-based analysis. *Epidemics, 39*, 100557. [Paper](https://www.sciencedirect.com/science/article/pii/S1755436522000159) [Code](https://github.com/k3fair/COVID-19-ON-model)
+* Fair, K. R., Anand, M., & Bauch, C. T. (2020). Spatial structure in protected forest‐grassland mosaics: Exploring futures under climate change. *Global Change Biology, 26*(11), 6097-6115. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15288)
+* Fair, K. R., Bauch, C. T., & Anand, M. (2017). Dynamics of the global wheat trade network and resilience to shocks. *Scientific reports, 7*(1), 1-14. [Paper](https://www.nature.com/articles/s41598-017-07202-y)
+
+A full list of publications is available at [Google Scholar](https://scholar.google.co.uk/citations?user=BLg238AAAAAJ&hl=en&oi=sra).
 
 ## Contact me
 

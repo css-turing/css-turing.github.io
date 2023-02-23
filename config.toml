@@ -25,8 +25,28 @@ title = "Home"
 # title = "People"
 
 [[params.menu.main]]
-url = '/projects/project1'
-title = "Project 1"
+url = '/projects/endogenous_production_network.md'
+title = "Endogenous Production Network"
+
+[[params.menu.main]]
+url = '/projects/firm_network_analysis.md'
+title = "Firm Network Analysis"
+
+[[params.menu.main]]
+url = '/projects/housing_market.md'
+title = "Holistic Housing and Rental Market Simulations"
+
+[[params.menu.main]]
+url = '/projects/labour_flow_network_abm.md'
+title = "Modelling Labour Flow Networks"
+
+[[params.menu.main]]
+url = '/projects/ml_technological_landscape.md'
+title = "Machine Learning to Quantify the Global Technological Landscape"
+
+[[params.menu.main]]
+url = '/projects/skill_sorting.md'
+title = "Sorting based Skill and Productivity Estiamtion"
 
 [[params.menu.main]]
 url = '/publications/'

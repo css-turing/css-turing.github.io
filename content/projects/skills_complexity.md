@@ -1,5 +1,5 @@
 ---
-title: "Firm network analysis"
+title: "Skills complexity"
 draft: false
 ---
 
@@ -11,8 +11,9 @@ stuff
 
 ## People
 
-* [Alejandro Beltran]({{< ref "/people/person1" >}}) 
+* [Hardik Rajpal]({{< ref "/people/person1" >}}) 
 * [Kathyrn R. Fair]({{< ref "/people/krf" >}}) 
+* [Santiago Musalem Pinto]({{< ref "/people/person1" >}}) 
 
 ## Publications
 
