@@ -1,4 +1,4 @@
-baseURL = 'http://policymodellingati.org/'
+baseURL = 'http://cssati.org/'
 languageCode = 'en-us'
 title = 'Computational Social Science Research @ The Alan Turing Institute'
 defaultContentLanguage = "en"
