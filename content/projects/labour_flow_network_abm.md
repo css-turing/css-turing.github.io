@@ -2,8 +2,7 @@
 title: "Modelling Labour Flow Networks"
 draft: false
 ---
-
-{{< figure src="/images/lfn.png" width="200px" >}}
+{{< figure src="/images/lfn.png" width="400px" >}}
 
 ## Project description
 

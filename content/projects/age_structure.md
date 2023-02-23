@@ -3,7 +3,7 @@ title: "Emerging age structures for ABMs"
 draft: false
 ---
 
-{{< figure src="/images/lfn.png" width="200px" >}}
+{{< figure src="/images/agedist_Egypt_model_website.png" width="500px" >}}
 
 ## Project description
 
