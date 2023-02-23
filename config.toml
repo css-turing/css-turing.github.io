@@ -53,7 +53,7 @@ url = '/projects/skill_sorting'
 title = "Sorting based Skill and Productivity Estimation"
 
 [[params.menu.main]]
-url = '/projects/skill_complexity'
+url = '/projects/skills_complexity'
 title = "Skills complexity"
 
 [[params.menu.main]]
