@@ -1,14 +1,14 @@
 baseURL = 'http://policymodellingati.org/'
 languageCode = 'en-us'
-title = 'Policy Modelling Theme @ The Alan Turing Institute'
+title = 'Modelling for Policy Theme @ The Alan Turing Institute'
 defaultContentLanguage = "en"
 paginate = "7"
 theme = "spectral"
 
 [params]
 # fancyTitle = '<img height="128" src="/images/screenshot.png" alt="Policy Modelling Theme"/>' # title for frontpage, may include image
-fancyTitle = 'Policy Modelling Theme' # title for frontpage, may include image
-copyright = "K. R. Fair"
+fancyTitle = 'Computational Social Science Research' # title for frontpage, may include image
+copyright = "Modelling for Policy Theme"
 description = 'Public Policy Programme<br /><a href="https://www.turing.ac.uk/">The Alan Turing Institute</a>'
 # startbuttonText = "Go somewhere"
 # startbuttonLink = "#"
