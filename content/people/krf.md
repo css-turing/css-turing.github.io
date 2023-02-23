@@ -16,6 +16,7 @@ Her current work focuses on labour market dynamics and aims to move beyond class
 * [Labour flow network modelling]({{< ref "/projects/labour_flow_network_abm" >}})
 * [Firm ownership network analysis]({{< ref "/projects/firm_network_analysis" >}}) 
 * [Skills complexity]({{< ref "/projects/skills_complexity" >}}) 
+* [Emerging age structure for ABMs]({{< ref "/projects/age_structure" >}})
 
 ## Publications
 

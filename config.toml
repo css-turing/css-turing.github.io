@@ -16,37 +16,45 @@ body_is_markdown = true
 #custom_css = "foo.css"
 #images = [stuff]
 
-[[params.menu.main]]
-url = '/'
-title = "Home"
+#[[params.menu.main]]
+#title = "Home"
+#url = '/'
 
 # [[params.menu.main]]
 # url = '/people/'
 # title = "People"
 
 [[params.menu.main]]
-url = '/projects/endogenous_production_network.md'
+url = '/projects/age_structure'
+title = "Emerging age structures for ABMs"
+
+[[params.menu.main]]
+url = '/projects/endogenous_production_network'
 title = "Endogenous Production Network"
 
 [[params.menu.main]]
-url = '/projects/firm_network_analysis.md'
+url = '/projects/firm_network_analysis'
 title = "Firm Network Analysis"
 
 [[params.menu.main]]
-url = '/projects/housing_market.md'
+url = '/projects/housing_market'
 title = "Holistic Housing and Rental Market Simulations"
 
 [[params.menu.main]]
-url = '/projects/labour_flow_network_abm.md'
+url = '/projects/labour_flow_network_abm'
 title = "Modelling Labour Flow Networks"
 
 [[params.menu.main]]
-url = '/projects/ml_technological_landscape.md'
+url = '/projects/ml_technological_landscape'
 title = "Machine Learning to Quantify the Global Technological Landscape"
 
 [[params.menu.main]]
-url = '/projects/skill_sorting.md'
-title = "Sorting based Skill and Productivity Estiamtion"
+url = '/projects/skill_sorting'
+title = "Sorting based Skill and Productivity Estimation"
+
+[[params.menu.main]]
+url = '/projects/skill_complexity'
+title = "Skills complexity"
 
 [[params.menu.main]]
 url = '/publications/'
@@ -106,11 +114,11 @@ Short project description
 '''
 
 [[params.two.section]]
-img = "/images/proj1.jpg"
+img = "/images/lfn.png"
 #title = ''
 body = '''
 ## [Labour flow network modelling](../projects/labour_flow_network_abm)
-Short project description 
+Modelling the movement of individuals between jobs in the labour market.
 '''
 
 [[params.two.section]]
