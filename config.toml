@@ -10,8 +10,6 @@ theme = "spectral"
 fancyTitle = 'Computational Social Science Research' # title for frontpage, may include image
 copyright = "Modelling for Policy Theme"
 description = 'We are a research group at <a href="https://www.turing.ac.uk/">The Alan Turing Institute</a> specialised in the development and application of computational methods and complexity-science approaches in economics and other social sciences. We work closely with governments and international organisations to bring our research to relevant stakeholders and generate real-world impact. If you are interested in engaging or collaborating with us feel free to contact any member of our team.'
-
-'Public Policy Programme<br /><a href="https://www.turing.ac.uk/">The Alan Turing Institute</a>'
 # startbuttonText = "Go somewhere"
 # startbuttonLink = "#"
 body_is_markdown = true
