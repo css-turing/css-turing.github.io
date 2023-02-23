@@ -44,9 +44,9 @@ body = '''
 
 <br/><br/>
 
-| {{< figure src="/images/oag.jpg" width="200px" >}} | {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/tmvu.jpeg" width="200px" >}} | 
+| {{< figure src="/images/oag.jpg" width="200px" >}} | {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/krf.png" width="200px" >}} |  {{< figure src="/images/tmvu.jpeg" width="200px" >}} | 
 |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  | 
-| [Omar A. Guerrero](../people/person1) | [Daniele Guariso](../people/person1) | [Hardik Rajpal](../people/person1) | [Kathyrn R. Fair](../people/person1) | [Tuong Vu](../people/tmvu) | 
+| [Omar A. Guerrero](../people/person1) | [Daniele Guariso](../people/person1) | [Hardik Rajpal](../people/person1) | [Kathyrn R. Fair](../people/krf) | [Tuong Vu](../people/tmvu) | 
 | {{< figure src="/images/aperson.jpg" width="200px" >}} | {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} | 
 | [Leonardo Castro Gonzalez](../people/person1) | [Alejandro Beltran](../people/person1) | [Zach Kessler](../people/person1) | [David Meine](../people/person1) | [Santiago Musalem Pinto](../people/person1) |
 '''
@@ -85,11 +85,28 @@ body = '''
 Short project description 
 '''
 
+[[params.two.section]]
+img = "/images/proj1.jpg"
+#title = ''
+body = '''
+## [Labour flow network modelling](../projects/labour_flow_network_abm)
+Short project description 
+'''
+
+[[params.two.section]]
+img = "/images/proj1.jpg"
+#title = ''
+body = '''
+## [Firm ownership network analysis](../projects/firm_network_analysis)
+Short project description 
+'''
+
 [params.three]
 enable = true
 title = 'Publications'
 body = '''
 * [Quantifying the Technological Foundations of Economic Complexity (2023)](https://arxiv.org/abs/2301.04579)
+* [Emerging Labour Flow Networks (2023)](https://arxiv.org/abs/2301.07979)
 '''
 
 #[[params.three.feature]]
