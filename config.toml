@@ -1,6 +1,6 @@
 baseURL = 'http://policymodellingati.org/'
 languageCode = 'en-us'
-title = 'Modelling for Policy Theme @ The Alan Turing Institute'
+title = 'Computational Social Science Research @ The Alan Turing Institute'
 defaultContentLanguage = "en"
 paginate = "7"
 theme = "spectral"

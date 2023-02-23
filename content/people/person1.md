@@ -14,12 +14,6 @@ stufffffff
 * [Project 1]({{< ref "/projects/project1" >}})
 * [Project 1]({{< ref "/projects/project1" >}}) 
 
-or 
- 
-| {{< figure src="/images/aproject.jpg" width="100px" >}} | {{< figure src="/images/aproject.jpg" width="100px" >}} |  {{< figure src="/images/aproject.jpg" width="100px" >}} |  
-|  :---:  |  :---:  |  :---:  | 
-| [Project 1]({{< ref "/projects/project1" >}}) | [Project 1]({{< ref "/projects/project1" >}})| [Project 1]({{< ref "/projects/project1" >}}) |
-
 ## Publications
 
 * [Quantifying the Technological Foundations of Economic Complexity (2023)](https://arxiv.org/abs/2301.04579)

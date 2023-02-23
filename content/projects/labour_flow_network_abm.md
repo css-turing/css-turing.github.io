@@ -1,5 +1,5 @@
 ---
-title: "A project"
+title: "Modelling Labour Flow Networks"
 draft: false
 ---
 
@@ -11,14 +11,13 @@ stuff
 
 ## People
 
-[Person 1]({{< ref "/people/person1" >}}) 
+* [Kathyrn R. Fair]({{< ref "/people/krf" >}}) 
+* [Omar A. Guerrero]({{< ref "/people/person1" >}}) 
 
 ## Publications
 
-[Emerging labour flow networks (2023)](https://arxiv.org/abs/2301.07979)
+* [Emerging labour flow networks (2023)](https://arxiv.org/abs/2301.07979)
 
 ## Resources
-
-link to any code or external websites etc
 
 [Project code](https://github.com/alan-turing-institute/UK-LabourFlowNetwork-Model)
