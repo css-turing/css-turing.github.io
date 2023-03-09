@@ -18,7 +18,7 @@ This model can be leveraged to explore scenarios related to the future of work, 
 
 ## Publications
 
-* [Emerging labour flow networks (2023)](https://arxiv.org/abs/2301.07979)
+* Fair, K. R., & Guerrero, O. A. (2023). Emerging Labour Flow Networks. *arXiv preprint arXiv:2301.07979*. [Paper](https://arxiv.org/abs/2301.07979)
 
 ## Resources
 
