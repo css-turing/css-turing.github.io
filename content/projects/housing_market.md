@@ -1,5 +1,5 @@
 ---
-title: "Holistic Housing and Rental Market Simulations"
+title: "Housing Market Dynamics"
 draft: false
 ---
 

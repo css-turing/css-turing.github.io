@@ -7,9 +7,9 @@ theme = "spectral"
 
 [params]
 # fancyTitle = '<img height="128" src="/images/screenshot.png" alt="Policy Modelling Theme"/>' # title for frontpage, may include image
-fancyTitle = 'Computational Social Science Theme' # title for frontpage, may include image
+fancyTitle = 'Computational Social Science Group' # title for frontpage, may include image
 copyright = "CSS Theme @ The Alan Turing Institute"
-description = 'A research group at <a href="https://www.turing.ac.uk/">The Alan Turing Institute</a>'
+description = 'A research collective at <a href="https://www.turing.ac.uk/" target="_blank">The Alan Turing Institute</a>'
 #specialised in the development and application of computational methods and complexity-science approaches in economics and other social sciences. We work #closely with governments and international organisations to bring our research to relevant stakeholders and generate real-world impact. If you are #interested in engaging or collaborating with us feel free to contact any member of our team.'
 
 # startbuttonText = "Go somewhere"
@@ -26,41 +26,53 @@ body_is_markdown = true
 # url = '/people/'
 # title = "People"
 
+
+
 [[params.menu.main]]
-url = '/projects/age_structure'
-title = "Emerging age structures for ABMs"
+url = '/projects/firms_fringe'
+title = "Detecting Firms' Fringe Behaviour"
 
 [[params.menu.main]]
 url = '/projects/endogenous_production_network'
-title = "Endogenous Production Network"
+title = "Endogenous Production Networks"
 
 [[params.menu.main]]
-url = '/projects/firm_network_analysis'
-title = "Firm Network Analysis"
+url = '/projects/gov_media'
+title = "Government & Media Behaviour"
 
 [[params.menu.main]]
 url = '/projects/housing_market'
-title = "Holistic Housing and Rental Market Simulations"
+title = "Housing Market Dynamics"
 
 [[params.menu.main]]
-url = '/projects/labour_flow_network_abm'
-title = "Modelling Labour Flow Networks"
+url = '/projects/labour_flow_networks'
+title = "Labour Flow Networks"
 
 [[params.menu.main]]
-url = '/projects/ml_technological_landscape'
-title = "Machine Learning to Quantify the Global Technological Landscape"
+url = 'http://policypriority.org'
+title = "Policy Priority Inference"
 
 [[params.menu.main]]
-url = '/projects/skill_sorting'
-title = "Sorting based Skill and Productivity Estimation"
+url = '/projects/tech_sophistication'
+title = "Quantifying Technological Sophistication"
 
 [[params.menu.main]]
 url = '/projects/skills_complexity'
-title = "Skills complexity"
+title = "Skill Interaction and Complexity"
 
 [[params.menu.main]]
-url = '/publications/'
-title = "Publications"
+url = '/projects/tech_sophistication'
+title = "Skill Sorting and Productivity"
+
+[[params.menu.main]]
+url = '/projects/various'
+title = "Various Projects"
+
+
+
+#[[params.menu.main]]
+#url = '/publications/'
+#title = "Publications"
 
 [taxonomies]
     tag = "tags"
@@ -69,85 +81,33 @@ title = "Publications"
 
 [params.one]
 enable = true
-title = 'Meet the team'
+title = 'Researchers'
 body = '''
 
 <br/><br/>
 
 | {{< figure src="/images/oag.jpg" width="200px" >}} | {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/krf.png" width="200px" >}} |  {{< figure src="/images/tmvu.jpeg" width="200px" >}} | 
 |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  | 
-| [Omar A. Guerrero](../people/person1) | [Daniele Guariso](../people/person1) | [Hardik Rajpal](../people/person1) | [Kathyrn R. Fair](../people/krf) | [Tuong Vu](../people/tmvu) | 
-| {{< figure src="/images/aperson.jpg" width="200px" >}} | {{< figure src="/images/ab.jpg" width="200px" >}} |  {{< figure src="/images/zbk.jpeg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} | 
-| [Leonardo Castro Gonzalez](../people/person1) | [Alejandro Beltran](../people/ab) | [Zachary B. Kessler](../people/zbk) | [David Meine](../people/person1) | [Santiago Musalem Pinto](../people/person1) |
+| [Omar A. Guerrero (Group Head)](../people/oag) | [Daniele Guariso](../people/person1) | [Hardik Rajpal](../people/person1) | [Kathyrn R. Fair](../people/krf) | [Tuong Vu](../people/tmvu) | 
+| {{< figure src="/images/aperson.jpg" width="200px" >}} | {{< figure src="/images/ab.jpg" width="200px" >}} |  {{< figure src="/images/zbk.jpeg" width="200px" >}}| 
+| [Leonardo Castro Gonzalez](../people/person1) | [Alejandro Beltran](../people/ab) | [Zachary B. Kessler](../people/zbk)|
 '''
 
-#[[params.one.icon]]
-#icon = "fa-diamond"
-#style = "1"
-#label = "Lorem"
 
-#[[params.one.icon]]
-#icon = "fa-heart-o"
-#style = "2"
-#label = "Ipsum"
 
-#[[params.one.icon]]
-#icon = "fa-code"
-#style = "3"
-#label = "Dolor"
-
-[params.two]
+[params.oneb]
 enable = true
-
-[[params.two.section]]
-img = "/images/proj1.jpg"
-#title = ''
+title = 'Research Assistants'
 body = '''
-## [Policy Priority Inference](../projects/project1)
-Short project description 
+
+<br/><br/>
+
+| {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} | 
+|  :---:  |  :---:  | 
+| [David Meine](../people/person1) | [Santiago Musalem Pinto](../people/person1) |
 '''
 
-[[params.two.section]]
-img = "/images/proj1.jpg"
-#title = ''
-body = '''
-## [Housing markets](../projects/project1)
-Short project description 
-'''
 
-[[params.two.section]]
-img = "/images/lfn.png"
-#title = ''
-body = '''
-## [Labour flow network modelling](../projects/labour_flow_network_abm)
-Modelling the movement of individuals between jobs in the labour market.
-'''
-
-[[params.two.section]]
-img = "/images/proj1.jpg"
-#title = ''
-body = '''
-## [Firm ownership network analysis](../projects/firm_network_analysis)
-Short project description 
-'''
-
-#[params.three]
-#enable = true
-#title = 'Publications'
-#body = '''
-#* [Quantifying the Technological Foundations of Economic Complexity (2023)](https://arxiv.org/abs/2301.04579)
-#* [Emerging Labour Flow Networks (2023)](https://arxiv.org/abs/2301.07979)
-#'''
-
-#[[params.three.feature]]
-#icon = "fa-paper-plane-o"
-#title = "Arcu accumsan"
-#body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-#[params.cta]
-#enable = true
-#title = "Arcue ut vel commodo"
-#body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
 
 [[params.cta.link]]
 #href = "#"
@@ -158,14 +118,14 @@ Short project description
 #enable = true
 #title = "Contact"
 #body = "Leave us a message."
-address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
+#address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
 ##phone = "+49 (0) 030 000 000"
 #email = "nospam@example.com"
 #subject = "New Submission!"
 #formspree_form_id = "example_invalid"
 
-[params.social]
-twitter = ""
-facebook = ""
-instagram = ""
-dribble = ""
+#[params.social]
+#twitter = ""
+#facebook = ""
+#instagram = ""
+#dribble = ""

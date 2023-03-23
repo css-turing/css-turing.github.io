@@ -14,7 +14,7 @@ My research interests are agent-based modelling and simulation, complex systems,
 ## Projects
 
 * [Endogenous Production Network]({{< ref "/projects/endogenous_production_network" >}})
-* [Machine Learning to Quantify the Global Technological Landscape]({{< ref "/projects/ml_technological_landscape" >}}) 
+* [Machine Learning to Quantify the Global Technological Landscape]({{< ref "/projects/tech_sophistication" >}}) 
 
 ## Publications
 

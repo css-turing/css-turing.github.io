@@ -1,9 +1,41 @@
 images: 
-  - image: /uploads/slider/image1.jpg
-    content_html: "1"
-  - image: /uploads/slider/image2.jpg
-    content_html: "2"
-  - image: /uploads/slider/image3.jpg
-    content_html: "3"
-  - image: /uploads/slider/image4.jpg
-    content_html: "4"
+
+  - image: /images/projects/tax.jpg
+    content_html: "Detecting Firms' Fringe Behaviour"
+    link: /projects/firms_fringe
+
+  - image: /images/projects/supply.jpg
+    content_html: "Endogenous Production Networks"
+    link: /projects/endogenous_production_network
+
+  - image: /images/projects/media.jpg
+    content_html: "Government & Media Behaviour"
+    link: /projects/gov_media
+
+  - image: /images/projects/housing.jpg
+    content_html: "Housing Market Dynamics"
+    link: /projects/housing_market
+
+  - image: /images/projects/lfns.jpg
+    content_html: "Labour Flow Networks"
+    link: /projects/labour_flow_networks
+
+  - image: /images/projects/ppi.jpg
+    content_html: "Policy Priority Inference"
+    link: http://policypriority.org
+
+  - image: /images/projects/synergy.jpg
+    content_html: "Quantifying Technological Sophistication"
+    link: /projects/tech_sophistication
+
+  - image: /images/projects/skill_complexity.jpg
+    content_html: "Skill Interaction and Complexity"
+    link: /projects/skills_complexity
+
+  - image: /images/projects/skills.jpg
+    content_html: "Skill Sorting and Productivity"
+    link: /projects/tech_sophistication
+
+  - image: /images/projects/various.jpg
+    content_html: "Various Projects"
+    link: /projects/various
