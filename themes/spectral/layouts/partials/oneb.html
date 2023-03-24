@@ -2,10 +2,10 @@
 
 {{ with .Site.Params.oneb }}
 {{ if .enable }}
-	<section id="oneb" class="wrapper style1 special">
+	<section id="oneb" class="wrapper style1 special" style="background-color: rgb(208, 210, 211);">
 		<div class="inner">
 			<header class="major">
-        <h2>{{ .title | safeHTML}}</h2>
+        <h2 style="color:black;">{{ .title | safeHTML}}</h2>
 
         {{ partial "body_text.html" (dict "context" . "md" $md) }}
 			</header>
