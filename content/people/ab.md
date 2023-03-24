@@ -11,7 +11,7 @@ Alejandro Beltran is a postdoctoral research associate within the public policy 
 
 ## Projects
 
-* [Firm ownership network analysis]({{< ref "/projects/firm_network_analysis" >}}) 
+* [Firm ownership network analysis]({{< ref "/projects/firms_fringe" >}}) 
 
 
 ## Publications and Working Papers
