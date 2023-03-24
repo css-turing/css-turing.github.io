@@ -3,7 +3,7 @@ title: "Omar A. Guerrero"
 draft: false
 ---
 
-{{< figure src="/images/oag.jpg" width="200px" >}}
+{{< figure src="/images/people/oag.jpg" width="200px" >}}
 
 ## About me
 

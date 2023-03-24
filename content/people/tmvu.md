@@ -3,7 +3,7 @@ title: "Tuong M. Vu"
 draft: false
 ---
 
-{{< figure src="/images/tmvu.jpeg" width="200px" >}}
+{{< figure src="/images/people/tmvu.jpeg" width="200px" >}}
 
 ## About me
 

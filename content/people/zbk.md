@@ -3,7 +3,7 @@ title: "Zachary B. Kessler"
 draft: false
 ---
 
-{{< figure src="/images/zbk.jpeg" width="200px" >}}
+{{< figure src="/images/people/zbk.jpeg" width="200px" >}}
 
 ## About me
 
