@@ -1,24 +1,23 @@
 ---
-title: "A project"
+title: "Detecting Firms' Fringe Behaviour"
 draft: false
 ---
 
-{{< figure src="/images/aproject.jpg" width="100px" >}}
+{{< figure src="/images/projects/tax.jpg" width="500px" >}}
 
 ## Project description
 
-stuff
+We construct networks of firm ownership, and use machine learning techniques to identify firms that may be engaged in suspicious behavior.
 
 ## People
 
-[Person 1]({{< ref "/people/person1" >}}) 
+* [Alejandro Beltran]({{< ref "/people/ab" >}}) 
+* [Kathyrn R. Fair]({{< ref "/people/krf" >}}) 
 
 ## Publications
 
-[Emerging labour flow networks (2023)](https://arxiv.org/abs/2301.07979)
+Pre-print (forthcoming)
 
 ## Resources
 
-link to any code or external websites etc
-
-[Project code](https://github.com/alan-turing-institute/UK-LabourFlowNetwork-Model)
+Online repository (forthcoming)

@@ -3,11 +3,12 @@ title: "Emerging age structures for ABMs"
 draft: false
 ---
 
-{{< figure src="/images/agedist_Egypt_model_website.png" width="500px" >}}
+{{< figure src="/images/projects/age.jpg" width="1000px" >}}
 
 ## Project description
 
-We develop a method for emerging realistic age structures within agent populations for use with agent-based models (ABMs), even in the case where the full life-cycle of the agents is not being modelled.
+Applications of agent-based models (ABMs) frequently incorporate the feature that an agent's age impacts their decision-making (e.g. as regards risk aversion) and outcomes (e.g. succeptibility to disease). Thus, it is important that the ABM also accurately captures the age distribution of the population being modelled. However, it is often difficult to generate realistic age distributions using empirical surivival probabiltiies, due to mis-matches between samples (e.g. in the case where the modelled population is a age-restricted subset of the observed population) or between models.
+We develop a method for emerging realistic age structures within agent populations for use with ABMs, even in the case where the full life-cycle of the agents is not being modelled.
 
 This method can be incorporated into ABMs across a broad range of applications, including economics and epidemeology.
 

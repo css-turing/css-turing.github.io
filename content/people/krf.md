@@ -3,7 +3,7 @@ title: "Kathyrn R. Fair"
 draft: false
 ---
 
-{{< figure src="/images/krf.png" width="200px" >}}
+{{< figure src="/images/people/krf.png" width="200px" >}}
 
 ## About me
 
@@ -13,9 +13,9 @@ Her current work focuses on labour market dynamics and aims to move beyond class
 
 ## Projects
 
-* [Labour flow network modelling]({{< ref "/projects/labour_flow_networks" >}})
-* [Firm ownership network analysis]({{< ref "/projects/firm_network_analysis" >}}) 
-* [Skills complexity]({{< ref "/projects/skills_complexity" >}}) 
+* [Labour flow networks]({{< ref "/projects/labour_flow_networks" >}})
+* [Detecting Firms' Fringe Behaviour]({{< ref "/projects/firms_fringe" >}}) 
+* [Skill Interaction and Complexity]({{< ref "/projects/skills_complexity" >}}) 
 * [Emerging age structure for ABMs]({{< ref "/projects/various" >}})
 
 ## Publications

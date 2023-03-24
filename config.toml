@@ -86,11 +86,11 @@ body = '''
 
 <br/><br/>
 
-| {{< figure src="/images/people/oag.jpg" width="200px" >}} | {{< figure src="/images/people/aperson.jpg" width="200px" >}} |  {{< figure src="/images/people/aperson.jpg" width="200px" >}} |  {{< figure src="/images/people/krf.png" width="200px" >}} |  {{< figure src="/images/people/tmvu.jpeg" width="200px" >}} | 
-|  :---:  |  :---:  |  :---:  |  :---:  |  :---:  | 
-| [Omar A. Guerrero (Group Head)](../people/oag) | [Daniele Guariso](../people/person1) | [Hardik Rajpal](../people/person1) | [Kathyrn R. Fair](../people/krf) | [Tuong Vu](../people/tmvu) | 
-| {{< figure src="/images/people/aperson.jpg" width="200px" >}} | {{< figure src="/images/people/ab.jpg" width="200px" >}} |  {{< figure src="/images/people/zbk.jpeg" width="200px" >}}| 
-| [Leonardo Castro Gonzalez](../people/person1) | [Alejandro Beltran](../people/ab) | [Zachary B. Kessler](../people/zbk)|
+| {{< figure src="/images/people/oag.jpg" width="250px" >}} | {{< figure src="/images/people/aperson.jpg" width="250px" >}} |  {{< figure src="/images/people/aperson.jpg" width="250px" >}} |  {{< figure src="/images/people/krf.png" width="250px" >}} |
+|  :---:  |  :---:  |  :---:  |  :---:  |  
+| [Omar A. Guerrero (Group Head)](../people/oag) | [Daniele Guariso](../people/person1) | [Hardik Rajpal](../people/person1) | [Kathyrn R. Fair](../people/krf) | 
+|   {{< figure src="/images/people/tmvu.jpeg" width="250px" >}} | {{< figure src="/images/people/aperson.jpg" width="250px" >}} | {{< figure src="/images/people/ab.jpg" width="250px" >}} |  {{< figure src="/images/people/zbk.jpeg" width="250px" >}}| 
+| [Tuong Vu](../people/tmvu) |  [Leonardo Castro Gonzalez](../people/person1) | [Alejandro Beltran](../people/ab) | [Zachary B. Kessler](../people/zbk)|
 '''
 
 
@@ -102,7 +102,7 @@ body = '''
 
 <br/><br/>
 
-| {{< figure src="/images/aperson.jpg" width="200px" >}} |  {{< figure src="/images/aperson.jpg" width="200px" >}} | 
+| {{< figure src="/images/aperson.jpg" width="250px" >}} |  {{< figure src="/images/aperson.jpg" width="250px" >}} | 
 |  :---:  |  :---:  | 
 | [David Meine](../people/person1) | [Santiago Musalem Pinto](../people/person1) |
 '''
