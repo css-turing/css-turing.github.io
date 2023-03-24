@@ -15,7 +15,7 @@ draft: false
 ## Contact me
 
 oguerrero@turing.ac.uk   
-[Personal Website](https://oguerr.com/)  
-[Twitter](https://twitter.com/guerrero_oa)
-[Mastodon](https://econtwitter.net/@omarguerrero)
-[LinkedIn](https://www.linkedin.com/in/oguerr/)
+[Personal website](https://oguerr.com/)   
+[Twitter](https://twitter.com/guerrero_oa)   
+[Mastodon](https://econtwitter.net/@omarguerrero)   
+[LinkedIn](https://www.linkedin.com/in/oguerr/) 
