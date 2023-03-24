@@ -88,7 +88,7 @@ body = '''
 
 | {{< figure src="/images/people/oag.jpg" width="200px" >}} | {{< figure src="/images/people/aperson.jpg" width="200px" >}} |  {{< figure src="/images/people/aperson.jpg" width="200px" >}} |  {{< figure src="/images/people/krf.png" width="200px" >}} |  {{< figure src="/images/people/tmvu.jpeg" width="200px" >}} | 
 |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  | 
-| Omar A. Guerrero (Group Head)](../people/oag) | [Daniele Guariso](../people/person1) | [Hardik Rajpal](../people/person1) | [Kathyrn R. Fair](../people/krf) | [Tuong Vu](../people/tmvu) | 
+| [Omar A. Guerrero (Group Head)](../people/oag) | [Daniele Guariso](../people/person1) | [Hardik Rajpal](../people/person1) | [Kathyrn R. Fair](../people/krf) | [Tuong Vu](../people/tmvu) | 
 | {{< figure src="/images/people/aperson.jpg" width="200px" >}} | {{< figure src="/images/people/ab.jpg" width="200px" >}} |  {{< figure src="/images/people/zbk.jpeg" width="200px" >}}| 
 | [Leonardo Castro Gonzalez](../people/person1) | [Alejandro Beltran](../people/ab) | [Zachary B. Kessler](../people/zbk)|
 '''
