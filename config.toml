@@ -1,4 +1,4 @@
-baseURL = 'http://cssati.org/'
+baseURL = 'http://turingcss.org/'
 languageCode = 'en-us'
 title = 'CSS Group @ The Alan Turing Institute'
 defaultContentLanguage = "en"
