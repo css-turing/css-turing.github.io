@@ -3438,7 +3438,7 @@ input, select, textarea {
 					}
 
 		#menu .close {
-			background-image: url("images/close.svg");
+			background-image: url("images/close_black.svg");
 			background-position: 4.85em 1em;
 			background-repeat: no-repeat;
 			border: 0;
@@ -3633,9 +3633,10 @@ input, select, textarea {
 			display: inline-block;
 			font-size: 1.75em;
 			opacity: 1;
-			padding: 0.35em 1em;
+			padding: 0.20em 1em;
 			position: relative;
 			z-index: 1;
+			text-transform: uppercase;
 		}
 
 			#banner h2:before, #banner h2:after {
@@ -3665,9 +3666,9 @@ input, select, textarea {
 				right: 0;
 			}
 
-		#banner p {
-			letter-spacing: 0.225em;
-		}
+			#banner p {
+				letter-spacing: 0.10em;
+			}
 
 			#banner p a {
 				color: inherit;
