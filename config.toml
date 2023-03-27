@@ -27,7 +27,6 @@ body_is_markdown = true
 # title = "People"
 
 
-
 [[params.menu.main]]
 url = '/projects/firms_fringe'
 title = "Detecting Firms' Fringe Behaviour"
