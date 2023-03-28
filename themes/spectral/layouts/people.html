@@ -1,0 +1,22 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+  <header class="header">
+      <!-- Page Header Content -->
+  </header>
+  <div class="container">
+    <!-- Main Content -->
+    <div class="row">
+      {{- range $i, $content := $.Site.Data.references -}}
+        {{- $counter :=add $i 1 -}}
+        <div class="col-md-4">
+          <div class="refcard text-center">
+            <img class="img-center" src="/img/klg/{{ $content.personPhoto }}" alt="{{ $content.personName }}" title="{{ $content.personName }}">
+            <h5>{{ $content.personName }}</h5>
+          </div>
+        </div>
+        {{- if modBool $counter 3 -}}<div class="clearfix"></div>{{ end }}
+      {{ end }}
+    </div>
+  </div>
+{{ partial "contact.html" . }}
+{{ partial "footer.html" . }}

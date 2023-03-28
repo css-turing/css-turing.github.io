@@ -1,0 +1,12 @@
+<div class="row">
+  <div class="col text-center">
+    <h2>Researchers</h2>
+  </div>
+</div>
+<div class="row">
+  {{- range $i, $content := $.Site.Data.people | shuffle | first 5 -}}
+    <div class="col">
+      <img class="customer-img" src="/images/people/{{ $content.personPhoto }}" alt="{{ $content.personName }}" title="{{ $content.personName }}">
+    </div>
+  {{ end }}
+</div>
