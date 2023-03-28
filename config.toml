@@ -29,7 +29,7 @@ body_is_markdown = true
 
 [[params.menu.main]]
 url = '/projects/firms_fringe'
-title = "Detecting Firms' Fringe Behaviour"
+title = "Detecting Fringe Behaviour in Companies"
 
 [[params.menu.main]]
 url = '/projects/endogenous_production_network'

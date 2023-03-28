@@ -7,8 +7,10 @@ draft: false
 
 ## Project description
 
-We use natural language processing to understand how the media influences policymaking and how policymakers influence the media. 
-The project identifies punctuations in government spending that respond to increased media attention, as well as the growing role of government advertisements in the editorial decisions of newspapers.
+The relationship between government and media is often intricate, complicated, and highly dependent on institutional context.
+Emerging large-scale data such as news content and open government spending datasets provides us with new information to understand this relationship.
+In this project, we combine this type of information with machine learning and econometrics to disentangle the various nuances of how the media influences policymaking and how policymakers influence the media. 
+The project identifies generates novel evidence that sheds new light on this problem, and that can be used to design better regulatory frameworks when aiming to safeguard democracy.
 
 
 ## People

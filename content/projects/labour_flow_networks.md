@@ -4,21 +4,31 @@ draft: false
 ---
 {{< figure src="/images/projects/lfns.jpg" width="500px" >}}
 
+
+
 ## Project description
 
-We develop agent-computing models describing the movement of individuals within the labour market that emerges realistic patterns of job-to-job transitions. Taken collectively, these job-to-job transitions constitute a labour flown network (LFN) where nodes contain pools of jobs with shared characteristics (e.g. they are within the same industry, geographical region, etc.) and edges between nodes represent job-to-job movements.
 
-These models can be leveraged to explore scenarios related to the future of work, including the transition to net zero and the increased useage of AI and automation within certain jobs.
+We develop models explaining the movement of individuals within the labour market.
+Our models are highly granular and can exploit micro-data of different types (e.g., labour force surveys & administrative records) to emerge detailed large-scale patterns of job-to-job transitions from agent-level behaviour.
+Taken collectively, these job-to-job transitions constitute a labour flown network (LFN) where nodes contain pools of jobs with shared characteristics (e.g. they are within the same industry, geographical region, etc.) and edges between nodes represent job-to-job movements.
+These models can be leveraged to explore scenarios related to the future of work, including the transition to net zero and the increased usage of AI and automation within certain jobs.
+
+
 
 ## People
 
 * [Kathyrn R. Fair]({{< ref "/people/krf" >}}) 
-* [Omar A. Guerrero]({{< ref "/people/oag" >}}) 
 * [David Meine]({{< ref "/people/person1" >}}) 
+* [Omar A. Guerrero]({{< ref "/people/oag" >}}) 
+
+
 
 ## Publications
 
 * Fair, K. R., & Guerrero, O. A. (2023). Emerging Labour Flow Networks. *arXiv preprint arXiv:2301.07979*. [Paper](https://arxiv.org/abs/2301.07979)
+
+
 
 ## Resources
 
