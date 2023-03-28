@@ -1,9 +1,9 @@
 ---
-title: "Government and the Media"
+title: "Government and Media Behaviour"
 draft: false
 ---
 
-{{< figure src="/images/newspapers.jpg" width="100px" >}}
+{{< figure src="/images/projects/media.jpg" width="500px" >}}
 
 ## Project description
 
@@ -12,7 +12,7 @@ The project identifies punctuations in government spending that respond to incre
 
 
 ## People
-* [Daniele Guariso]({{< ref "/people/dg" >}}) 
+* [Daniele Guariso]({{< ref "/people/person1" >}}) 
 * [Alejandro Beltran]({{< ref "/people/ab" >}}) 
 * [Omar A. Guerrero]({{< ref "/people/oag" >}}) 
 
