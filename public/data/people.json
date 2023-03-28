@@ -1,0 +1,28 @@
+[
+  {
+    "personName": "Omar A. Guerrero (Group Head)",
+    "personPhoto": "images/people/oag.jpg",
+    "personLink": "../people/oag"
+  },
+  {
+    "personName": "Kathyrn R. Fair",
+    "personPhoto": "images/people/krf.png",
+    "personLink": "../people/krf"
+  },
+  {
+    "personName": "Tuong Vu",
+    "personPhoto": "images/people/tmvu.jpeg",
+    "personLink": "../people/tmvu"
+  },
+  {
+    "personName": "Alejandro Beltrán",
+    "personPhoto": "images/people/ab.jpeg",
+    "personLink": "../people/ab"
+  },
+  {
+    "personName": "Zachary B. Kessler",
+    "personPhoto": "images/people/zbk.jpeg",
+    "personLink": "../people/zbk"
+  },
+
+]

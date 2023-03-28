@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on CSS Group @ The Alan Turing Institute</title>
+    <link>http://turingcss.org/people/</link>
+    <description>Recent content in People on CSS Group @ The Alan Turing Institute</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://turingcss.org/people/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://turingcss.org/people/ab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/people/ab/</guid>
+      <description>is a&amp;mdash; title: &amp;ldquo;Alejandro Beltran&amp;rdquo; draft: false About me Alejandro Beltran is a postdoctoral research associate within the public policy programme. He received his PhD from the University of Arizona where in his dissertation he identified the institutional and political determinants of corruption investigations in subnational audit agencies of Mexico. As a computational social scientist, he uses machine learning and natural language processing to generate quantitative measures of often unmeasurable phenomena from text in Spanish.</description>
+    </item>
+    
+    <item>
+      <title>A person</title>
+      <link>http://turingcss.org/people/person1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/people/person1/</guid>
+      <description>About me stufffffff
+Projects Project 1 Project 1 Publications Quantifying the Technological Foundations of Economic Complexity (2023) Contact me zkessler@turing.ac.uk
+Personal Website
+Twitter</description>
+    </item>
+    
+    <item>
+      <title>Kathyrn R. Fair</title>
+      <link>http://turingcss.org/people/krf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/people/krf/</guid>
+      <description>About me Kathyrn R. Fair is a postdoctoral research associate with the computational social science group in the public policy programme, working on the Shocks and Resilience project. Prior to this, she was a postdoctoral research fellow in the School of Environmental Sciences at the University of Guelph. Kathyrn holds a PhD in Applied Mathematics from the University of Waterloo.
+Her current work focuses on labour market dynamics and aims to move beyond classical economic models and methodologies to improve our understanding of how shocks to the economy impact labour mobility.</description>
+    </item>
+    
+    <item>
+      <title>Omar A. Guerrero</title>
+      <link>http://turingcss.org/people/oag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/people/oag/</guid>
+      <description>About me I am the Head of Computational Social Science Research of The Alan Turing Institute. I also have the privilege of leading this group of talented the CSS scholars at the Turing. I am an economist with a PhD in Computational Social Science (CSS) from George Mason University. Previously, I worked at the Department of Economics of University College London and, before that, at Oxford University, in the Saïd Business School and in the Institute for New Economic Thinking.</description>
+    </item>
+    
+    <item>
+      <title>Tuong M. Vu</title>
+      <link>http://turingcss.org/people/tmvu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/people/tmvu/</guid>
+      <description>About me I received PhD in Computer Science from the University of Nottingham. My PhD is about Agent-Based Modelling and Simulation of Public Goods Game. In 2017, I joined the University of Sheffield under the CASCADE project (Calibrated Agent Simulations for Combined Analysis of Drinking Etiologies) to develop agent-based models of alcohol use which draw on existing social theories for why people drink. I also applied genetic programming, an evolutionary algorithm, to seek novel combinations of these theories in order to better explain the societal changes in alcohol use.</description>
+    </item>
+    
+    <item>
+      <title>Zachary B. Kessler</title>
+      <link>http://turingcss.org/people/zbk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/people/zbk/</guid>
+      <description>About me I completed my Ph.D. in Economics from George Mason University in the spring of 2022. Broadly, my work has focused on the pairing of compuational and statistical tools to better understand a host of macro and micro economic phenomena, with specific interest on areas involving productivity growth, housing access, and instituional change.
+Projects Skill-based Sorting Simulation Holistic Housing Market Modeling Publications and Working Papers Contact me zkessler@turing.ac.uk</description>
+    </item>
+    
+  </channel>
+</rss>

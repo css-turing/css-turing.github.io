@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on CSS Group @ The Alan Turing Institute</title>
+    <link>http://turingcss.org/projects/</link>
+    <description>Recent content in Projects on CSS Group @ The Alan Turing Institute</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://turingcss.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A project</title>
+      <link>http://turingcss.org/projects/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/projects/project1/</guid>
+      <description>Project description stuff
+People Person 1
+Publications Emerging labour flow networks (2023)
+Resources link to any code or external websites etc
+Project code</description>
+    </item>
+    
+    <item>
+      <title>Detecting Firms&#39; Fringe Behaviour</title>
+      <link>http://turingcss.org/projects/firms_fringe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/projects/firms_fringe/</guid>
+      <description>Project description We use network analysis and machine learning to trace and identify clusters of companies that specialize in fringe behaviour. Trends in firm ownership are used to identify mechanisms for obscuring the beneficial owner of companies. The project may provide policymakers with guidance on how company ownership evolves over time as clusters that specialize in fringe behaviour learn and adapt to government enforcement mechanisms.
+People Alejandro Beltran Kathyrn R.</description>
+    </item>
+    
+    <item>
+      <title>Emerging age structures for ABMs</title>
+      <link>http://turingcss.org/projects/various/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/projects/various/</guid>
+      <description>Project description Applications of agent-based models (ABMs) frequently incorporate the feature that an agent&amp;rsquo;s age impacts their decision-making (e.g. as regards risk aversion) and outcomes (e.g. succeptibility to disease). Thus, it is important that the ABM also accurately captures the age distribution of the population being modelled. However, it is often difficult to generate realistic age distributions using empirical surivival probabiltiies, due to mis-matches between samples (e.g. in the case where the modelled population is a age-restricted subset of the observed population) or between models.</description>
+    </item>
+    
+    <item>
+      <title>Endogenous Production Network</title>
+      <link>http://turingcss.org/projects/endogenous_production_network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/projects/endogenous_production_network/</guid>
+      <description>Project description Recently, economists have developed models that aim at generating stylized input-output network structures endogenously. Such models are useful to understand&amp;mdash;from a rational equilibrium point of view&amp;mdash;how heterogeneous levels productivity across firms or industries drive stylized features of input-output networks, such as their degree distribution. In this project, we develop a computational model that emerges the nuanced topology of production networks, without the stringent assumptions of equilibrium frameworks. Instead of assuming rational firms with perfect information about their technology (production function), the market demand, and the other firms, we adopt a directed learning approach through which firms find the prices and quantities that maximize their profits.</description>
+    </item>
+    
+    <item>
+      <title>Government and the Media</title>
+      <link>http://turingcss.org/projects/gov_media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/projects/gov_media/</guid>
+      <description>Project description We use natural language processing to understand how the media influences policymaking and how policymakers influence the media. The project identifies punctuations in government spending that respond to increased media attention, as well as the growing role of government advertisements in the editorial decisions of newspapers.
+People Daniele Guariso Alejandro Beltran Omar A. Guerrero Publications Pre-print (forthcoming)
+Resources Pre-print (forthcoming)</description>
+    </item>
+    
+    <item>
+      <title>Housing Market Dynamics</title>
+      <link>http://turingcss.org/projects/housing_market/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/projects/housing_market/</guid>
+      <description>Project description Using data on all homes in the United Kingdom, we develop a model which simultaneously recreates both housing prices and rent. Representing one of the first such models to successfully complete such a task, we use this model conduct several policy experiments.
+People Zachary B. Kessler Omar A. Guerrero Stephen Law Resources Online repository (upcoming)</description>
+    </item>
+    
+    <item>
+      <title>Labour Flow Networks</title>
+      <link>http://turingcss.org/projects/labour_flow_networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/projects/labour_flow_networks/</guid>
+      <description>Project description We develop agent-computing models describing the movement of individuals within the labour market that emerges realistic patterns of job-to-job transitions. Taken collectively, these job-to-job transitions constitute a labour flown network (LFN) where nodes contain pools of jobs with shared characteristics (e.g. they are within the same industry, geographical region, etc.) and edges between nodes represent job-to-job movements.
+These models can be leveraged to explore scenarios related to the future of work, including the transition to net zero and the increased useage of AI and automation within certain jobs.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning to Quantify the Global Technological Landscape</title>
+      <link>http://turingcss.org/projects/tech_sophistication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/projects/tech_sophistication/</guid>
+      <description>Project description We use Gaussian Process Regression, a supervised learning approach, to quantify the global technological landscape.
+People Tuong M. Vu Hardik Rajpal Omar A. Guerrero Resources Online repository (upcoming)</description>
+    </item>
+    
+    <item>
+      <title>Skill Interaction and Complexity</title>
+      <link>http://turingcss.org/projects/skills_complexity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/projects/skills_complexity/</guid>
+      <description>Project description An understanding of the ways skills interact with each other to influence career trajectories of individuals, and the productivity of occupations is key to developing labour market policies (e.g. upskilling programs). Leveraging rich microdata covering multiple countries and novel techniques developed within the computational social science group, this project explores how workplace skills interact with each other to impact outcomes at the micro- and macro-level, as well as their evolution through the labour market.</description>
+    </item>
+    
+    <item>
+      <title>Sorting based Skill and Productivity Estiamtion</title>
+      <link>http://turingcss.org/projects/skill_sorting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/projects/skill_sorting/</guid>
+      <description>Project description We use data on worker wages and populations to infer the latent skill distribution across a country. Doing so allows us to understand both the nature of skills and the sources of high firm productivity.
+People Zachary B. Kessler Omar A. Guerrero Resources Online repository (upcoming)</description>
+    </item>
+    
+  </channel>
+</rss>

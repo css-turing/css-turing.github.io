@@ -1,24 +1,26 @@
 ---
-title: "A project"
+title: "Government and the Media"
 draft: false
 ---
 
-{{< figure src="/images/aproject.jpg" width="100px" >}}
+{{< figure src="/images/newspapers.jpg" width="100px" >}}
 
 ## Project description
 
-stuff
+We use natural language processing to understand how the media influences policymaking and how policymakers influence the media. 
+The project identifies punctuations in government spending that respond to increased media attention, as well as the growing role of government advertisements in the editorial decisions of newspapers.
+
 
 ## People
-
-[Person 1]({{< ref "/people/person1" >}}) 
+* [Daniele Guariso]({{< ref "/people/dg" >}}) 
+* [Alejandro Beltran]({{< ref "/people/ab" >}}) 
+* [Omar A. Guerrero]({{< ref "/people/oag" >}}) 
 
 ## Publications
 
-[Emerging labour flow networks (2023)](https://arxiv.org/abs/2301.07979)
+Pre-print (forthcoming)
+
 
 ## Resources
 
-link to any code or external websites etc
-
-[Project code](https://github.com/alan-turing-institute/UK-LabourFlowNetwork-Model)
+Pre-print (forthcoming)
