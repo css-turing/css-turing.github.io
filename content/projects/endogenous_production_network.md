@@ -3,6 +3,10 @@ title: "Endogenous Production Network"
 draft: false
 ---
 
+
+{{< figure src="/images/projects/supply.jpg" width="500px" >}}
+
+
 ## Project description
 
 Production networks live at the heart of modern economies and global value chains.

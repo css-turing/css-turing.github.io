@@ -3,6 +3,11 @@ title: "Housing Market Dynamics"
 draft: false
 ---
 
+
+{{< figure src="/images/projects/housing.jpg" width="500px" >}}
+
+
+
 ## Project description
 
 In major cities around the world, housing markets are in the eye of public opinion; not only because of their economic importance, but also due to the recent growth of inequality.

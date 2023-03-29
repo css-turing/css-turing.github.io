@@ -60,7 +60,7 @@ url = '/projects/skills_complexity'
 title = "Skill Interaction and Complexity"
 
 [[params.menu.main]]
-url = '/projects/tech_sophistication'
+url = '/projects/skill_sorting'
 title = "Skill Sorting and Productivity"
 
 [[params.menu.main]]

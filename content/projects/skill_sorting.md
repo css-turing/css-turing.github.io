@@ -1,7 +1,12 @@
 ---
-title: "Sorting based Skill and Productivity Estiamtion"
+title: "Skill Sorting and Productivity"
 draft: false
 ---
+
+
+{{< figure src="/images/projects/skills.jpg" width="500px" >}}
+
+
 
 ## Project description
 
