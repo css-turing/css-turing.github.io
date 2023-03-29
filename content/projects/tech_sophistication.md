@@ -22,7 +22,9 @@ Our tools build on recent advances in information theory and machine learning, a
 * [Tuong M. Vu]({{< ref "/people/tmvu" >}}) 
 * [Omar A. Guerrero]({{< ref "/people/person1" >}}) 
 
+## Publications
 
+* Rajpal, H., & Guerrero, O. A. (2023). Quantifying the Technological Foundations of Economic Complexity *arXiv preprint arXiv:2301.04579* [Paper](https://arxiv.org/abs/2301.04579)
 
 ## Resources
 
