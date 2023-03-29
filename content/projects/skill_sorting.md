@@ -1,10 +1,8 @@
 ---
 title: "Skill Sorting and Productivity"
 draft: false
+image: "/images/projects/skills.jpg"
 ---
-
-
-{{< figure src="/images/projects/skills.jpg" width="500px" >}}
 
 
 

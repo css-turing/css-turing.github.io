@@ -1,10 +1,8 @@
 ---
 title: "International Trade Modelling"
 draft: false
+image: "/images/projects/trade.jpg"
 ---
-
-
-{{< figure src="/images/projects/trade.jpg" width="500px" >}}
 
 
 

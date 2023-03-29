@@ -1,10 +1,8 @@
 ---
 title: "Housing Market Dynamics"
 draft: false
+image: "/images/projects/housing.jpg"
 ---
-
-
-{{< figure src="/images/projects/housing.jpg" width="500px" >}}
 
 
 

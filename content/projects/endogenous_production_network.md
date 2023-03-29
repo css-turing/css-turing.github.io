@@ -1,10 +1,8 @@
 ---
 title: "Endogenous Production Network"
 draft: false
+image: "/images/projects/supply.jpg"
 ---
-
-
-{{< figure src="/images/projects/supply.jpg" width="500px" >}}
 
 
 ## Project description

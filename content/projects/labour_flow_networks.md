@@ -1,9 +1,8 @@
 ---
 title: "Labour Flow Networks"
 draft: false
+image: "/images/projects/lfns.jpg"
 ---
-{{< figure src="/images/projects/lfns.jpg" width="500px" >}}
-
 
 
 ## Project description

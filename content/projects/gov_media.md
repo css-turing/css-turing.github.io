@@ -1,9 +1,9 @@
 ---
 title: "Government and Media Behaviour"
 draft: false
+image: "/images/projects/media.jpg"
 ---
 
-{{< figure src="/images/projects/media.jpg" width="500px" >}}
 
 ## Project description
 

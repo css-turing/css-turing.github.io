@@ -5,6 +5,8 @@ draft: false
 
 {{< figure src="/images/aproject.jpg" width="100px" >}}
 
+{{< line_break >}}
+
 ## Project description
 
 stuff

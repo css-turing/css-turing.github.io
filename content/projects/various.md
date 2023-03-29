@@ -1,9 +1,11 @@
 ---
 title: "Miscellaneous Projects"
 draft: false
+image: "/images/projects/age.jpg"
 ---
 
-{{< figure src="/images/projects/age.jpg" width="1000px" >}}
+
+
 
 ## Project 1: Emerging age structures for ABMs
 

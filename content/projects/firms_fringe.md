@@ -1,9 +1,9 @@
 ---
 title: "Detecting Fringe Behaviour in Companies"
 draft: false
+image: "/images/projects/tax.jpg"
 ---
 
-{{< figure src="/images/projects/tax.jpg" width="500px" >}}
 
 ## Project description
 

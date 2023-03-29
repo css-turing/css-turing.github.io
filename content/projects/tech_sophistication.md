@@ -1,10 +1,8 @@
 ---
 title: "Quantifying Technological Sophistication"
 draft: false
+image: "/images/projects/synergy.jpg"
 ---
-
-
-{{< figure src="/images/projects/synergy.jpg" width="500px" >}}
 
 
 

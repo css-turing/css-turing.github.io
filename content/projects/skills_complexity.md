@@ -1,9 +1,10 @@
 ---
 title: "Skill Interaction and Complexity"
 draft: false
+image: "/images/projects/skill_complexity.jpg"
 ---
 
-{{< figure src="/images/projects/skill_complexity.jpg" width="500px" >}}
+
 
 ## Project description
 
