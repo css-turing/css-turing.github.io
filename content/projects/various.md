@@ -1,5 +1,5 @@
 ---
-title: "Miscellaneous projects"
+title: "Miscellaneous Projects"
 draft: false
 ---
 

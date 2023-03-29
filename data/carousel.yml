@@ -16,6 +16,10 @@ images:
     content_html: "Housing Market Dynamics"
     link: /projects/housing_market
 
+  - image: /images/projects/trade.jpg
+    content_html: "International Trade Modelling"
+    link: /projects/int_trade
+
   - image: /images/projects/lfns.jpg
     content_html: "Labour Flow Networks"
     link: /projects/labour_flow_networks

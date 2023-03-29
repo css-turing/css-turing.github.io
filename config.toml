@@ -44,6 +44,10 @@ url = '/projects/housing_market'
 title = "Housing Market Dynamics"
 
 [[params.menu.main]]
+url = '/projects/int_trade'
+title = "International Trade Modelling"
+
+[[params.menu.main]]
 url = '/projects/labour_flow_networks'
 title = "Labour Flow Networks"
 
