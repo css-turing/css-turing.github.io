@@ -17,7 +17,10 @@ When I am  not too busy doing nerdy things, I engage in politics through differe
 
 ## Projects
 
+* [Automatic SDG Alignment and Budget Tagging]({{< ref "/projects/budget_tagging" >}}) 
 * [Government and Media Behaviour]({{< ref "/projects/gov_media" >}}) 
+* [Tackling Health Inequalities]({{< ref "/projects/health_equity" >}}) 
+* [The Climate Security Index]({{< ref "/projects/climate_security" >}}) 
 
 ## Publications 
 
