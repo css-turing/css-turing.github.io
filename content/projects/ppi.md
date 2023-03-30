@@ -22,7 +22,7 @@ PPI has been adopted and promoted by various governments and international organ
 
 ## People
 
-* [Omar A. Guerrero]({{< ref "/people/person1" >}}) 
+* [Omar A. Guerrero]({{< ref "/people/oag" >}}) 
 * [Gonzalo Castañeda](https://www.social-complexity.com/about-the-boon) 
 * [Daniele Guariso]({{< ref "/people/dg" >}}) 
 

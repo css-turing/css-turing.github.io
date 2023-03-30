@@ -18,7 +18,7 @@ This method can be incorporated into ABMs across a broad range of applications, 
 #### People
 
 * [Kathyrn R. Fair]({{< ref "/people/krf" >}}) 
-* [Omar A. Guerrero]({{< ref "/people/person1" >}}) 
+* [Omar A. Guerrero]({{< ref "/people/oag" >}}) 
 
 #### Publications
 

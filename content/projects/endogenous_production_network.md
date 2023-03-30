@@ -1,5 +1,5 @@
 ---
-title: "Endogenous Production Network"
+title: "Endogenous Production Networks"
 draft: false
 image: "/images/projects/supply.jpg"
 ---
@@ -20,7 +20,7 @@ The tools produced by this project can be used to support evidence-based policym
 * [Tuong M. Vu]({{< ref "/people/tmvu" >}})
 * [Ernesto Carrella](https://www.norceresearch.no/en/persons/ernesto-carrella/29950594) 
 * [Robert Axtell](https://www.santafe.edu/people/profile/robert-axtell) 
-* [Omar A. Guerrero]({{< ref "/people/person1" >}})
+* [Omar A. Guerrero]({{< ref "/people/oag" >}})
 
 ## Publications
 
