@@ -14,7 +14,7 @@ The project identifies generates novel evidence that sheds new light on this pro
 
 
 ## People
-* [Daniele Guariso]({{< ref "/people/person1" >}}) 
+* [Daniele Guariso]({{< ref "/people/dg" >}}) 
 * [Alejandro Beltran]({{< ref "/people/ab" >}}) 
 * [Omar A. Guerrero]({{< ref "/people/oag" >}}) 
 
