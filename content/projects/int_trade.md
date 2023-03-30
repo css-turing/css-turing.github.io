@@ -10,7 +10,7 @@ image: "/images/projects/trade.jpg"
 
 International trade is a complex economic problem.
 New trade data and computational modelling techniques allow us to develop new types of models that account for nuances and dynamics that standard economic models cannot.
-Our models enable trade analysis's and policymakers to gain deep insight into the potential outcomes of policies such as creating new trade agreements.
+Our models enable trade analysists and policymakers to gain deep insight into the potential outcomes of policies such as creating new trade agreements.
 
 
 

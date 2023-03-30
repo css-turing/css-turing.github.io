@@ -10,7 +10,7 @@ image: "/images/projects/housing.jpg"
 
 In major cities around the world, housing markets are in the eye of public opinion; not only because of their economic importance, but also due to the recent growth of inequality.
 The analysis of these complex systems demand tools that can handle large-scale data, heterogeneous agents and institutions, spatial features, agent-level economic behaviour and interaction, etc.
-This project develops models and tools to study various phenomena related to housing markets such as endogenous inequality, spatial impacts from changes in infrastructure, affordability, ownership-rental flows, among others.
+This project develops models and tools to study various phenomena related to housing markets such as endogenous inequality, spatial impacts from changes in infrastructure, affordability, and ownership-rental flows, among others.
 Our tools provide researchers and policymakers to perform nuanced counterfactual analyses that can exploit newly available property, economic, and demographic datasets.
 
 
