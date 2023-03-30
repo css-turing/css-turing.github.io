@@ -24,7 +24,7 @@ His research is mostly focussed on Agent-Based Models and what they can tell us 
 
 Selected publications:
 
-* Meine, D. M., & Vvedenksy, D. D. (2023). Emergence of speculation in a hierarchical agent-based model, Physica A: Statistical Mechanics and its Applications, 2023, 128619,
+* Meine, D. C. A., & Vvedenksy, D. D. (2023). Emergence of speculation in a hierarchical agent-based model, Physica A: Statistical Mechanics and its Applications, 2023, 128619,
 ISSN 0378-4371, [Paper](https://doi.org/10.1016/j.physa.2023.128619) 
 
 
