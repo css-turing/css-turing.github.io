@@ -17,9 +17,9 @@ Our models enable trade analysists and policymakers to gain deep insight into th
 ## People
 
 * [Cosmina Dorobantu](https://www.turing.ac.uk/people/researchers/cosmina-dorobantu) 
+* [Nishanth Kumar](https://www.turing.ac.uk/people/researchers/nishanth-kumar) 
 * [Tuong M. Vu]({{< ref "/people/tmvu" >}}) 
 * [Ernesto Carrela](https://www.norceresearch.no/en/persons/ernesto-carrella/29950594) 
-* [Nishanth Kumar](https://www.turing.ac.uk/people/researchers/nishanth-kumar) 
 * [Omar A. Guerrero]({{< ref "/people/oag" >}}) 
 
 
