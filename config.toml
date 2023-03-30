@@ -104,9 +104,9 @@ body = '''
 
 <br/><br/>
 
-| {{< figure src="/images/people/dm.png" width="250px" >}} |  {{< figure src="/images/people/smp.jpg" width="250px" >}} | 
-|  :---:  |  :---:  | 
-| [David Meine](../people/dm) | [Santiago Musalem Pinto](../people/smp) |
+| {{< figure src="/images/people/dm.png" width="250px" >}} |  {{< figure src="/images/people/smp.jpg" width="250px" >}} |  {{< figure src="/images/people/gra.jpeg" width="250px" >}} | 
+|  :---:  |  :---:  |  :---:  | 
+| [David Meine](../people/dm) | [Santiago Musalem Pinto](../people/smp) | [Gisela Robles Aguilar](../people/gra) |
 '''
 
 
