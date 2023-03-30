@@ -1,5 +1,5 @@
 ---
-title: "Endogenous Production Network"
+title: "Endogenous Production Networks"
 draft: false
 image: "/images/projects/supply.jpg"
 ---
