@@ -104,9 +104,9 @@ body = '''
 
 <br/><br/>
 
-| {{< figure src="/images/people/krf.png" width="250px" >}} |  {{< figure src="/images/people/smp.jpg" width="250px" >}} | 
+| {{< figure src="/images/people/dm.png" width="250px" >}} |  {{< figure src="/images/people/smp.jpg" width="250px" >}} | 
 |  :---:  |  :---:  | 
-| [David Meine](../people/person1) | [Santiago Musalem Pinto](../people/smp) |
+| [David Meine](../people/dm) | [Santiago Musalem Pinto](../people/smp) |
 '''
 
 
