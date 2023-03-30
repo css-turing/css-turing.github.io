@@ -5,6 +5,8 @@ draft: false
 
 {{< figure src="/images/people/krf.png" width="200px" >}}
 
+{{< line_break >}}
+
 ## About me
 
 Kathyrn R. Fair is a postdoctoral research associate with the computational social science group in the public policy programme, working on the Shocks and Resilience project. Prior to this, she was a postdoctoral research fellow in the School of Environmental Sciences at the University of Guelph. Kathyrn holds a PhD in Applied Mathematics from the University of Waterloo.

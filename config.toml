@@ -52,7 +52,7 @@ url = '/projects/labour_flow_networks'
 title = "Labour Flow Networks"
 
 [[params.menu.main]]
-url = 'http://policypriority.org'
+url = '/projects/ppi'
 title = "Policy Priority Inference"
 
 [[params.menu.main]]

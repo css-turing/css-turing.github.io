@@ -5,6 +5,8 @@ draft: false
 
 {{< figure src="/images/people/tmvu.jpeg" width="200px" >}}
 
+{{< line_break >}}
+
 ## About me
 
 I received PhD in Computer Science from the University of Nottingham. My PhD is about Agent-Based Modelling and Simulation of Public Goods Game. In 2017, I joined the University of Sheffield under the CASCADE project (Calibrated Agent Simulations for Combined Analysis of Drinking Etiologies) to develop agent-based models of alcohol use which draw on existing social theories for why people drink. I also applied genetic programming, an evolutionary algorithm, to seek novel combinations of these theories in order to better explain the societal changes in alcohol use. My pioneer works with CASCADE have contributed significantly to the nascent field of Inverse Generative Social Science. In 2021, I joined The Alan Turing Institute as a senior research associate in Shocks and Resilience project to develop data-rich and theoretically-grounded models for a rigorous understanding of what resilience means in complex, interconnected socio-economic systems and identifying robust policy measures.

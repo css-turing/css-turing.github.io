@@ -5,6 +5,8 @@ draft: false
 
 {{< figure src="/images/people/hr.jpg" width="200px" >}}
 
+{{< line_break >}}
+
 ## About me
 
 Hardik Rajpal is a postdoctoral research associate with the computational social sciences group in the public policy programme at the Alan Turing Institute. He is also associated with the Centre for Complexity Science at the Imperial College London, where he finished his PhD in Applied Mathematics on the study of causality and emergence in complex systems.

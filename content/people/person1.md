@@ -5,6 +5,8 @@ draft: false
 
 {{< figure src="/images/aperson.jpg" width="200px" >}}
 
+{{< line_break >}}
+
 ## About me
 
 stufffffff

@@ -5,7 +5,7 @@ draft: false
 
 {{< figure src="/images/people/oag.jpg" width="200px" >}}
 
-
+{{< line_break >}}
 
 ## About me
 

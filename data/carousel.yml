@@ -26,7 +26,7 @@ images:
 
   - image: /images/projects/ppi.jpg
     content_html: "Policy Priority Inference"
-    link: http://policypriority.org
+    link: /projects/ppi
 
   - image: /images/projects/synergy.jpg
     content_html: "Quantifying Technological Sophistication"

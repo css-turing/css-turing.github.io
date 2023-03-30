@@ -5,6 +5,8 @@ draft: false
 
 {{< figure src="/images/people/dg.jpg" width="200px" >}}
 
+{{< line_break >}}
+
 ## About me
 
 I am a Senior Research Associate within the Alan Turing Institute's public policy programme. I hold a BA in political science and international relations from Università Degli Studi di Pavia (Italy), a Certificat d’Études Politiques from Sciences Po Toulouse (France), an MSc in development economics and a PhD in economics from the University of Sussex (UK). I acted as a technical consultant for different research centers and international organizations, such as IGC, IDS, GAIN, UNDP and CGIAR. 

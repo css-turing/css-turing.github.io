@@ -5,6 +5,8 @@ draft: false
 
 {{< figure src="/images/people/zbk.jpeg" width="200px" >}}
 
+{{< line_break >}}
+
 ## About me
 
 Zachary Kessler is postdoctoral research associate with the computational social science group in the Public Policy programme at the Alan Turing Institute. Prior to joining the group, he completed his PhD in Economics at George Mason University where he studied computational methods that can simulate instiutional processes.
