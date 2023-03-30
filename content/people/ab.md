@@ -27,8 +27,8 @@ Alejandro Beltran is a postdoctoral research associate within the public policy 
 
 ## Contact me
 
-abeltran@turing.ac.uk   
+abeltran@turing.ac.uk 
+[Turing](https://www.turing.ac.uk/people/researchers/alejandro-beltran)  
 [Personal Website](https://www.beltranalejandro.com)   
 [Google Scholar](https://scholar.google.com/citations?user=w-5RBX8AAAAJ&hl=en)    
-##[Twitter](https://twitter.com/beltranalexj)     
 [LinkedIn](https://www.linkedin.com/in/beltranalejandro)      
