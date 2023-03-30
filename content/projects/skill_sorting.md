@@ -16,7 +16,7 @@ Our models can be easily used with standard labour force surveys and provide a f
 ## People
 
 * [Zachary B. Kessler]({{< ref "/people/zbk" >}}) 
-* [Omar A. Guerrero]({{< ref "/people/person1" >}}) 
+* [Omar A. Guerrero]({{< ref "/people/oag" >}}) 
 
 ## Resources
 

@@ -16,9 +16,9 @@ Our tools build on recent advances in information theory and machine learning, a
 
 ## People
 
-* [Hardik Rajpal]({{< ref "/people/person1" >}}) 
+* [Hardik Rajpal]({{< ref "/people/hr" >}}) 
 * [Tuong M. Vu]({{< ref "/people/tmvu" >}}) 
-* [Omar A. Guerrero]({{< ref "/people/person1" >}}) 
+* [Omar A. Guerrero]({{< ref "/people/oag" >}}) 
 
 ## Publications
 

@@ -20,7 +20,7 @@ Our tools provide researchers and policymakers to perform nuanced counterfactual
 
 * [Zachary B. Kessler]({{< ref "/people/zbk" >}}) 
 * [Stephen Law](https://www.turing.ac.uk/people/researchers/stephen-law) 
-* [Omar A. Guerrero]({{< ref "/people/person1" >}}) 
+* [Omar A. Guerrero]({{< ref "/people/oag" >}}) 
 
 
 ## Publications
