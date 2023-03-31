@@ -18,7 +18,7 @@ Gisela is assisting the Public Policy Programme on standardising public health d
 
 ## Publications and Working Papers
 
-* [Pathogen paper] ({{< ref "https://api.altmetric.com/v1/doi/10.1016/s0140-6736(22)02185-7?callback=_altmetric.embed_callback&amp;domain=www.tropicalmedicine.ox.ac.uk&amp;key=3c130976ca2b8f2e88f8377633751ba1&amp;cache_until=7-31" >}})
+* [Pathogen paper] ({{< ref "https://api.altmetric.com/v1/doi/10.1016/s0140-6736(22)02185-7" >}})
 
 
 ## Contact me
