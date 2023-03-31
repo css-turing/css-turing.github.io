@@ -3,7 +3,7 @@ title: "Leonardo Castro-Gonzalez"
 draft: false
 ---
 
-{{< figure src="/images//people/lcg.png" width="200px" >}}
+{{< figure src="/images//people/lcg.jpeg" width="200px" >}}
 
 ## About me
 

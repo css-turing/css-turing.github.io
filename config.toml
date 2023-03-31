@@ -28,6 +28,14 @@ body_is_markdown = true
 
 
 [[params.menu.main]]
+url = '/projects/budget_tagging'
+title = "Automatic SDG Alignment and Budget Tagging"
+
+[[params.menu.main]]
+url = '/projects/climate_security'
+title = "Climate Security Index"
+
+[[params.menu.main]]
 url = '/projects/firms_fringe'
 title = "Detecting Fringe Behaviour in Companies"
 
@@ -68,8 +76,12 @@ url = '/projects/skill_sorting'
 title = "Skill Sorting and Productivity"
 
 [[params.menu.main]]
+url = '/projects/health_equity'
+title = "Tackling Health Inequalities"
+
+[[params.menu.main]]
 url = '/projects/various'
-title = "Various Projects"
+title = "Miscellaneous Projects"
 
 
 
@@ -92,7 +104,7 @@ body = '''
 | {{< figure src="/images/people/oag.jpg" width="250px" >}} | {{< figure src="/images/people/dg.jpg" width="250px" >}} |  {{< figure src="/images/people/krf.png" width="250px" >}} | {{< figure src="/images/people/hr.jpg" width="250px" >}} |
 |  :---:  |  :---:  |  :---:  |  :---:  |  
 | [Omar A. Guerrero (Group Head)](../people/oag) | [Daniele Guariso](../people/dg) | [Kathyrn R. Fair](../people/krf)  | [Hardik Rajpal](../people/hr) | 
-|   {{< figure src="/images/people/tmvu.jpeg" width="250px" >}} | {{< figure src="/images/people/ab.jpeg" width="250px" >}} |  {{< figure src="/images/people/zbk.jpeg" width="250px" >}}|  {{< figure src="/images/people/lcg.jpg" width="250px" >}} |
+|   {{< figure src="/images/people/tmvu.jpeg" width="250px" >}} | {{< figure src="/images/people/ab.jpeg" width="250px" >}} |  {{< figure src="/images/people/zbk.jpeg" width="250px" >}}|  {{< figure src="/images/people/lcg.jpeg" width="250px" >}} |
 | [Tuong Vu](../people/tmvu) |[Alejandro Beltran](../people/ab) | [Zachary B. Kessler](../people/zbk)| [Leonardo Castro Gonzalez](../people/lcg) | 
 '''
 
@@ -104,9 +116,9 @@ body = '''
 
 <br/><br/>
 
-| {{< figure src="/images/aperson.jpg" width="250px" >}} |  {{< figure src="/images/aperson.jpg" width="250px" >}} | 
-|  :---:  |  :---:  | 
-| [David Meine](../people/person1) | [Santiago Musalem Pinto](../people/smp) |
+| {{< figure src="/images/people/dm.png" width="250px" >}} |  {{< figure src="/images/people/smp.jpg" width="250px" >}} |  {{< figure src="/images/people/gra.jpeg" width="250px" >}} | 
+|  :---:  |  :---:  |  :---:  | 
+| [David Meine](../people/dm) | [Santiago Musalem Pinto](../people/smp) | [Gisela Robles Aguilar](../people/gra) |
 '''
 
 

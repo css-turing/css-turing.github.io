@@ -3,7 +3,7 @@ title: "Santiago G. Musalem Pinto"
 draft: false
 ---
 
-{{< figure src="/images/people/krf.png" width="200px" >}}
+{{< figure src="/images/people/smp.jpg" width="200px" >}}
 
 {{< line_break >}}
 
