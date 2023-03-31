@@ -22,7 +22,7 @@ This method can be incorporated into ABMs across a broad range of applications, 
 
 #### Publications
 
-Pre-print (forthcoming)
+* Fair, K. R., & Guerrero, O. A. (2023). A Method for Emerging Empirical Age Structures in Agent-Based Models with Exogenous Survival Probabilities. *arXiv preprint arXiv:2303.17317*. [Paper](https://doi.org/10.48550/arXiv.2303.17317)
 
 #### Resources
 

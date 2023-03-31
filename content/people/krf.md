@@ -24,7 +24,8 @@ Her current work focuses on labour market dynamics and aims to move beyond class
 
 Selected publications:
 
-* Fair, K. R., & Guerrero, O. A. (2023). Emerging Labour Flow Networks. *arXiv preprint arXiv:2301.07979*. [Paper](https://arxiv.org/abs/2301.07979) [Code](https://github.com/alan-turing-institute/UK-LabourFlowNetwork-Model)
+* Fair, K. R., & Guerrero, O. A. (2023). A Method for Emerging Empirical Age Structures in Agent-Based Models with Exogenous Survival Probabilities. *arXiv preprint arXiv:2303.17317*. [Paper](https://doi.org/10.48550/arXiv.2303.17317)
+* Fair, K. R., & Guerrero, O. A. (2023). Endogenous Labour Flow Networks. *arXiv preprint arXiv:2301.07979*. [Paper](https://doi.org/10.48550/arXiv.2301.07979)
 * Fair, K. R., Karatayev, V. A., Anand, M., & Bauch, C. T. (2022). Estimating COVID-19 cases and deaths prevented by non-pharmaceutical interventions, and the impact of individual actions: A retrospective model-based analysis. *Epidemics, 39*, 100557. [Paper](https://www.sciencedirect.com/science/article/pii/S1755436522000159) [Code](https://github.com/k3fair/COVID-19-ON-model)
 * Fair, K. R., Anand, M., & Bauch, C. T. (2020). Spatial structure in protected forest‐grassland mosaics: Exploring futures under climate change. *Global Change Biology, 26*(11), 6097-6115. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15288)
 * Fair, K. R., Bauch, C. T., & Anand, M. (2017). Dynamics of the global wheat trade network and resilience to shocks. *Scientific reports, 7*(1), 1-14. [Paper](https://www.nature.com/articles/s41598-017-07202-y)
