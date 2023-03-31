@@ -19,9 +19,7 @@ Gisela is assisting the Public Policy Programme on standardising public health d
 ## Publications and Working Papers
 
 * [Global mortality associated with 33 bacterial pathogens in 2019: a systematic analysis for the Global Burden of Disease Study 2019
-Ikuta KS. et al, (2022), The Lancet] ({{< ref "https://api.altmetric.com/v1/doi/10.1016/s0140-6736(22)02185-7" 
-
-"https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)02185-7/fulltext" 
+Ikuta KS. et al, (2022), The Lancet] ({{< ref "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)02185-7/fulltext" 
 
 >}})
 
