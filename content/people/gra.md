@@ -34,6 +34,10 @@ Murray CJL. et al, (2022), The Lancet, 399, 629 - 655]
 ({{< ref "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02724-0/fulltext" >}})
 
 
+* [Who are the world's poor? A new profile of global multidimensional poverty
+Robles Aguilar G. and Sumner A., (2020), World Development, 126]
+({{< ref "https://doi.org/10.1016/j.worlddev.2019.104716" >}})
+
 
 ## Contact me
 
