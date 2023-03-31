@@ -1,5 +1,13 @@
 images: 
 
+  - image: /images/projects/budget_tagging.jpg
+    content_html: "Automatic SDG Alignment and Budget Tagging"
+    link: /projects/budget_tagging
+
+  - image: /images/projects/climate_security.jpg
+    content_html: "Climate Security Index"
+    link: /projects/climate_security
+ 
   - image: /images/projects/tax.jpg
     content_html: "Detecting Firms' Fringe Behaviour"
     link: /projects/firms_fringe
@@ -39,6 +47,10 @@ images:
   - image: /images/projects/skills.jpg
     content_html: "Skill Sorting and Productivity"
     link: /projects/tech_sophistication
+
+  - image: /images/projects/health_equity.jpg
+    content_html: "Tackling Health Inequalities"
+    link: /projects/health_equity
 
   - image: /images/projects/various.jpg
     content_html: "Miscellaneous Projects"

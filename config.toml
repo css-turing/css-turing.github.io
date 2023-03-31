@@ -28,6 +28,14 @@ body_is_markdown = true
 
 
 [[params.menu.main]]
+url = '/projects/budget_tagging'
+title = "Automatic SDG Alignment and Budget Tagging"
+
+[[params.menu.main]]
+url = '/projects/climate_security'
+title = "Climate Security Index"
+
+[[params.menu.main]]
 url = '/projects/firms_fringe'
 title = "Detecting Fringe Behaviour in Companies"
 
@@ -66,6 +74,10 @@ title = "Skill Interaction and Complexity"
 [[params.menu.main]]
 url = '/projects/skill_sorting'
 title = "Skill Sorting and Productivity"
+
+[[params.menu.main]]
+url = '/projects/health_equity'
+title = "Tackling Health Inequalities"
 
 [[params.menu.main]]
 url = '/projects/various'

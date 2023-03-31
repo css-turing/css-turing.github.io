@@ -1,7 +1,7 @@
 ---
-title: "The Climate Security Index"
+title: "Climate Security Index"
 draft: false
-image: "/images/projects/cimate_security.jpg"
+image: "/images/projects/climate_security.jpg"
 ---
 
 
