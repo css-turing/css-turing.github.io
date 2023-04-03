@@ -10,7 +10,7 @@ theme = "spectral"
 fancyTitle = 'Computational Social Science Group' # title for frontpage, may include image
 copyright = "The Alan Turing Institute"
 description = 'A research collective at <a href="https://www.turing.ac.uk/" target="_blank">The Alan Turing Institute</a>'
-extended = "The CSS group is an interdisciplinary team working in the development and application of computational methods to tackle major social science challenges. We work closely with governments and international organisations to translate our research into tools that are useful to policymakers. The CSS group is part of the Turing's <a href=https://www.turing.ac.uk/research/research-programmes/public-policy target=_blank>Public Policy Programme</a>, and is also known as the 'Modelling for Policy Theme'."
+extended = "The CSS Group is an interdisciplinary team working in the development and application of computational methods to tackle major social science challenges. We work closely with governments and international organisations to translate our research into tools that are useful to policymakers. The CSS group is part of the Turing's <a href=https://www.turing.ac.uk/research/research-programmes/public-policy target=_blank>Public Policy Programme</a>, and is also known as the 'Modelling for Policy Theme'."
 
 # startbuttonText = "Go somewhere"
 # startbuttonLink = "#"
