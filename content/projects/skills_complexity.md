@@ -16,6 +16,7 @@ An understanding of the ways skills interact with each other to influence career
 * [Hardik Rajpal]({{< ref "/people/hr" >}}) 
 * [Kathyrn R. Fair]({{< ref "/people/krf" >}}) 
 * [Santiago Musalem Pinto]({{< ref "/people/smp" >}}) 
+* [Omar A. Guerrero]({{< ref "/people/oag" >}}) 
 
 ## Publications
 
