@@ -18,7 +18,7 @@ This project provides policymakers with guidance on how company ownership evolve
 * [Alejandro Beltran]({{< ref "/people/ab" >}}) 
 * [Kathyrn R. Fair]({{< ref "/people/krf" >}}) 
 * [Ben Klemens](https://ben.klemens.org/) 
-* [Leonardo Castro Gonzalez]({{< ref "/people/lcd" >}}) 
+* [Leonardo Castro Gonzalez]({{< ref "/people/lcg" >}}) 
 * [Omar A. Guerrero]({{< ref "/people/oag" >}}) 
 
 ## Publications
