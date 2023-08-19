@@ -17,7 +17,8 @@ Gisela is assisting the Public Policy Programme on standardising public health d
 
 
 ## Publications and Working Papers
-
+* [The burden of antimicrobial resistance in the Americas in 2019: a cross-country systematic analysis, Robles Aguilar et al (2023), The Lancet Regional Health - Americas, https://doi.org/10.1016/j.lana.2023.100561](https://doi.org/10.1016/j.lana.2023.100561)
+  
 * [Global mortality associated with 33 bacterial pathogens in 2019: a systematic analysis for the Global Burden of Disease Study 2019
 Ikuta KS. et al, (2022), The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)02185-7/fulltext)
 
