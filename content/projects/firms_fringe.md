@@ -17,7 +17,7 @@ This project provides policymakers with guidance on how company ownership evolve
 
 
 
-> "Using netowrks and machine learning to identify clusters of suspicious companies."
+> "Using networks and machine learning to identify clusters of suspicious companies."
 
 
 ### Problem
