@@ -16,7 +16,6 @@ This project provides policymakers with guidance on how company ownership evolve
 ## Birds of a feather
 
 
-
 > "Using networks and machine learning to identify clusters of suspicious companies."
 
 
