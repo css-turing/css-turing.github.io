@@ -7,15 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://turingcss.org/people/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://turingcss.org/people/ab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/people/ab/</guid>
-      <description>is a&amp;mdash; title: &amp;ldquo;Alejandro Beltran&amp;rdquo; draft: false About me Alejandro Beltran is a postdoctoral research associate within the public policy programme. He received his PhD from the University of Arizona where in his dissertation he identified the institutional and political determinants of corruption investigations in subnational audit agencies of Mexico. As a computational social scientist, he uses machine learning and natural language processing to generate quantitative measures of often unmeasurable phenomena from text in Spanish.</description>
-    </item>
-    
-    <item>
       <title>A person</title>
       <link>http://turingcss.org/people/person1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -25,6 +16,53 @@
 Projects Project 1 Project 1 Publications Quantifying the Technological Foundations of Economic Complexity (2023) Contact me zkessler@turing.ac.uk
 Personal Website
 Twitter</description>
+    </item>
+    
+    <item>
+      <title>Alejandro Beltran</title>
+      <link>http://turingcss.org/people/ab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/people/ab/</guid>
+      <description>About me Alejandro Beltran is a postdoctoral research associate within the public policy programme. He received his PhD from the University of Arizona where in his dissertation he identified the institutional and political determinants of corruption investigations in subnational audit agencies of Mexico. As a computational social scientist, he uses machine learning and natural language processing to generate quantitative measures of often unmeasurable phenomena from text in Spanish. Alejandro completed his undergraduate studies in Public Policy at the Universidad Autónoma de Sinaloa.</description>
+    </item>
+    
+    <item>
+      <title>Daniele Guariso</title>
+      <link>http://turingcss.org/people/dg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/people/dg/</guid>
+      <description>About me I am a Senior Research Associate within the Alan Turing Institute&amp;rsquo;s public policy programme. I hold a BA in political science and international relations from Università Degli Studi di Pavia (Italy), a Certificat d’Études Politiques from Sciences Po Toulouse (France), an MSc in development economics and a PhD in economics from the University of Sussex (UK). I acted as a technical consultant for different research centers and international organizations, such as IGC, IDS, GAIN, UNDP and CGIAR.</description>
+    </item>
+    
+    <item>
+      <title>David Christian Aurel Meine</title>
+      <link>http://turingcss.org/people/dm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/people/dm/</guid>
+      <description>About me David Meine is working with the CSS Group on an Agent-Based Model of the Labour Market. Apart from that, he is a PhD Student at the Centre for Complexity Science at Imperial College and a Co-Founder of StartIn, a platform that helps students form Start-Ups. He also works for Ridgeway Information, advising the IAEA on how to improve workflows with the responsible use of AI.
+David has degrees in Physics and Economics from the University of Hamburg and the Humboldt-University of Berlin and is now working on models that combine both disciplines.</description>
+    </item>
+    
+    <item>
+      <title>Gisela Robles Aguilar</title>
+      <link>http://turingcss.org/people/gra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/people/gra/</guid>
+      <description>About me Gisela is assisting the Public Policy Programme on standardising public health data. She is a Senior Researcher on the Global Burden of Disease at the University of Oxford, Nuffield Department of Medicine, where she focus on estimating the relative risk of infections resistant to antibiotics. She collaborated with the Lancet Noncommunicable Diseases and Injuries (NCDIs) Poverty Commission, the Oxford Clinical Trials Service Unit and the Oxford Poverty and Human Development Initiative (OPHI).</description>
+    </item>
+    
+    <item>
+      <title>Hardik Rajpal</title>
+      <link>http://turingcss.org/people/hr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/people/hr/</guid>
+      <description>About me Hardik Rajpal is a postdoctoral research associate with the computational social sciences group in the public policy programme at the Alan Turing Institute. He is also associated with the Centre for Complexity Science at the Imperial College London, where he finished his PhD in Applied Mathematics on the study of causality and emergence in complex systems.
+His work focuses on using mathematical modelling, information theory and network science to investigate various complex systems ranging from social-media, production economies, ecolosystems and the brain.</description>
     </item>
     
     <item>
@@ -38,12 +76,32 @@ Her current work focuses on labour market dynamics and aims to move beyond class
     </item>
     
     <item>
+      <title>Leonardo Castro-Gonzalez</title>
+      <link>http://turingcss.org/people/lcg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/people/lcg/</guid>
+      <description>About me Leonardo obtained his PhD from the University of Birmingham studying how to make different security and cyber security systems more efficient from a behavioural perspective. These systems, among others, include the illicit-drug distribution method known as the County Lines Model in England. Before his PhD, he read Physics at UNAM – Mexico, and did his MSc in Complex Systems Modelling at King’s College London.
+From September 2019 to October 2021, Leonardo was a visiting student at the Urban Analytics Programme at The Alan Turing institute.</description>
+    </item>
+    
+    <item>
       <title>Omar A. Guerrero</title>
       <link>http://turingcss.org/people/oag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://turingcss.org/people/oag/</guid>
-      <description>About me I am the Head of Computational Social Science Research of The Alan Turing Institute. I also have the privilege of leading this group of talented the CSS scholars at the Turing. I am an economist with a PhD in Computational Social Science (CSS) from George Mason University. Previously, I worked at the Department of Economics of University College London and, before that, at Oxford University, in the Saïd Business School and in the Institute for New Economic Thinking.</description>
+      <description>About me I am the Head of Computational Social Science Research of The Alan Turing Institute. I also have the privilege of leading this group of talented scholars at the Turing. I am an economist with a PhD in Computational Social Science (CSS) from George Mason University. Previously, I worked at the Department of Economics of University College London and, before that, at Oxford University, in the Saïd Business School and in the Institute for New Economic Thinking.</description>
+    </item>
+    
+    <item>
+      <title>Santiago G. Musalem Pinto</title>
+      <link>http://turingcss.org/people/smp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/people/smp/</guid>
+      <description>About me Santiago is currently pursuing a PhD in Mathematics at Imperial College London. His research interests focus on evolutionary games and using network science to understand time-series data. Having joined the Turing Institute in December 2022, Santiago is investigating how different skills interact in the labour market and how this impacts wages and economic output.
+Projects Skill Interaction and Complexity Contact me sgm21@ic.ac.uk</description>
     </item>
     
     <item>
@@ -61,8 +119,8 @@ Her current work focuses on labour market dynamics and aims to move beyond class
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://turingcss.org/people/zbk/</guid>
-      <description>About me I completed my Ph.D. in Economics from George Mason University in the spring of 2022. Broadly, my work has focused on the pairing of compuational and statistical tools to better understand a host of macro and micro economic phenomena, with specific interest on areas involving productivity growth, housing access, and instituional change.
-Projects Skill-based Sorting Simulation Holistic Housing Market Modeling Publications and Working Papers Contact me zkessler@turing.ac.uk</description>
+      <description>About me Zachary Kessler is postdoctoral research associate with the computational social science group in the Public Policy programme at the Alan Turing Institute. Prior to joining the group, he completed his PhD in Economics at George Mason University where he studied computational methods that can simulate institutional processes
+His research broadly focuses on the use of the computational and econometric methods paired with modern data-driven technologies to explore a variety of micro and macro level economic phenomena.</description>
     </item>
     
   </channel>

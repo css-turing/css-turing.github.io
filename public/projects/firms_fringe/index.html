@@ -2,14 +2,14 @@
 
 <html lang="en">
 	<head>
-	  <title>Detecting Firms&#39; Fringe Behaviour</title>
+	  <title>Detecting Fringe Behaviour in Companies</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="referrer" content="origin">
 
     <meta name="description" content="A research collective at The Alan Turing Institute">
     
-    <meta name="generator" content="Hugo 0.111.3">
+    <meta name="generator" content="Hugo 0.110.0">
 
     
 <link rel="stylesheet" href="/css/main.min.68900eb5732632c44d2ec6ed1c6fa627a184a8eb9cfce0465fd639eea2d32b83e9b456df28e6af465e295c712cf82b8460229df1cfe702410d5d9756734850a6.css" integrity="sha512-aJAOtXMmMsRNLsbtHG&#43;mJ6GEqOuc/OBGX9Y57qLTK4PptFbfKOavRl4pXHEs&#43;CuEYCKd8c/nAkENXZdWc0hQpg==">
@@ -21,13 +21,11 @@
 
     
     <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Detecting Firms&#39; Fringe Behaviour"/>
-<meta name="twitter:description" content="Project description We use network analysis and machine learning to trace and identify clusters of companies that specialize in fringe behaviour. Trends in firm ownership are used to identify mechanisms for obscuring the beneficial owner of companies. The project may provide policymakers with guidance on how company ownership evolves over time as clusters that specialize in fringe behaviour learn and adapt to government enforcement mechanisms.
-People Alejandro Beltran Kathyrn R."/>
+<meta name="twitter:title" content="Detecting Fringe Behaviour in Companies"/>
+<meta name="twitter:description" content="Project description Complicated company ownership structures are often set up to obfuscate the identification of beneficial owners. These strategies are considered to be on the fringe of legitimacy and legality, so detecting them is important to regulators and society in general. We combine economic theory, network analysis, and machine learning to unearth the patterns that such behaviours leave behind in large-scale administrative datasets. This allows us to identify clusters of companies that specialise in such strategies, and to formulate models about their potential adaptation to future legal reforms."/>
 
-    <meta property="og:title" content="Detecting Firms&#39; Fringe Behaviour" />
-<meta property="og:description" content="Project description We use network analysis and machine learning to trace and identify clusters of companies that specialize in fringe behaviour. Trends in firm ownership are used to identify mechanisms for obscuring the beneficial owner of companies. The project may provide policymakers with guidance on how company ownership evolves over time as clusters that specialize in fringe behaviour learn and adapt to government enforcement mechanisms.
-People Alejandro Beltran Kathyrn R." />
+    <meta property="og:title" content="Detecting Fringe Behaviour in Companies" />
+<meta property="og:description" content="Project description Complicated company ownership structures are often set up to obfuscate the identification of beneficial owners. These strategies are considered to be on the fringe of legitimacy and legality, so detecting them is important to regulators and society in general. We combine economic theory, network analysis, and machine learning to unearth the patterns that such behaviours leave behind in large-scale administrative datasets. This allows us to identify clusters of companies that specialise in such strategies, and to formulate models about their potential adaptation to future legal reforms." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://turingcss.org/projects/firms_fringe/" /><meta property="article:section" content="projects" />
 
@@ -46,11 +44,15 @@ People Alejandro Beltran Kathyrn R." />
 						<nav id="nav">
 							<ul>
 								<li class="special">
-                  <a href="#menu" class="menuToggle"><span>Menu</span></a>
+                  <a href="#menu" class="menuToggle"><span>Projects</span></a>
 									<div id="menu">
 										<ul>
 				              
-				              <li><a href="/projects/firms_fringe">Detecting Firms&#39; Fringe Behaviour</a></li>
+				              <li><a href="/projects/budget_tagging">Automatic SDG Alignment and Budget Tagging</a></li>
+				              
+				              <li><a href="/projects/climate_security">Climate Security Index</a></li>
+				              
+				              <li><a href="/projects/firms_fringe">Detecting Fringe Behaviour in Companies</a></li>
 				              
 				              <li><a href="/projects/endogenous_production_network">Endogenous Production Networks</a></li>
 				              
@@ -58,17 +60,21 @@ People Alejandro Beltran Kathyrn R." />
 				              
 				              <li><a href="/projects/housing_market">Housing Market Dynamics</a></li>
 				              
+				              <li><a href="/projects/int_trade">International Trade Modelling</a></li>
+				              
 				              <li><a href="/projects/labour_flow_networks">Labour Flow Networks</a></li>
 				              
-				              <li><a href="http://policypriority.org">Policy Priority Inference</a></li>
+				              <li><a href="/projects/ppi">Policy Priority Inference</a></li>
 				              
 				              <li><a href="/projects/tech_sophistication">Quantifying Technological Sophistication</a></li>
 				              
 				              <li><a href="/projects/skills_complexity">Skill Interaction and Complexity</a></li>
 				              
-				              <li><a href="/projects/tech_sophistication">Skill Sorting and Productivity</a></li>
+				              <li><a href="/projects/skill_sorting">Skill Sorting and Productivity</a></li>
 				              
-				              <li><a href="/projects/various">Various Projects</a></li>
+				              <li><a href="/projects/health_equity">Tackling Health Inequalities</a></li>
+				              
+				              <li><a href="/projects/various">Miscellaneous Projects</a></li>
 				              
 										</ul>
 									</div>
@@ -78,23 +84,103 @@ People Alejandro Beltran Kathyrn R." />
 					</header>
 
 <article id="main">
-  <header >
-    <h2>Detecting Firms&#39; Fringe Behaviour</h2>
+  <header style="background-image: url('/images/projects/tax.jpg')">
+    <h2>Detecting Fringe Behaviour in Companies</h2>
     
 	</header>
 	<section class="wrapper style5">
 		<div class="inner">
-      <figure><img src="/images/projects/tax.jpg" width="500px"/>
-</figure>
-
-<h2 id="project-description">Project description</h2>
-<p>We use network analysis and machine learning to trace and identify clusters of companies that specialize in fringe behaviour.
-Trends in firm ownership are used to identify mechanisms for obscuring the beneficial owner of companies.
-The project may provide policymakers with guidance on how company ownership evolves over time as clusters that specialize in fringe behaviour learn and adapt to government enforcement mechanisms.</p>
+      <h2 id="project-description">Project description</h2>
+<p>Complicated company ownership structures are often set up to obfuscate the identification of beneficial owners.
+These strategies are considered to be on the fringe of legitimacy and legality, so detecting them is important to regulators and society in general.
+We combine economic theory, network analysis, and machine learning to unearth the patterns that such behaviours leave behind in large-scale administrative datasets.
+This allows us to identify clusters of companies that specialise in such strategies, and to formulate models about their potential adaptation to future legal reforms.
+This project provides policymakers with guidance on how company ownership evolves over time as clusters that specialise in fringe behaviour learn and adapt to government enforcement mechanisms.</p>
+<h2 id="birds-of-a-feather">Birds of a feather</h2>
+<blockquote>
+<p>&ldquo;Using networks and machine learning to identify clusters of suspicious companies.&rdquo;</p>
+</blockquote>
+<h3 id="problem">Problem</h3>
+<ul>
+<li>Over £30 billion in taxes lost to shell companies, £87.9 billion laundered through the UK</li>
+<li>Companies House (CH) is the first publicly accessible database of companies (incl. information like beneficial ownership)</li>
+<li>No meaningful consequences for providing inaccurate info, limited resources for verification</li>
+</ul>
+<blockquote>
+<ul>
+<li>Can we use firm ownership networks to find suspicious companies?</li>
+</ul>
+</blockquote>
+<h3 id="method">Method</h3>
+<ul>
+<li>ICIJ dataset of companies appearing in Panama, Pandora, Paradise, Off-Shore leaks</li>
+<li>ID leaked companies operating in UK using Companies Houe API</li>
+<li>Generate networks of firm ownership</li>
+<li>Random forest algorithm to ID suspicious companies based on firm and network features</li>
+</ul>
+<h3 id="visualizations">Visualizations</h3>
+<ul>
+<li>
+<p>Example of a small cluster of firms owned by the same individiaul, pink squares are suspicious firms per RF.
+<style>
+  .container {
+      position: relative;
+      overflow: hidden;
+      width: 100%;
+      padding-top: 56.25%;  
+  }
+    
+     
+  .responsive-iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      width: 100%;
+      height: 100%;
+  }
+</style>
+    
+    
+<div class="container"> 
+    <iframe class="responsive-iframe" src=https://rawcdn.githack.com/AlejandroBeltranA/firm-vis/6228d8b60748526fc4460c2036b5f627b150df70/community_154_pred.html></iframe>
+</div></p>
+</li>
+<li>
+<p>Example of a large cluster of firms owned by various individiauls, pink squares are suspicious firms per RF.</p>
+</li>
+</ul>
+<style>
+  .container {
+      position: relative;
+      overflow: hidden;
+      width: 100%;
+      padding-top: 56.25%;  
+  }
+    
+     
+  .responsive-iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      width: 100%;
+      height: 100%;
+  }
+</style>
+    
+    
+<div class="container"> 
+    <iframe class="responsive-iframe" src=https://rawcdn.githack.com/AlejandroBeltranA/firm-vis/43be8d95139001f55edfb3d2aba46a3f042e552c/community_25_spec.html></iframe>
+</div>
 <h2 id="people">People</h2>
 <ul>
 <li><a href="http://turingcss.org/people/ab/">Alejandro Beltran</a></li>
 <li><a href="http://turingcss.org/people/krf/">Kathyrn R. Fair</a></li>
+<li><a href="https://ben.klemens.org/">Ben Klemens</a></li>
+<li><a href="http://turingcss.org/people/lcg/">Leonardo Castro Gonzalez</a></li>
 <li><a href="http://turingcss.org/people/oag/">Omar A. Guerrero</a></li>
 </ul>
 <h2 id="publications">Publications</h2>
@@ -117,7 +203,7 @@ The project may provide policymakers with guidance on how company ownership evol
 
 						</ul>
 						<ul class="copyright">
-              <li>&copy; 2023 The Alan Turing Institute</li>
+              <li>&copy; 2024 The Alan Turing Institute</li>
 						</ul>
 					</footer>
 

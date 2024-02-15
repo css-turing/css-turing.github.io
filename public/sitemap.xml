@@ -2,31 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://turingcss.org/people/ab/</loc>
-  </url><url>
     <loc>http://turingcss.org/people/person1/</loc>
   </url><url>
     <loc>http://turingcss.org/projects/project1/</loc>
   </url><url>
+    <loc>http://turingcss.org/people/ab/</loc>
+  </url><url>
+    <loc>http://turingcss.org/projects/budget_tagging/</loc>
+  </url><url>
     <loc>http://turingcss.org/categories/</loc>
+  </url><url>
+    <loc>http://turingcss.org/projects/climate_security/</loc>
   </url><url>
     <loc>http://turingcss.org/</loc>
   </url><url>
-    <loc>http://turingcss.org/projects/firms_fringe/</loc>
+    <loc>http://turingcss.org/people/dg/</loc>
   </url><url>
-    <loc>http://turingcss.org/projects/various/</loc>
+    <loc>http://turingcss.org/people/dm/</loc>
+  </url><url>
+    <loc>http://turingcss.org/projects/firms_fringe/</loc>
   </url><url>
     <loc>http://turingcss.org/projects/endogenous_production_network/</loc>
   </url><url>
+    <loc>http://turingcss.org/people/gra/</loc>
+  </url><url>
     <loc>http://turingcss.org/projects/gov_media/</loc>
   </url><url>
+    <loc>http://turingcss.org/people/hr/</loc>
+  </url><url>
     <loc>http://turingcss.org/projects/housing_market/</loc>
+  </url><url>
+    <loc>http://turingcss.org/projects/int_trade/</loc>
   </url><url>
     <loc>http://turingcss.org/people/krf/</loc>
   </url><url>
     <loc>http://turingcss.org/projects/labour_flow_networks/</loc>
   </url><url>
-    <loc>http://turingcss.org/projects/tech_sophistication/</loc>
+    <loc>http://turingcss.org/people/lcg/</loc>
+  </url><url>
+    <loc>http://turingcss.org/projects/various/</loc>
   </url><url>
     <loc>http://turingcss.org/people/oag/</loc>
   </url><url>
@@ -34,17 +48,25 @@
   </url><url>
     <loc>http://turingcss.org/people/</loc>
   </url><url>
+    <loc>http://turingcss.org/projects/ppi/</loc>
+  </url><url>
     <loc>http://turingcss.org/projects/</loc>
   </url><url>
     <loc>http://turingcss.org/projects/</loc>
   </url><url>
     <loc>http://turingcss.org/publications/</loc>
   </url><url>
+    <loc>http://turingcss.org/projects/tech_sophistication/</loc>
+  </url><url>
+    <loc>http://turingcss.org/people/smp/</loc>
+  </url><url>
     <loc>http://turingcss.org/series/</loc>
   </url><url>
     <loc>http://turingcss.org/projects/skills_complexity/</loc>
   </url><url>
     <loc>http://turingcss.org/projects/skill_sorting/</loc>
+  </url><url>
+    <loc>http://turingcss.org/projects/health_equity/</loc>
   </url><url>
     <loc>http://turingcss.org/tags/</loc>
   </url><url>
