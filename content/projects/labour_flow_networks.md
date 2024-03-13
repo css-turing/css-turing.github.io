@@ -13,7 +13,13 @@ Our models are highly granular and can exploit micro-data of different types (e.
 Taken collectively, these job-to-job transitions constitute a labour flow network (LFN) where nodes contain pools of jobs with shared characteristics (e.g. they are within the same industry, geographical region, etc.) and edges between nodes represent job-to-job movements.
 These models can be leveraged to explore scenarios related to the future of work, including the transition to net zero and the increased usage of AI and automation within certain jobs.
 
+## Scenario analysis
 
+Here we demonstrate the impact of a shock that changes the occupations present within the Science & tech sector, and where these jobs are geographically located.
+
+![](/images/projects/short_sic_shockposition_industry13.gif "800px")
+![](/images/projects/short_reg_shockposition_industry13.gif "800px")
+![](/images/projects/short_soc_shockposition_industry13.gif "800px")
 
 ## People
 
