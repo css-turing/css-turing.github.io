@@ -15,7 +15,7 @@ These models can be leveraged to explore scenarios related to the future of work
 
 ## Scenario analysis
 
-Here we demonstrate the impact of a shock that changes the occupations present within the Science & tech sector, and where these jobs are geographically located. Such a shock could result from rapid technological advancements (e.g. the advent of large language models such as ChatGPT), tranforming the type and location of jobs as firms adapt.
+Here we demonstrate the impact of a shock that changes the occupations present within the Science & tech sector, and where these jobs are geographically located. Such a shock could result from rapid technological advancements (e.g. the advent of large language models such as ChatGPT) transforming jobs within the industry as firms adapt.
 
 ![](/images/projects/short_sic_shockposition_industry13.gif "800px")
 ![](/images/projects/short_reg_shockposition_industry13.gif "800px")
