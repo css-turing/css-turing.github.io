@@ -2,7 +2,7 @@
 
 <html lang="en">
 	<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-	  <title>Detecting Fringe Behaviour in Companies</title>
+	  <title>Effects of the legal and fiscal framework in UK ownership networks</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="referrer" content="origin">
@@ -20,13 +20,17 @@
 
 
     
-    <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Detecting Fringe Behaviour in Companies"/>
-<meta name="twitter:description" content="Project description Complicated company ownership structures are often set up to obfuscate the identification of beneficial owners. These strategies are considered to be on the fringe of legitimacy and legality, so detecting them is important to regulators and society in general. We combine economic theory, network analysis, and machine learning to unearth the patterns that such behaviours leave behind in large-scale administrative datasets. This allows us to identify clusters of companies that specialise in such strategies, and to formulate models about their potential adaptation to future legal reforms."/>
+    <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Effects of the legal and fiscal framework in UK ownership networks"/>
+<meta name="twitter:description" content="AI-UK presenter: Leonardo Castro Gonzalez
+Project description We study the different shapes that company ownership and control networks take in the in the UK. By knowing which companies or humans have shares of other companies, we reconstruct the networks using data from Companies House. Observed networks can go from a fairly simple shape (company-owner) to a complex structure with different branches and long chains of companies.
+Put in simple terms, why do we see such a variation in structures?"/>
 
-    <meta property="og:title" content="Detecting Fringe Behaviour in Companies" />
-<meta property="og:description" content="Project description Complicated company ownership structures are often set up to obfuscate the identification of beneficial owners. These strategies are considered to be on the fringe of legitimacy and legality, so detecting them is important to regulators and society in general. We combine economic theory, network analysis, and machine learning to unearth the patterns that such behaviours leave behind in large-scale administrative datasets. This allows us to identify clusters of companies that specialise in such strategies, and to formulate models about their potential adaptation to future legal reforms." />
+    <meta property="og:title" content="Effects of the legal and fiscal framework in UK ownership networks" />
+<meta property="og:description" content="AI-UK presenter: Leonardo Castro Gonzalez
+Project description We study the different shapes that company ownership and control networks take in the in the UK. By knowing which companies or humans have shares of other companies, we reconstruct the networks using data from Companies House. Observed networks can go from a fairly simple shape (company-owner) to a complex structure with different branches and long chains of companies.
+Put in simple terms, why do we see such a variation in structures?" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/projects/firms_fringe/" /><meta property="article:section" content="projects" />
+<meta property="og:url" content="http://localhost:1313/projects/firms_design/" /><meta property="article:section" content="projects" />
 
 
 
@@ -86,44 +90,44 @@
 					</header>
 
 <article id="main">
-  <header style="background-image: url('/images/projects/tax.jpg')">
-    <h2>Detecting Fringe Behaviour in Companies</h2>
+  <header style="background-image: url('/images/projects/companies.jpg')">
+    <h2>Effects of the legal and fiscal framework in UK ownership networks</h2>
     
 	</header>
 	<section class="wrapper style5">
 		<div class="inner">
-      <h2 id="project-description">Project description</h2>
-<p>Complicated company ownership structures are often set up to obfuscate the identification of beneficial owners.
-These strategies are considered to be on the fringe of legitimacy and legality, so detecting them is important to regulators and society in general.
-We combine economic theory, network analysis, and machine learning to unearth the patterns that such behaviours leave behind in large-scale administrative datasets.
-This allows us to identify clusters of companies that specialise in such strategies, and to formulate models about their potential adaptation to future legal reforms.
-This project provides policymakers with guidance on how company ownership evolves over time as clusters that specialise in fringe behaviour learn and adapt to government enforcement mechanisms.</p>
-<h2 id="birds-of-a-feather">Birds of a feather</h2>
+      <p>AI-UK presenter: <a href="http://localhost:1313/people/lcg/">Leonardo Castro Gonzalez</a></p>
+<h2 id="project-description">Project description</h2>
+<p>We study the different shapes that company ownership and control networks take in the in the UK.
+By knowing which companies or humans have shares of other companies, we reconstruct the networks using data from Companies House.
+Observed networks can go from a fairly simple shape (company-owner) to a complex structure with different branches and long chains of companies.</p>
 <blockquote>
-<p>&ldquo;Using networks and machine learning to identify clusters of suspicious companies.&rdquo;</p>
+<p>Put in simple terms, why do we see such a variation in structures?
+Are we looking at an <em>organic</em> structure, or one made <em>by design</em>?</p>
 </blockquote>
-<h3 id="problem">Problem</h3>
+<p>We focus on networks who have as final beneficiary a human. We suppose a network can grow following three principles:</p>
+<ol>
+<li><strong>Logistics/diversification</strong> - A companies network might find useful to open or buy shares from a new company to improve its logistics or diversify</li>
+<li><strong>Minimise liabilities</strong> - A company can decrease its liabilities of a second one by setting a chain of companies in between</li>
+<li><strong>Minimise tax burden</strong> - A human&rsquo;s wealth pays less taxes if it is distributed among the profits of a network</li>
+</ol>
+<h2 id="impact">Impact</h2>
+<p>Companies and humans take the legal framework of the UK as guide to create an ownership network. We intend to create a sandbox with wich:</p>
 <ul>
-<li>Over £30 billion in taxes lost to shell companies, £87.9 billion laundered through the UK</li>
-<li>Companies House (CH) is the first publicly accessible database of companies (incl. information like beneficial ownership)</li>
-<li>No meaningful consequences for providing inaccurate info, limited resources for verification</li>
+<li>We can model the effect of different fiscal policies in ownerhip networks</li>
+<li>We can detect which policies affect the finding of fringe behaviours</li>
+<li>Help policy-makers and scientific community to better understand the industrial activity in the UK</li>
+<li>Help Companies House to pinpoint which minimal information is necessary to increase transparency</li>
 </ul>
 <blockquote>
 <ul>
-<li>Can we use firm ownership networks to find suspicious companies?</li>
+<li>Adapt our model to other legal and fiscal frameworks around the world</li>
 </ul>
 </blockquote>
-<h3 id="method">Method</h3>
-<ul>
-<li>ICIJ dataset of companies appearing in Panama, Pandora, Paradise, Off-Shore leaks</li>
-<li>ID leaked companies operating in UK using Companies Houe API</li>
-<li>Generate networks of firm ownership</li>
-<li>Random forest algorithm to ID suspicious companies based on firm and network features</li>
-</ul>
-<h3 id="visualizations">Visualizations</h3>
+<h2 id="examples">Examples</h2>
 <ul>
 <li>
-<p>Example of a small cluster of firms owned by the same individiaul, pink squares are suspicious firms per RF.
+<p>A simple ownership network with a human (blue node), middle companies (purple) and leaf companies (green).
 <style>
   .container {
       position: relative;
@@ -146,13 +150,11 @@ This project provides policymakers with guidance on how company ownership evolve
     
     
 <div class="container"> 
-    <iframe class="responsive-iframe" src=https://rawcdn.githack.com/AlejandroBeltranA/firm-vis/6228d8b60748526fc4460c2036b5f627b150df70/community_154_pred.html></iframe>
+    <iframe class="responsive-iframe" src=https://rawcdn.githack.com/LeonardoCastro/vis_css_turing/ad24f51c7252410305e607ace16533d00675e8bc/src/human.html></iframe>
 </div></p>
 </li>
 <li>
-<p>Example of a large cluster of firms owned by various individiauls, pink squares are suspicious firms per RF.</p>
-</li>
-</ul>
+<p>A more complicated ownership network with branches. The blue node refers to a human, purple nodes refer to middle companies and green nodes refer to leaf companies.
 <style>
   .container {
       position: relative;
@@ -175,20 +177,20 @@ This project provides policymakers with guidance on how company ownership evolve
     
     
 <div class="container"> 
-    <iframe class="responsive-iframe" src=https://rawcdn.githack.com/AlejandroBeltranA/firm-vis/43be8d95139001f55edfb3d2aba46a3f042e552c/community_25_spec.html></iframe>
-</div>
+    <iframe class="responsive-iframe" src=https://rawcdn.githack.com/LeonardoCastro/vis_css_turing/0a9d227423daa90847bfbc72f4c7b6e0b66c9c65/src/exploration.html></iframe>
+</div></p>
+</li>
+</ul>
 <h2 id="people">People</h2>
 <ul>
-<li><a href="http://localhost:1313/people/ab/">Alejandro Beltran</a></li>
-<li><a href="http://localhost:1313/people/krf/">Kathyrn R. Fair</a></li>
-<li><a href="https://ben.klemens.org/">Ben Klemens</a></li>
 <li><a href="http://localhost:1313/people/lcg/">Leonardo Castro Gonzalez</a></li>
+<li><a href="http://localhost:1313/people/ab/">Alejandro Beltran</a></li>
 <li><a href="http://localhost:1313/people/oag/">Omar A. Guerrero</a></li>
 </ul>
 <h2 id="publications">Publications</h2>
-<p>Pre-print (forthcoming)</p>
+<p>Pre-print (Spring 2024)</p>
 <h2 id="resources">Resources</h2>
-<p>Online repository (forthcoming)</p>
+<p>Online repository (under Turing Data Protection)</p>
 
 		</div>
 	</section>

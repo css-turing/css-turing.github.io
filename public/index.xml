@@ -2,297 +2,227 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CSS Group @ The Alan Turing Institute</title>
-    <link>http://turingcss.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on CSS Group @ The Alan Turing Institute</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://turingcss.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A person</title>
-      <link>http://turingcss.org/people/person1/</link>
+      <link>http://localhost:1313/people/person1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/people/person1/</guid>
-      <description>About me stufffffff
-Projects Project 1 Project 1 Publications Quantifying the Technological Foundations of Economic Complexity (2023) Contact me zkessler@turing.ac.uk
-Personal Website
-Twitter</description>
+      <guid>http://localhost:1313/people/person1/</guid>
+      <description>About me stufffffff&#xA;Projects Project 1 Project 1 Publications Quantifying the Technological Foundations of Economic Complexity (2023) Contact me zkessler@turing.ac.uk&#xA;Personal Website&#xA;Twitter</description>
     </item>
-    
     <item>
       <title>A project</title>
-      <link>http://turingcss.org/projects/project1/</link>
+      <link>http://localhost:1313/projects/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/projects/project1/</guid>
-      <description>Project description stuff
-People Person 1
-Publications Emerging labour flow networks (2023)
-Resources link to any code or external websites etc
-Project code</description>
+      <guid>http://localhost:1313/projects/project1/</guid>
+      <description>Project description stuff&#xA;People Person 1&#xA;Publications Emerging labour flow networks (2023)&#xA;Resources link to any code or external websites etc&#xA;Project code</description>
     </item>
-    
     <item>
       <title>Alejandro Beltran</title>
-      <link>http://turingcss.org/people/ab/</link>
+      <link>http://localhost:1313/people/ab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/people/ab/</guid>
+      <guid>http://localhost:1313/people/ab/</guid>
       <description>About me Alejandro Beltran is a postdoctoral research associate within the public policy programme. He received his PhD from the University of Arizona where in his dissertation he identified the institutional and political determinants of corruption investigations in subnational audit agencies of Mexico. As a computational social scientist, he uses machine learning and natural language processing to generate quantitative measures of often unmeasurable phenomena from text in Spanish. Alejandro completed his undergraduate studies in Public Policy at the Universidad Autónoma de Sinaloa.</description>
     </item>
-    
     <item>
       <title>Automatic SDG Alignment and Budget Tagging</title>
-      <link>http://turingcss.org/projects/budget_tagging/</link>
+      <link>http://localhost:1313/projects/budget_tagging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/projects/budget_tagging/</guid>
+      <guid>http://localhost:1313/projects/budget_tagging/</guid>
       <description>Project description The “budgeting for SDGs”–B4SDGs–paradigm seeks to coordinate the budgeting process of the fiscal cycle with the Sustainable Development Goals (SDGs) set by the United Nations. Integrating the goals into public financial management systems is crucial for an effective alignment of national development priorities with the objectives set in the 2030 Agenda. Within the dynamic process defined in the B4SDGs framework, the step of SDG budget tagging represents a precondition for subsequent budget diagnostics.</description>
     </item>
-    
     <item>
       <title>Climate Security Index</title>
-      <link>http://turingcss.org/projects/climate_security/</link>
+      <link>http://localhost:1313/projects/climate_security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/projects/climate_security/</guid>
-      <description>Project description Climate variability is widely impacting natural and human systems. One of the many impacts is its potential threat to human security. The role of climate variability as a possible cause of violent conflict has been coming to the forefront of public and scientific debates. In this so-called Climate Security Nexus, climate variability acts as a multidirectional threat multiplier, aggravating existing vulnerabilities of people and communities.
-In this project, we collaborate with CGIAR Focus Climate Security to devise a quantitative framework to develop a Climate Security Index (CSI), for measuring and monitoring climate security vulnerability.</description>
+      <guid>http://localhost:1313/projects/climate_security/</guid>
+      <description>Project description Climate variability is widely impacting natural and human systems. One of the many impacts is its potential threat to human security. The role of climate variability as a possible cause of violent conflict has been coming to the forefront of public and scientific debates. In this so-called Climate Security Nexus, climate variability acts as a multidirectional threat multiplier, aggravating existing vulnerabilities of people and communities.&#xA;In this project, we collaborate with CGIAR Focus Climate Security to devise a quantitative framework to develop a Climate Security Index (CSI), for measuring and monitoring climate security vulnerability.</description>
     </item>
-    
     <item>
       <title>Daniele Guariso</title>
-      <link>http://turingcss.org/people/dg/</link>
+      <link>http://localhost:1313/people/dg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/people/dg/</guid>
+      <guid>http://localhost:1313/people/dg/</guid>
       <description>About me I am a Senior Research Associate within the Alan Turing Institute&amp;rsquo;s public policy programme. I hold a BA in political science and international relations from Università Degli Studi di Pavia (Italy), a Certificat d’Études Politiques from Sciences Po Toulouse (France), an MSc in development economics and a PhD in economics from the University of Sussex (UK). I acted as a technical consultant for different research centers and international organizations, such as IGC, IDS, GAIN, UNDP and CGIAR.</description>
     </item>
-    
     <item>
       <title>David Christian Aurel Meine</title>
-      <link>http://turingcss.org/people/dm/</link>
+      <link>http://localhost:1313/people/dm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/people/dm/</guid>
-      <description>About me David Meine is working with the CSS Group on an Agent-Based Model of the Labour Market. Apart from that, he is a PhD Student at the Centre for Complexity Science at Imperial College and a Co-Founder of StartIn, a platform that helps students form Start-Ups. He also works for Ridgeway Information, advising the IAEA on how to improve workflows with the responsible use of AI.
-David has degrees in Physics and Economics from the University of Hamburg and the Humboldt-University of Berlin and is now working on models that combine both disciplines.</description>
+      <guid>http://localhost:1313/people/dm/</guid>
+      <description>About me David Meine is working with the CSS Group on an Agent-Based Model of the Labour Market. Apart from that, he is a PhD Student at the Centre for Complexity Science at Imperial College and a Co-Founder of StartIn, a platform that helps students form Start-Ups. He also works for Ridgeway Information, advising the IAEA on how to improve workflows with the responsible use of AI.&#xA;David has degrees in Physics and Economics from the University of Hamburg and the Humboldt-University of Berlin and is now working on models that combine both disciplines.</description>
     </item>
-    
     <item>
       <title>Detecting Fringe Behaviour in Companies</title>
-      <link>http://turingcss.org/projects/firms_fringe/</link>
+      <link>http://localhost:1313/projects/firms_fringe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/projects/firms_fringe/</guid>
+      <guid>http://localhost:1313/projects/firms_fringe/</guid>
       <description>Project description Complicated company ownership structures are often set up to obfuscate the identification of beneficial owners. These strategies are considered to be on the fringe of legitimacy and legality, so detecting them is important to regulators and society in general. We combine economic theory, network analysis, and machine learning to unearth the patterns that such behaviours leave behind in large-scale administrative datasets. This allows us to identify clusters of companies that specialise in such strategies, and to formulate models about their potential adaptation to future legal reforms.</description>
     </item>
-    
+    <item>
+      <title>Effects of the legal and fiscal framework in UK ownership networks</title>
+      <link>http://localhost:1313/projects/firms_design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/firms_design/</guid>
+      <description>AI-UK presenter: Leonardo Castro Gonzalez&#xA;Project description We study the different shapes that company ownership and control networks take in the in the UK. By knowing which companies or humans have shares of other companies, we reconstruct the networks using data from Companies House. Observed networks can go from a fairly simple shape (company-owner) to a complex structure with different branches and long chains of companies.&#xA;Put in simple terms, why do we see such a variation in structures?</description>
+    </item>
     <item>
       <title>Endogenous Production Networks</title>
-      <link>http://turingcss.org/projects/endogenous_production_network/</link>
+      <link>http://localhost:1313/projects/endogenous_production_network/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/projects/endogenous_production_network/</guid>
+      <guid>http://localhost:1313/projects/endogenous_production_network/</guid>
       <description>Project description Production networks live at the heart of modern economies and global value chains. Shocks such as demand shifts, technological change, and the emergence (death) of new (old) industries generate responses that propagate across their linkages. Most analytic tools analyse some of these shocks by considering production networks to be exogenous, while others that try to explain their formation have limited real-world applicability. This project is developing models of how such networks emerge from the learning process of firms under uncertainty; without having perfect knowledge of the nature of technology (also known as production functions).</description>
     </item>
-    
     <item>
       <title>Gisela Robles Aguilar</title>
-      <link>http://turingcss.org/people/gra/</link>
+      <link>http://localhost:1313/people/gra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/people/gra/</guid>
+      <guid>http://localhost:1313/people/gra/</guid>
       <description>About me Gisela is assisting the Public Policy Programme on standardising public health data. She is a Senior Researcher on the Global Burden of Disease at the University of Oxford, Nuffield Department of Medicine, where she focus on estimating the relative risk of infections resistant to antibiotics. She collaborated with the Lancet Noncommunicable Diseases and Injuries (NCDIs) Poverty Commission, the Oxford Clinical Trials Service Unit and the Oxford Poverty and Human Development Initiative (OPHI).</description>
     </item>
-    
     <item>
       <title>Government and Media Behaviour</title>
-      <link>http://turingcss.org/projects/gov_media/</link>
+      <link>http://localhost:1313/projects/gov_media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/projects/gov_media/</guid>
+      <guid>http://localhost:1313/projects/gov_media/</guid>
       <description>Project description The relationship between government and media is often intricate, complicated, and highly dependent on institutional context. Emerging large-scale data such as news content and open government spending datasets provides us with new information to understand this relationship. In this project, we combine this type of information with machine learning and econometrics to disentangle the various nuances of how the media influences policymaking and how policymakers influence the media. The project identifies generates novel evidence that sheds new light on this problem, and that can be used to design better regulatory frameworks when aiming to safeguard democracy and free press.</description>
     </item>
-    
     <item>
       <title>Hardik Rajpal</title>
-      <link>http://turingcss.org/people/hr/</link>
+      <link>http://localhost:1313/people/hr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/people/hr/</guid>
-      <description>About me Hardik Rajpal is a postdoctoral research associate with the computational social sciences group in the public policy programme at the Alan Turing Institute. He is also associated with the Centre for Complexity Science at the Imperial College London, where he finished his PhD in Applied Mathematics on the study of causality and emergence in complex systems.
-His work focuses on using mathematical modelling, information theory and network science to investigate various complex systems ranging from social-media, production economies, ecolosystems and the brain.</description>
+      <guid>http://localhost:1313/people/hr/</guid>
+      <description>About me Hardik Rajpal is a postdoctoral research associate with the computational social sciences group in the public policy programme at the Alan Turing Institute. He is also associated with the Centre for Complexity Science at the Imperial College London, where he finished his PhD in Applied Mathematics on the study of causality and emergence in complex systems.&#xA;His work focuses on using mathematical modelling, information theory and network science to investigate various complex systems ranging from social-media, production economies, ecolosystems and the brain.</description>
     </item>
-    
     <item>
       <title>Housing Market Dynamics</title>
-      <link>http://turingcss.org/projects/housing_market/</link>
+      <link>http://localhost:1313/projects/housing_market/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/projects/housing_market/</guid>
+      <guid>http://localhost:1313/projects/housing_market/</guid>
       <description>Project description In major cities around the world, housing markets are in the eye of public opinion; not only because of their economic importance, but also due to the recent growth of inequality. The analysis of these complex systems demand tools that can handle large-scale data, heterogeneous agents and institutions, spatial features, agent-level economic behaviour and interaction, etc. This project develops models and tools to study various phenomena related to housing markets such as endogenous inequality, spatial impacts from changes in infrastructure, affordability, and ownership-rental flows, among others.</description>
     </item>
-    
     <item>
       <title>International Trade Modelling</title>
-      <link>http://turingcss.org/projects/int_trade/</link>
+      <link>http://localhost:1313/projects/int_trade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/projects/int_trade/</guid>
-      <description>Project description International trade is a complex economic problem. New trade data and computational modelling techniques allow us to develop new types of models that account for nuances and dynamics that standard economic models cannot. Our models enable trade analysists and policymakers to gain deep insight into the potential outcomes of policies such as creating new trade agreements.
-People Cosmina Dorobantu Nishanth Kumar Tuong M. Vu Ernesto Carrela Omar A. Guerrero Resources Online repository (upcoming)</description>
+      <guid>http://localhost:1313/projects/int_trade/</guid>
+      <description>Project description International trade is a complex economic problem. New trade data and computational modelling techniques allow us to develop new types of models that account for nuances and dynamics that standard economic models cannot. Our models enable trade analysists and policymakers to gain deep insight into the potential outcomes of policies such as creating new trade agreements.&#xA;People Cosmina Dorobantu Nishanth Kumar Tuong M. Vu Ernesto Carrela Omar A. Guerrero Resources Online repository (upcoming)</description>
     </item>
-    
     <item>
       <title>Kathyrn R. Fair</title>
-      <link>http://turingcss.org/people/krf/</link>
+      <link>http://localhost:1313/people/krf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/people/krf/</guid>
-      <description>About me Kathyrn R. Fair is a postdoctoral research associate with the computational social science group in the public policy programme, working on the Shocks and Resilience project. Prior to this, she was a postdoctoral research fellow in the School of Environmental Sciences at the University of Guelph. Kathyrn holds a PhD in Applied Mathematics from the University of Waterloo.
-Her current work focuses on labour market dynamics and aims to move beyond classical economic models and methodologies to improve our understanding of how shocks to the economy impact labour mobility.</description>
+      <guid>http://localhost:1313/people/krf/</guid>
+      <description>About me Kathyrn R. Fair is a postdoctoral research associate with the computational social science group in the public policy programme, working on the Shocks and Resilience project. Prior to this, she was a postdoctoral research fellow in the School of Environmental Sciences at the University of Guelph. Kathyrn holds a PhD in Applied Mathematics from the University of Waterloo.&#xA;Her current work focuses on labour market dynamics and aims to move beyond classical economic models and methodologies to improve our understanding of how shocks to the economy impact labour mobility.</description>
     </item>
-    
     <item>
       <title>Labour Flow Networks</title>
-      <link>http://turingcss.org/projects/labour_flow_networks/</link>
+      <link>http://localhost:1313/projects/labour_flow_networks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/projects/labour_flow_networks/</guid>
+      <guid>http://localhost:1313/projects/labour_flow_networks/</guid>
       <description>Project description We develop models explaining the movement of individuals within the labour market. Our models are highly granular and can exploit micro-data of different types (e.g. labour force surveys &amp;amp; administrative records) to emerge detailed large-scale patterns of job-to-job transitions from agent-level behaviour. Taken collectively, these job-to-job transitions constitute a labour flow network (LFN) where nodes contain pools of jobs with shared characteristics (e.g. they are within the same industry, geographical region, etc.</description>
     </item>
-    
     <item>
       <title>Leonardo Castro-Gonzalez</title>
-      <link>http://turingcss.org/people/lcg/</link>
+      <link>http://localhost:1313/people/lcg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/people/lcg/</guid>
-      <description>About me Leonardo obtained his PhD from the University of Birmingham studying how to make different security and cyber security systems more efficient from a behavioural perspective. These systems, among others, include the illicit-drug distribution method known as the County Lines Model in England. Before his PhD, he read Physics at UNAM – Mexico, and did his MSc in Complex Systems Modelling at King’s College London.
-From September 2019 to October 2021, Leonardo was a visiting student at the Urban Analytics Programme at The Alan Turing institute.</description>
+      <guid>http://localhost:1313/people/lcg/</guid>
+      <description>About me Leonardo obtained his PhD from the University of Birmingham studying how to make different security and cyber security systems more efficient from a behavioural perspective. These systems, among others, include the illicit-drug distribution method known as the County Lines Model in England. Before his PhD, he read Physics at UNAM – Mexico, and did his MSc in Complex Systems Modelling at King’s College London.&#xA;From September 2019 to October 2021, Leonardo was a visiting student at the Urban Analytics Programme at The Alan Turing institute.</description>
     </item>
-    
     <item>
       <title>Miscellaneous Projects</title>
-      <link>http://turingcss.org/projects/various/</link>
+      <link>http://localhost:1313/projects/various/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/projects/various/</guid>
+      <guid>http://localhost:1313/projects/various/</guid>
       <description>Project 1: Emerging age structures for ABMs Applications of agent-based models (ABMs) frequently incorporate the feature that an agent&amp;rsquo;s age impacts their decision-making (e.g. as regards risk aversion) and outcomes (e.g. susceptibility to disease). Thus, it is important that the ABM also accurately captures the age distribution of the population being modelled. However, it is often difficult to generate realistic age distributions using empirical survival probabilities, due to mis-matches between samples (e.</description>
     </item>
-    
     <item>
       <title>Omar A. Guerrero</title>
-      <link>http://turingcss.org/people/oag/</link>
+      <link>http://localhost:1313/people/oag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/people/oag/</guid>
+      <guid>http://localhost:1313/people/oag/</guid>
       <description>About me I am the Head of Computational Social Science Research of The Alan Turing Institute. I also have the privilege of leading this group of talented scholars at the Turing. I am an economist with a PhD in Computational Social Science (CSS) from George Mason University. Previously, I worked at the Department of Economics of University College London and, before that, at Oxford University, in the Saïd Business School and in the Institute for New Economic Thinking.</description>
     </item>
-    
     <item>
       <title>People</title>
-      <link>http://turingcss.org/people/</link>
+      <link>http://localhost:1313/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/people/</guid>
-      <description>This is causing problems
-Head of Computational Social Science Person 1</description>
+      <guid>http://localhost:1313/people/</guid>
+      <description>This is causing problems&#xA;Head of Computational Social Science Person 1</description>
     </item>
-    
     <item>
       <title>Policy Priority Inference</title>
-      <link>http://turingcss.org/projects/ppi/</link>
+      <link>http://localhost:1313/projects/ppi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/projects/ppi/</guid>
+      <guid>http://localhost:1313/projects/ppi/</guid>
       <description>Project description The Policy Priority Inference (PPI) research programme aims at modelling the causal link between government expenditure and policy outcomes while accounting for the multidimensionality and complexity of development. It employs computational methods to overcome the limitations of coarse-grained data on development indicators and public spending. Multidimensionality means that development occurs, simultaneously, in a variety of policy issues, for example, poverty, public health, education, air pollution, etc. An example of a multidimensional development international agenda is the United Nations Sustainable Development Goals.</description>
     </item>
-    
     <item>
       <title>Projects</title>
-      <link>http://turingcss.org/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/projects/</guid>
-      <description>Causing problems.
-Here we go Project 1</description>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>Causing problems.&#xA;Here we go Project 1</description>
     </item>
-    
     <item>
       <title>Publications</title>
-      <link>http://turingcss.org/publications/</link>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/publications/</guid>
+      <guid>http://localhost:1313/publications/</guid>
       <description> Quantifying the Technological Foundations of Economic Complexity (2023) Emerging Labour Flow Networks (2023) </description>
     </item>
-    
     <item>
       <title>Quantifying Technological Sophistication</title>
-      <link>http://turingcss.org/projects/tech_sophistication/</link>
+      <link>http://localhost:1313/projects/tech_sophistication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/projects/tech_sophistication/</guid>
-      <description>Project description Technological sophistication drives economic growth and diversification. We develop methods to quantify the degree of sophistication of entire industries and to understand how various inputs come together in a production process to generate novel outputs. Our tools build on recent advances in information theory and machine learning, and provide policymakers with insights to make strategic decisions when promoting investments in specific industries.
-People Hardik Rajpal Tuong M. Vu Omar A.</description>
+      <guid>http://localhost:1313/projects/tech_sophistication/</guid>
+      <description>Project description Technological sophistication drives economic growth and diversification. We develop methods to quantify the degree of sophistication of entire industries and to understand how various inputs come together in a production process to generate novel outputs. Our tools build on recent advances in information theory and machine learning, and provide policymakers with insights to make strategic decisions when promoting investments in specific industries.&#xA;People Hardik Rajpal Tuong M. Vu Omar A.</description>
     </item>
-    
     <item>
       <title>Santiago G. Musalem Pinto</title>
-      <link>http://turingcss.org/people/smp/</link>
+      <link>http://localhost:1313/people/smp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/people/smp/</guid>
-      <description>About me Santiago is currently pursuing a PhD in Mathematics at Imperial College London. His research interests focus on evolutionary games and using network science to understand time-series data. Having joined the Turing Institute in December 2022, Santiago is investigating how different skills interact in the labour market and how this impacts wages and economic output.
-Projects Skill Interaction and Complexity Contact me sgm21@ic.ac.uk</description>
+      <guid>http://localhost:1313/people/smp/</guid>
+      <description>About me Santiago is currently pursuing a PhD in Mathematics at Imperial College London. His research interests focus on evolutionary games and using network science to understand time-series data. Having joined the Turing Institute in December 2022, Santiago is investigating how different skills interact in the labour market and how this impacts wages and economic output.&#xA;Projects Skill Interaction and Complexity Contact me sgm21@ic.ac.uk</description>
     </item>
-    
     <item>
       <title>Skill Interaction and Complexity</title>
-      <link>http://turingcss.org/projects/skills_complexity/</link>
+      <link>http://localhost:1313/projects/skills_complexity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/projects/skills_complexity/</guid>
+      <guid>http://localhost:1313/projects/skills_complexity/</guid>
       <description>Project description An understanding of the ways skills interact with each other to influence career trajectories of individuals, and the productivity of occupations is key to developing labour market policies (e.g. upskilling programs). Leveraging rich microdata covering multiple countries and novel techniques developed within the computational social science group, this project explores how workplace skills interact with each other to impact outcomes at the micro- and macro-level, as well as their evolution through the labour market.</description>
     </item>
-    
     <item>
       <title>Skill Sorting and Productivity</title>
-      <link>http://turingcss.org/projects/skill_sorting/</link>
+      <link>http://localhost:1313/projects/skill_sorting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/projects/skill_sorting/</guid>
+      <guid>http://localhost:1313/projects/skill_sorting/</guid>
       <description>Project description We develop models of endogenous technology which centre skill-based worker sorting in its operation. These tools allow us to understand how individuals with various degrees of specialisation and ability end up together in certain industries and firms, giving place to various degrees of firm productivity. Our models can be easily used with standard labour force surveys and provide a framework to assess the impact skill complementarities in productivity.</description>
     </item>
-    
     <item>
       <title>Tackling Health Inequalities</title>
-      <link>http://turingcss.org/projects/health_equity/</link>
+      <link>http://localhost:1313/projects/health_equity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/projects/health_equity/</guid>
+      <guid>http://localhost:1313/projects/health_equity/</guid>
       <description>Project description Improving population health and reducing inequity is a critical issue that requires systemic interventions. All around the world, declines in life expectancy, widening inequalities in health, food and fuel insecurity, climate change, and restricted government budgets compound to make public health one of the greatest challenges that policymakers must face. As a systemic problem, public health cannot be tackled in isolation from other policy dimensions; hence, a holistic approach across public policy areas towards achieving good health outcomes for all is required.</description>
     </item>
-    
     <item>
       <title>Tuong M. Vu</title>
-      <link>http://turingcss.org/people/tmvu/</link>
+      <link>http://localhost:1313/people/tmvu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/people/tmvu/</guid>
+      <guid>http://localhost:1313/people/tmvu/</guid>
       <description>About me I received PhD in Computer Science from the University of Nottingham. My PhD is about Agent-Based Modelling and Simulation of Public Goods Game. In 2017, I joined the University of Sheffield under the CASCADE project (Calibrated Agent Simulations for Combined Analysis of Drinking Etiologies) to develop agent-based models of alcohol use which draw on existing social theories for why people drink. I also applied genetic programming, an evolutionary algorithm, to seek novel combinations of these theories in order to better explain the societal changes in alcohol use.</description>
     </item>
-    
     <item>
       <title>Zachary B. Kessler</title>
-      <link>http://turingcss.org/people/zbk/</link>
+      <link>http://localhost:1313/people/zbk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turingcss.org/people/zbk/</guid>
-      <description>About me Zachary Kessler is postdoctoral research associate with the computational social science group in the Public Policy programme at the Alan Turing Institute. Prior to joining the group, he completed his PhD in Economics at George Mason University where he studied computational methods that can simulate institutional processes
-His research broadly focuses on the use of the computational and econometric methods paired with modern data-driven technologies to explore a variety of micro and macro level economic phenomena.</description>
+      <guid>http://localhost:1313/people/zbk/</guid>
+      <description>About me Zachary Kessler is postdoctoral research associate with the computational social science group in the Public Policy programme at the Alan Turing Institute. Prior to joining the group, he completed his PhD in Economics at George Mason University where he studied computational methods that can simulate institutional processes&#xA;His research broadly focuses on the use of the computational and econometric methods paired with modern data-driven technologies to explore a variety of micro and macro level economic phenomena.</description>
     </item>
-    
   </channel>
 </rss>

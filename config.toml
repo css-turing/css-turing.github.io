@@ -40,6 +40,10 @@ url = '/projects/firms_fringe'
 title = "Detecting Fringe Behaviour in Companies"
 
 [[params.menu.main]]
+url = '/projects/firms_design'
+title = "Effects of the Legal Framework in Companies"
+
+[[params.menu.main]]
 url = '/projects/endogenous_production_network'
 title = "Endogenous Production Networks"
 
