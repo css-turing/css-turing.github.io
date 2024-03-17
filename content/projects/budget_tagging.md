@@ -12,6 +12,10 @@ The “budgeting for SDGs”–B4SDGs–paradigm seeks to coordinate the budgeti
 In this project, we employ Natural Language Processing techniques to explore the scope and scalability of automatic labelling budget programs within the B4SDGs framework, to understand if and how these methods can support policymakers in integrating the goals into their budgetary procedures.
 The final aim is to incorporate such algorithms into a web application. This open platform will allow any potential users to upload data on budget lines and get their classification into the SDGs, pushing forward the B4SDGs agenda.
 
+## Budget Tagging 
+
+{{<responsive_iframe "/static_table/html_table.html">}}
+
 ## People
 
 * [Daniele Guariso]({{< ref "/people/dg" >}}) 
