@@ -21,28 +21,25 @@ The tools produced by this project can be used to support evidence-based policym
 This is a simple economy with five industries. These industries acquire knowledge about prices and quantities solely through observing the impact of their decisions on profits. Notably, we depart from conventional models by discarding assumptions related to technology (production functions) and demand curves.
 
 {{< figure src="/images/projects/prodnet_five_industries_network.jpg" width="600px" >}}
-<p style="text-align: center;">Example network of five industries</p>
 
 {{<responsive_iframe "/visualisation/learning_price_quantity.html">}}
-<p style="text-align: center;">Five industries adapt prince and volume for their demand curve</p>
 
 ### Resilience to shocks
 
 Following are examples of the simple five-industry economy responding to shocks.
 
 * Demand shock
-{{< figure src="/images/projects/prodnet_demand_shocks.jpg" width="600px" >}}
+{{< figure src="/images/projects/prodnet_demand_shock.jpg" width="600px" >}}
 
 * Technological change
-{{< figure src="/images/projects/prodnet_technological_change.jpg" width="800px" >}}
+{{< figure src="/images/projects/prodnet_technological_change.jpg" width="600px" >}}
 
 ### Experiment with empirically calibrated model
 A simple experiment uncovered the intricate relationship between industry productivity and its impact on the broader economy. By calibrating our model to OECD input-output datasets within the UK context, specifically considering 44 industries, then increasing 10% productivity in an industry, we observe very far-reaching effects on the whole economy. The experiment underscores the need for nuanced analysis and sophisticated modeling techniques.
 
-Please choose an industry in the dropbox below to see how 10% productivity increase for one industry affect the broader economy. There are 4 bar chart for total inflows, price, volume, and profit. Each bar charts shows the net change across 44 industries. The industries in the dropdown box are sorted by sum of inflows (from most to least).
+Please choose an industry in the dropbox below to see how 10% productivity increase for one industry affect the broader economy. The industries in the dropdown box are sorted by sum of inflows (from most to least). There are 4 bar chart for total inflows, price, volume, and profit. Each bar charts shows the net change across 44 industries. The industry with increased activities has a larger width then the rest.
 
 {{<responsive_iframe "/visualisation/increase_productivity_experiment.html">}}
-<p style="text-align: center;">Increase productivity experiment</p>
 
 ## People
 
