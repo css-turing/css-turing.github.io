@@ -31,7 +31,7 @@ The final aim is to incorporate the algorithms developed into a web application.
 
 ## Publications
 
-* Guariso, D., Guerrero, O. A., & Castañeda, G. (2023). Automatic SDG Budget Tagging: Building Public Financial Management Capacity through Natural Language Processing. *Data & Policy*, 5, e31. [Paper]([https://www.cambridge.org/core/journals/data-and-policy/article/automatic-sdg-budget-tagging-building-public-financial-management-capacity-through-natural-language-processing/77E9AE6ABBE6387A4C06A745ED33CA80])
+* Guariso, D., Guerrero, O. A., & Castañeda, G. (2023). Automatic SDG Budget Tagging: Building Public Financial Management Capacity through Natural Language Processing. *Data & Policy*, 5, e31. [Paper](https://www.cambridge.org/core/journals/data-and-policy/article/automatic-sdg-budget-tagging-building-public-financial-management-capacity-through-natural-language-processing/77E9AE6ABBE6387A4C06A745ED33CA80)
 
 ## Resources
 
