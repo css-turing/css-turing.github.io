@@ -14,9 +14,9 @@ The final aim is to incorporate such algorithms into a web application. This ope
 
 ## From SDG Budget tagging ...
 
-{{<responsive_iframe "/static_table/html_table.html">}}
+{{<responsive_iframe "/static_table/html_table.html">}}\\
 
-## To multidimensional impact evaluation
+## To multidimensional impact evaluation!
 
 {{<responsive_iframe "/graphs/SDG_exp_ind_graph.html">}}
 
