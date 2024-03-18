@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 
 <html lang="en">
-	<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<head>
 	  <title>Detecting Fringe Behaviour in Companies</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,7 +9,7 @@
 
     <meta name="description" content="A research collective at The Alan Turing Institute">
     
-    <meta name="generator" content="Hugo 0.123.8">
+    <meta name="generator" content="Hugo 0.111.3">
 
     
 <link rel="stylesheet" href="/css/main.min.68900eb5732632c44d2ec6ed1c6fa627a184a8eb9cfce0465fd639eea2d32b83e9b456df28e6af465e295c712cf82b8460229df1cfe702410d5d9756734850a6.css" integrity="sha512-aJAOtXMmMsRNLsbtHG&#43;mJ6GEqOuc/OBGX9Y57qLTK4PptFbfKOavRl4pXHEs&#43;CuEYCKd8c/nAkENXZdWc0hQpg==">
@@ -20,14 +20,16 @@
 
 
     
-    <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Detecting Fringe Behaviour in Companies"/>
-<meta name="twitter:description" content="Project description Complicated company ownership structures are often set up to obfuscate the identification of beneficial owners. These strategies are considered to be on the fringe of legitimacy and legality, so detecting them is important to regulators and society in general. We combine economic theory, network analysis, and machine learning to unearth the patterns that such behaviours leave behind in large-scale administrative datasets. This allows us to identify clusters of companies that specialise in such strategies, and to formulate models about their potential adaptation to future legal reforms."/>
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Detecting Fringe Behaviour in Companies"/>
+<meta name="twitter:description" content="By Alejandro Beltran
+Project description Complicated company ownership structures are often set up to obfuscate the identification of beneficial owners. These strategies are considered to be on the fringe of legitimacy and legality, so detecting them is important to regulators and society in general. We combine economic theory, network analysis, and machine learning to unearth the patterns that such behaviours leave behind in large-scale administrative datasets. This allows us to identify clusters of companies that specialise in such strategies, and to formulate models about their potential adaptation to future legal reforms."/>
 
     <meta property="og:title" content="Detecting Fringe Behaviour in Companies" />
-<meta property="og:description" content="Project description Complicated company ownership structures are often set up to obfuscate the identification of beneficial owners. These strategies are considered to be on the fringe of legitimacy and legality, so detecting them is important to regulators and society in general. We combine economic theory, network analysis, and machine learning to unearth the patterns that such behaviours leave behind in large-scale administrative datasets. This allows us to identify clusters of companies that specialise in such strategies, and to formulate models about their potential adaptation to future legal reforms." />
+<meta property="og:description" content="By Alejandro Beltran
+Project description Complicated company ownership structures are often set up to obfuscate the identification of beneficial owners. These strategies are considered to be on the fringe of legitimacy and legality, so detecting them is important to regulators and society in general. We combine economic theory, network analysis, and machine learning to unearth the patterns that such behaviours leave behind in large-scale administrative datasets. This allows us to identify clusters of companies that specialise in such strategies, and to formulate models about their potential adaptation to future legal reforms." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/projects/firms_fringe/" /><meta property="article:section" content="projects" />
-
+<meta property="og:url" content="http://turingcss.org/projects/firms_fringe/" /><meta property="article:section" content="projects" />
 
 
 
@@ -40,7 +42,7 @@
 
 				
           <header id="header">
-            <h1><a href="http://localhost:1313/">CSS Group @ The Alan Turing Institute</a></h1>
+            <h1><a href="http://turingcss.org/">CSS Group @ The Alan Turing Institute</a></h1>
 						<nav id="nav">
 							<ul>
 								<li class="special">
@@ -92,7 +94,8 @@
 	</header>
 	<section class="wrapper style5">
 		<div class="inner">
-      <h2 id="project-description">Project description</h2>
+      <p>By Alejandro Beltran</p>
+<h2 id="project-description">Project description</h2>
 <p>Complicated company ownership structures are often set up to obfuscate the identification of beneficial owners.
 These strategies are considered to be on the fringe of legitimacy and legality, so detecting them is important to regulators and society in general.
 We combine economic theory, network analysis, and machine learning to unearth the patterns that such behaviours leave behind in large-scale administrative datasets.
@@ -104,26 +107,70 @@ This project provides policymakers with guidance on how company ownership evolve
 </blockquote>
 <h3 id="problem">Problem</h3>
 <ul>
-<li>Over £30 billion in taxes lost to shell companies, £87.9 billion laundered through the UK</li>
-<li>Companies House (CH) is the first publicly accessible database of companies (incl. information like beneficial ownership)</li>
-<li>No meaningful consequences for providing inaccurate info, limited resources for verification</li>
+<li>Over £30 billion in taxes lost to shell companies, £87.9 billion laundered through the UK.</li>
+<li>Companies House (CH) is a publicly accessible database of companies (incl. information like beneficial ownership).</li>
+<li>Difficult for CH to validate self-reported information, limited resources.</li>
 </ul>
 <blockquote>
 <ul>
-<li>Can we use firm ownership networks to find suspicious companies?</li>
+<li>Can we use networks of firm directors to find suspicious companies?</li>
 </ul>
 </blockquote>
 <h3 id="method">Method</h3>
 <ul>
-<li>ICIJ dataset of companies appearing in Panama, Pandora, Paradise, Off-Shore leaks</li>
-<li>ID leaked companies operating in UK using Companies Houe API</li>
-<li>Generate networks of firm ownership</li>
-<li>Random forest algorithm to ID suspicious companies based on firm and network features</li>
+<li>ICIJ dataset of companies appearing in Panama, Pandora, Paradise, Off-Shore leaks.</li>
+<li>Identify leaked companies operating in UK using Companies Houe API.</li>
+<li>Generate networks of firm directors.</li>
+<li>Random forest algorithm to identify suspicious companies based on firm and network features</li>
 </ul>
-<h3 id="visualizations">Visualizations</h3>
+<blockquote>
 <ul>
-<li>
-<p>Example of a small cluster of firms owned by the same individiaul, pink squares are suspicious firms per RF.
+<li>Shared address, shared directors, compliance, audits, industry, business age.</li>
+</ul>
+</blockquote>
+<h3 id="random-forest">Random Forest</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Truth</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td>leaked</td>
+<td>not leaked</td>
+</tr>
+<tr>
+<td>Prediction</td>
+<td>leaked</td>
+<td>7,625</td>
+<td>70,310</td>
+</tr>
+<tr>
+<td></td>
+<td>not leaked</td>
+<td>3,224</td>
+<td>298,924</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Too many false positives.</li>
+</ul>
+<blockquote>
+<ul>
+<li>Community detection to verify false positive and reduce false negatives.</li>
+</ul>
+</blockquote>
+<h3 id="network-analysis">Network analysis</h3>
+<h4 id="small-community">Small community</h4>
+<ul>
+<li>Example of a small community of firms directed by the same individiaul, pink squares are suspicious firms per model.
 <style>
   .container {
       position: relative;
@@ -147,11 +194,11 @@ This project provides policymakers with guidance on how company ownership evolve
     
 <div class="container"> 
     <iframe class="responsive-iframe" src=https://rawcdn.githack.com/AlejandroBeltranA/firm-vis/6228d8b60748526fc4460c2036b5f627b150df70/community_154_pred.html></iframe>
-</div></p>
-</li>
-<li>
-<p>Example of a large cluster of firms owned by various individiauls, pink squares are suspicious firms per RF.</p>
-</li>
+</div></li>
+</ul>
+<h4 id="large-community">Large community</h4>
+<ul>
+<li>Example of a large cluster of firms directed by various individuals, pink squares are suspicious firms per model.</li>
 </ul>
 <style>
   .container {
@@ -177,13 +224,82 @@ This project provides policymakers with guidance on how company ownership evolve
 <div class="container"> 
     <iframe class="responsive-iframe" src=https://rawcdn.githack.com/AlejandroBeltranA/firm-vis/43be8d95139001f55edfb3d2aba46a3f042e552c/community_25_spec.html></iframe>
 </div>
+<h4 id="identifying-suspicious-communities">Identifying suspicious communities</h4>
+<ul>
+<li>Estimate the normalized degree centrality of a suspicious node.</li>
+</ul>
+<blockquote>
+<ul>
+<li>How important is the suspicious node within a community?</li>
+</ul>
+</blockquote>
+<style>
+  .container {
+      position: relative;
+      overflow: hidden;
+      width: 100%;
+      padding-top: 56.25%;  
+  }
+    
+     
+  .responsive-iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      width: 100%;
+      height: 100%;
+  }
+</style>
+    
+    
+<div class="container"> 
+    <iframe class="responsive-iframe" src=https://rawcdn.githack.com/AlejandroBeltranA/firm-vis/3ca93140172e5b608d7f7c2732451dbebba5b419/degree_graph.html></iframe>
+</div>
+<h4 id="visualizing-suspicious-communities">Visualizing suspicious communities</h4>
+<ul>
+<li>Now we can focus our analysis on communities where suspicious nodes are central.</li>
+</ul>
+<style>
+  .container {
+      position: relative;
+      overflow: hidden;
+      width: 100%;
+      padding-top: 56.25%;  
+  }
+    
+     
+  .responsive-iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      width: 100%;
+      height: 100%;
+  }
+</style>
+    
+    
+<div class="container"> 
+    <iframe class="responsive-iframe" src=https://rawcdn.githack.com/AlejandroBeltranA/firm-vis/3ca93140172e5b608d7f7c2732451dbebba5b419/fringe_communities.html></iframe>
+</div>
+<h2 id="conclusion">Conclusion</h2>
+<ul>
+<li>~5.5 million firms registered with CH, 800,000 dissolved each year.</li>
+<li>Many firms dissolved within the first year.</li>
+<li>Tracking, validating, and confirming their status is a data intensive task.</li>
+<li>Using leaks of companies appearing as clients of suspicious firms an effective approach.</li>
+<li>Pending: Analysis of all records, including dissolved firms from 2010 through today.</li>
+</ul>
 <h2 id="people">People</h2>
 <ul>
-<li><a href="http://localhost:1313/people/ab/">Alejandro Beltran</a></li>
-<li><a href="http://localhost:1313/people/krf/">Kathyrn R. Fair</a></li>
+<li><a href="http://turingcss.org/people/ab/">Alejandro Beltran</a></li>
+<li><a href="http://turingcss.org/people/krf/">Kathyrn R. Fair</a></li>
 <li><a href="https://ben.klemens.org/">Ben Klemens</a></li>
-<li><a href="http://localhost:1313/people/lcg/">Leonardo Castro Gonzalez</a></li>
-<li><a href="http://localhost:1313/people/oag/">Omar A. Guerrero</a></li>
+<li><a href="http://turingcss.org/people/lcg/">Leonardo Castro Gonzalez</a></li>
+<li><a href="http://turingcss.org/people/oag/">Omar A. Guerrero</a></li>
 </ul>
 <h2 id="publications">Publications</h2>
 <p>Pre-print (forthcoming)</p>
@@ -221,7 +337,7 @@ This project provides policymakers with guidance on how company ownership evolve
 
 
 
-<script src="/js/bundle.min.b72fcd7e6ac37488bd691ae7a119b87b4f79fa014b0f26f3ec305fa59db16ee856930f1338e669fb5b0f702dd5a447e14d4c5c4306db67d77fd3a21d3624b820.js" integrity="sha512-ty/NfmrDdIi9aRrnoRm4e095&#43;gFLDybz7DBfpZ2xbuhWkw8TOOZp&#43;1sPcC3VpEfhTUxcQwbbZ9d/06IdNiS4IA=="></script>
+<script src="/js/bundle.min.23c96a7c45222cb63f5802b919967e5b2a649c059781c47813baa870dd546cf951a4f7aa3ccc02261fb86ff19bb15a2434f45251c91316faf98dcdc4bb2cf00f.js" integrity="sha512-I8lqfEUiLLY/WAK5GZZ&#43;WypknAWXgcR4E7qocN1UbPlRpPeqPMwCJh&#43;4b/GbsVokNPRSUckTFvr5jc3EuyzwDw=="></script>
 
 		<script type="text/javascript" src="/js/carousel.js"></script>
 		<link rel="stylesheet" href="/css/carousel.css">

@@ -44,7 +44,19 @@ In this project, we collaborate with CGIAR Focus Climate Security to devise a qu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://turingcss.org/projects/firms_fringe/</guid>
-      <description>Project description Complicated company ownership structures are often set up to obfuscate the identification of beneficial owners. These strategies are considered to be on the fringe of legitimacy and legality, so detecting them is important to regulators and society in general. We combine economic theory, network analysis, and machine learning to unearth the patterns that such behaviours leave behind in large-scale administrative datasets. This allows us to identify clusters of companies that specialise in such strategies, and to formulate models about their potential adaptation to future legal reforms.</description>
+      <description>By Alejandro Beltran
+Project description Complicated company ownership structures are often set up to obfuscate the identification of beneficial owners. These strategies are considered to be on the fringe of legitimacy and legality, so detecting them is important to regulators and society in general. We combine economic theory, network analysis, and machine learning to unearth the patterns that such behaviours leave behind in large-scale administrative datasets. This allows us to identify clusters of companies that specialise in such strategies, and to formulate models about their potential adaptation to future legal reforms.</description>
+    </item>
+    
+    <item>
+      <title>Effects of the legal and fiscal framework in UK ownership networks</title>
+      <link>http://turingcss.org/projects/firms_design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/projects/firms_design/</guid>
+      <description>AI-UK presenter: Leonardo Castro Gonzalez
+Project description We study the different shapes that company ownership and control networks take in the in the UK. By knowing which companies or humans have shares of other companies, we reconstruct the networks using data from Companies House. Observed networks can go from a fairly simple shape (company-owner) to a complex structure with different branches and long chains of companies.
+Put in simple terms, why do we see such a variation in structures?</description>
     </item>
     
     <item>
@@ -53,7 +65,8 @@ In this project, we collaborate with CGIAR Focus Climate Security to devise a qu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://turingcss.org/projects/endogenous_production_network/</guid>
-      <description>Project description Production networks live at the heart of modern economies and global value chains. Shocks such as demand shifts, technological change, and the emergence (death) of new (old) industries generate responses that propagate across their linkages. Most analytic tools analyse some of these shocks by considering production networks to be exogenous, while others that try to explain their formation have limited real-world applicability. This project is developing models of how such networks emerge from the learning process of firms under uncertainty; without having perfect knowledge of the nature of technology (also known as production functions).</description>
+      <description>Project description Production networks live at the heart of modern economies and global value chains. Shocks such as demand shifts, technological change, and the emergence (death) of new (old) industries generate responses that propagate across their linkages. Most analytic tools analyse some of these shocks by considering production networks to be exogenous, while others that try to explain their formation have limited real-world applicability.
+This project is developing models of how such networks emerge from the learning process of firms under uncertainty; without having perfect knowledge of the nature of technology (also known as production functions).</description>
     </item>
     
     <item>
@@ -117,8 +130,7 @@ People Cosmina Dorobantu Nishanth Kumar Tuong M. Vu Ernesto Carrela Omar A. Guer
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://turingcss.org/projects/tech_sophistication/</guid>
-      <description>Project description Technological sophistication drives economic growth and diversification. We develop methods to quantify the degree of sophistication of entire industries and to understand how various inputs come together in a production process to generate novel outputs. Our tools build on recent advances in information theory and machine learning, and provide policymakers with insights to make strategic decisions when promoting investments in specific industries.
-People Hardik Rajpal Tuong M. Vu Omar A.</description>
+      <description>Project description Advanced economies exhibit a high degree of sophistication in the creation of various products. While critical to such sophistication, the nature and underlying structure of the interactions taking place inside production processes remain opaque when studying large systems such as industries or entire economies. We develop methods to quantify the degree of sophistication of entire industries and to understand how various inputs come together in a production process to generate novel outputs.</description>
     </item>
     
     <item>
@@ -136,7 +148,7 @@ People Hardik Rajpal Tuong M. Vu Omar A.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://turingcss.org/projects/skill_sorting/</guid>
-      <description>Project description We develop models of endogenous technology which centre skill-based worker sorting in its operation. These tools allow us to understand how individuals with various degrees of specialisation and ability end up together in certain industries and firms, giving place to various degrees of firm productivity. Our models can be easily used with standard labour force surveys and provide a framework to assess the impact skill complementarities in productivity.</description>
+      <description>Project Description We develop models of endogenous technology which centre skill-based worker sorting in its operation. These tools allow us to understand how individuals with various degrees of specialisation and ability end up together in certain industries and firms, giving place to various degrees of firm productivity. Our models can be easily used with standard labour force surveys and provide a framework to assess the impact skill complementarities in productivity.</description>
     </item>
     
     <item>

@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 
 <html lang="en">
-	<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<head>
 	  <title>Endogenous Production Networks</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,7 +9,7 @@
 
     <meta name="description" content="A research collective at The Alan Turing Institute">
     
-    <meta name="generator" content="Hugo 0.123.8">
+    <meta name="generator" content="Hugo 0.111.3">
 
     
 <link rel="stylesheet" href="/css/main.min.68900eb5732632c44d2ec6ed1c6fa627a184a8eb9cfce0465fd639eea2d32b83e9b456df28e6af465e295c712cf82b8460229df1cfe702410d5d9756734850a6.css" integrity="sha512-aJAOtXMmMsRNLsbtHG&#43;mJ6GEqOuc/OBGX9Y57qLTK4PptFbfKOavRl4pXHEs&#43;CuEYCKd8c/nAkENXZdWc0hQpg==">
@@ -20,14 +20,16 @@
 
 
     
-    <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Endogenous Production Networks"/>
-<meta name="twitter:description" content="Project description Production networks live at the heart of modern economies and global value chains. Shocks such as demand shifts, technological change, and the emergence (death) of new (old) industries generate responses that propagate across their linkages. Most analytic tools analyse some of these shocks by considering production networks to be exogenous, while others that try to explain their formation have limited real-world applicability. This project is developing models of how such networks emerge from the learning process of firms under uncertainty; without having perfect knowledge of the nature of technology (also known as production functions)."/>
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Endogenous Production Networks"/>
+<meta name="twitter:description" content="Project description Production networks live at the heart of modern economies and global value chains. Shocks such as demand shifts, technological change, and the emergence (death) of new (old) industries generate responses that propagate across their linkages. Most analytic tools analyse some of these shocks by considering production networks to be exogenous, while others that try to explain their formation have limited real-world applicability.
+This project is developing models of how such networks emerge from the learning process of firms under uncertainty; without having perfect knowledge of the nature of technology (also known as production functions)."/>
 
     <meta property="og:title" content="Endogenous Production Networks" />
-<meta property="og:description" content="Project description Production networks live at the heart of modern economies and global value chains. Shocks such as demand shifts, technological change, and the emergence (death) of new (old) industries generate responses that propagate across their linkages. Most analytic tools analyse some of these shocks by considering production networks to be exogenous, while others that try to explain their formation have limited real-world applicability. This project is developing models of how such networks emerge from the learning process of firms under uncertainty; without having perfect knowledge of the nature of technology (also known as production functions)." />
+<meta property="og:description" content="Project description Production networks live at the heart of modern economies and global value chains. Shocks such as demand shifts, technological change, and the emergence (death) of new (old) industries generate responses that propagate across their linkages. Most analytic tools analyse some of these shocks by considering production networks to be exogenous, while others that try to explain their formation have limited real-world applicability.
+This project is developing models of how such networks emerge from the learning process of firms under uncertainty; without having perfect knowledge of the nature of technology (also known as production functions)." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/projects/endogenous_production_network/" /><meta property="article:section" content="projects" />
-
+<meta property="og:url" content="http://turingcss.org/projects/endogenous_production_network/" /><meta property="article:section" content="projects" />
 
 
 
@@ -40,7 +42,7 @@
 
 				
           <header id="header">
-            <h1><a href="http://localhost:1313/">CSS Group @ The Alan Turing Institute</a></h1>
+            <h1><a href="http://turingcss.org/">CSS Group @ The Alan Turing Institute</a></h1>
 						<nav id="nav">
 							<ul>
 								<li class="special">
@@ -95,16 +97,53 @@
       <h2 id="project-description">Project description</h2>
 <p>Production networks live at the heart of modern economies and global value chains.
 Shocks such as demand shifts, technological change, and the emergence (death) of new (old) industries generate responses that propagate across their linkages.
-Most analytic tools analyse some of these shocks by considering production networks to be exogenous, while others that try to explain their formation have limited real-world applicability.
-This project is developing models of how such networks emerge from the learning process of firms under uncertainty; without having perfect knowledge of the nature of technology (also known as production functions).
+Most analytic tools analyse some of these shocks by considering production networks to be exogenous, while others that try to explain their formation have limited real-world applicability.</p>
+<p>This project is developing models of how such networks emerge from the learning process of firms under uncertainty; without having perfect knowledge of the nature of technology (also known as production functions).
 These models can be calibrated with publicly available input-output datasets and deployed with various types of production functions, facilitating the analysis of structural transformations such as drastic technological changes.
 The tools produced by this project can be used to support evidence-based policymaking, for example, when formulating national industrial strategies or when considering supporting emergent industries.</p>
+<h2 id="demonstration">Demonstration</h2>
+<h3 id="industries-learn-and-adapt-with-limited-information">Industries learn and adapt with limited information</h3>
+<p>This is a simple economy with five industries. These industries acquire knowledge about prices and quantities solely through observing the impact of their decisions on profits. Notably, we depart from conventional models by discarding assumptions related to technology (production functions) and demand curves.</p>
+<figure><img src="/images/projects/prodnet_five_industries_network.jpg" width="600px"/>
+</figure>
+
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+    <iframe width="100%" height="100%"
+        src="/visualisation/learning_price_quantity.html"
+        frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+    </iframe>
+</div>
+<h3 id="resilience-to-shocks">Resilience to shocks</h3>
+<p>Following are examples of the simple five-industry economy responding to shocks.</p>
+<ul>
+<li>
+<p>Demand shock
+<figure><img src="/images/projects/prodnet_demand_shock.jpg" width="600px"/>
+</figure>
+</p>
+</li>
+<li>
+<p>Technological change
+<figure><img src="/images/projects/prodnet_technological_change.jpg" width="600px"/>
+</figure>
+</p>
+</li>
+</ul>
+<h3 id="experiment-with-empirically-calibrated-model">Experiment with empirically calibrated model</h3>
+<p>A simple experiment uncovered the intricate relationship between industry productivity and its impact on the broader economy. By calibrating our model to OECD input-output datasets within the UK context, specifically considering 44 industries, then increasing 10% productivity in an industry, we observe very far-reaching effects on the whole economy. The experiment underscores the need for nuanced analysis and sophisticated modeling techniques.</p>
+<p>Please choose an industry in the dropbox below to see how 10% productivity increase for one industry affect the broader economy. The industries in the dropdown box are sorted by sum of inflows (from most to least). There are 4 bar chart for total inflows, price, volume, and profit. Each bar charts shows the net change across 44 industries. The industry with increased activities has a larger width then the rest.</p>
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+    <iframe width="100%" height="100%"
+        src="/visualisation/increase_productivity_experiment.html"
+        frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+    </iframe>
+</div>
 <h2 id="people">People</h2>
 <ul>
-<li><a href="http://localhost:1313/people/tmvu/">Tuong M. Vu</a></li>
+<li><a href="http://turingcss.org/people/tmvu/">Tuong M. Vu</a></li>
 <li><a href="https://www.norceresearch.no/en/persons/ernesto-carrella/29950594">Ernesto Carrella</a></li>
 <li><a href="https://www.santafe.edu/people/profile/robert-axtell">Robert Axtell</a></li>
-<li><a href="http://localhost:1313/people/oag/">Omar A. Guerrero</a></li>
+<li><a href="http://turingcss.org/people/oag/">Omar A. Guerrero</a></li>
 </ul>
 <h2 id="publications">Publications</h2>
 <ul>
@@ -144,7 +183,7 @@ The tools produced by this project can be used to support evidence-based policym
 
 
 
-<script src="/js/bundle.min.b72fcd7e6ac37488bd691ae7a119b87b4f79fa014b0f26f3ec305fa59db16ee856930f1338e669fb5b0f702dd5a447e14d4c5c4306db67d77fd3a21d3624b820.js" integrity="sha512-ty/NfmrDdIi9aRrnoRm4e095&#43;gFLDybz7DBfpZ2xbuhWkw8TOOZp&#43;1sPcC3VpEfhTUxcQwbbZ9d/06IdNiS4IA=="></script>
+<script src="/js/bundle.min.23c96a7c45222cb63f5802b919967e5b2a649c059781c47813baa870dd546cf951a4f7aa3ccc02261fb86ff19bb15a2434f45251c91316faf98dcdc4bb2cf00f.js" integrity="sha512-I8lqfEUiLLY/WAK5GZZ&#43;WypknAWXgcR4E7qocN1UbPlRpPeqPMwCJh&#43;4b/GbsVokNPRSUckTFvr5jc3EuyzwDw=="></script>
 
 		<script type="text/javascript" src="/js/carousel.js"></script>
 		<link rel="stylesheet" href="/css/carousel.css">
