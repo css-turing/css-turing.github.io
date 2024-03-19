@@ -8,7 +8,7 @@ AI-UK presenter: [Leonardo Castro Gonzalez]({{< ref "/people/lcg" >}})
 
 ## Project description
 
-We study the different shapes that company ownership and control networks take in the in the UK.
+We study the different shapes that company ownership and control networks take in the UK.
 By knowing which companies or humans have shares of other companies, we reconstruct the networks using data from Companies House.
 Observed networks can go from a fairly simple shape (company-owner) to a complex structure with different branches and long chains of companies.
 
@@ -18,7 +18,7 @@ Observed networks can go from a fairly simple shape (company-owner) to a complex
 We focus on networks who have as final beneficiary a human. We suppose a network can grow following three principles:
 
 1. **Logistics/diversification** - A companies network might find useful to open or buy shares from a new company to improve its logistics or diversify
-2. **Minimise liabilities** - A company can decrease its liabilities of a second one by setting a chain of companies in between
+2. **Minimise liabilities** - A company can decrease the liabilities over a second one by setting a chain of companies in between
 3. **Minimise tax burden** - A human's wealth pays less taxes if it is distributed among the profits of a network 
 
 ## Impact 
