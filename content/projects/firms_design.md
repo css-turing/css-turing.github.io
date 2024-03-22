@@ -33,14 +33,12 @@ Companies and humans take the legal framework of the UK as guide to create an ow
 
 ## Examples
 
-* A simple ownership network with a human (blue node), middle companies (purple) and leaf companies (green).
-{{< shinyapps "https://rawcdn.githack.com/LeonardoCastro/vis_css_turing/68f27f24daa16b0cf8157bdafb787751f2bd110f/src/human.html">}}
-
-
-* A more complicated ownership network with branches. The blue node refers to a human, purple nodes refer to middle companies and green nodes refer to leaf companies.
+* A simple ownership network with two humans (blue nodes) and their owned companies (green).
 {{< shinyapps "https://rawcdn.githack.com/LeonardoCastro/vis_css_turing/68f27f24daa16b0cf8157bdafb787751f2bd110f/src/exploration.html">}}
 
 
+* A more complicated ownership network with branches. The blue node refers to a human, purple nodes refer to middle companies and green nodes refer to leaf companies.
+{{< shinyapps "https://rawcdn.githack.com/LeonardoCastro/vis_css_turing/68f27f24daa16b0cf8157bdafb787751f2bd110f/src/human.html">}}
 
 
 ## People
