@@ -15,6 +15,8 @@ Alejandro Beltran is a postdoctoral research associate within the public policy 
 
 * [Detecting Firms' Fringe Behaviour]({{< ref "/projects/firms_fringe" >}}) 
 * [Government and Media Behaviour]({{< ref "/projects/gov_media" >}}) 
+* [Local Government Finances]({{< ref "/projects/local_authorities" >}}) 
+
 
 
 ## Publications and Working Papers
