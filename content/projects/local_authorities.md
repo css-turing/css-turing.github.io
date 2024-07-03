@@ -1,5 +1,5 @@
 ---
-title: "Visualizing Subnational Public Finances"
+title: "Local Government Finances"
 draft: false
 image: "/images/projects/tax.jpg"
 ---
@@ -28,7 +28,7 @@ Local governments provide a wide range of services within their areas. Financing
 ### Visualizations
 #### Time series
 * Example of time series comparison between neighbouring councils.
-{{< shinyapps "https://rawcdn.githack.com/AlejandroBeltranA/firm-vis/6228d8b60748526fc4460c2036b5f627b150df70/community_154_pred.html">}}
+{{< shinyapps "https://rawcdn.githack.com/AlejandroBeltranA/firm-vis/35f40270007e758bee3d8e3babfc730fbaa1b008/lac_time.html">}}
 
 #### Map of Local Authorities in England
 
