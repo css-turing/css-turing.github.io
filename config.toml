@@ -88,6 +88,10 @@ url = '/projects/health_equity'
 title = "Tackling Health Inequalities"
 
 [[params.menu.main]]
+url = '/projects/skills_labour_mobility'
+title = "Skills and Labour Mobility"
+
+[[params.menu.main]]
 url = '/projects/various'
 title = "Miscellaneous Projects"
 

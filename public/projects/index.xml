@@ -55,7 +55,7 @@ Project description Complicated company ownership structures are often set up to
       
       <guid>http://turingcss.org/projects/firms_design/</guid>
       <description>AI-UK presenter: Leonardo Castro Gonzalez
-Project description We study the different shapes that company ownership and control networks take in the in the UK. By knowing which companies or humans have shares of other companies, we reconstruct the networks using data from Companies House. Observed networks can go from a fairly simple shape (company-owner) to a complex structure with different branches and long chains of companies.
+Project description We study the different shapes that company ownership and control networks take in the UK. By knowing which companies or humans have shares of other companies, we reconstruct the networks using data from Companies House. Observed networks can go from a fairly simple shape (company-owner) to a complex structure with different branches and long chains of companies.
 Put in simple terms, why do we see such a variation in structures?</description>
     </item>
     
@@ -107,6 +107,16 @@ People Cosmina Dorobantu Nishanth Kumar Tuong M. Vu Ernesto Carrela Omar A. Guer
     </item>
     
     <item>
+      <title>Local Government Finances</title>
+      <link>http://turingcss.org/projects/local_authorities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/projects/local_authorities/</guid>
+      <description>By Alejandro Beltran
+Project description Local governments provide a wide range of services within their areas. Financing these services is a constant issue as subnational governments across the world continue to accumulate responsibilities without a proportional ability to generate their own revenue. In order to better compare differences in taxing capacities and spending responsibilities between neighbouring local governments, this project presents various visualizations that facilitate that comparison. It relies on data from distinct sources to build a more complete picture of how local authorities in the UK mind the gap between spending and taxing.</description>
+    </item>
+    
+    <item>
       <title>Miscellaneous Projects</title>
       <link>http://turingcss.org/projects/various/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -149,6 +159,15 @@ People Cosmina Dorobantu Nishanth Kumar Tuong M. Vu Ernesto Carrela Omar A. Guer
       
       <guid>http://turingcss.org/projects/skill_sorting/</guid>
       <description>Project Description We develop models of endogenous technology which centre skill-based worker sorting in its operation. These tools allow us to understand how individuals with various degrees of specialisation and ability end up together in certain industries and firms, giving place to various degrees of firm productivity. Our models can be easily used with standard labour force surveys and provide a framework to assess the impact skill complementarities in productivity.</description>
+    </item>
+    
+    <item>
+      <title>Skills and Labour Mobility</title>
+      <link>http://turingcss.org/projects/skills_labour_mobility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/projects/skills_labour_mobility/</guid>
+      <description>Project description Understanding the factors that facilitate (or hinder) the movement of individuals within the labour market is crucial to the development of economic policy, both those efforts towards improving economic productivity, and those towards creating better outcomes for individual workers. While some work has been done to examine how skill could matter in predicting occupational transitions, more exploration with additional, more varied data and methodologies is needed to properly verify this insight.</description>
     </item>
     
     <item>

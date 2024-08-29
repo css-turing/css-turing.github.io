@@ -2,7 +2,7 @@
 
 <html lang="en">
 	<head>
-	  <title>Effects of the legal and fiscal framework in UK ownership networks</title>
+	  <title>Local Government Finances</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="referrer" content="origin">
@@ -21,17 +21,15 @@
 
     
     <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Effects of the legal and fiscal framework in UK ownership networks"/>
-<meta name="twitter:description" content="AI-UK presenter: Leonardo Castro Gonzalez
-Project description We study the different shapes that company ownership and control networks take in the UK. By knowing which companies or humans have shares of other companies, we reconstruct the networks using data from Companies House. Observed networks can go from a fairly simple shape (company-owner) to a complex structure with different branches and long chains of companies.
-Put in simple terms, why do we see such a variation in structures?"/>
+<meta name="twitter:title" content="Local Government Finances"/>
+<meta name="twitter:description" content="By Alejandro Beltran
+Project description Local governments provide a wide range of services within their areas. Financing these services is a constant issue as subnational governments across the world continue to accumulate responsibilities without a proportional ability to generate their own revenue. In order to better compare differences in taxing capacities and spending responsibilities between neighbouring local governments, this project presents various visualizations that facilitate that comparison. It relies on data from distinct sources to build a more complete picture of how local authorities in the UK mind the gap between spending and taxing."/>
 
-    <meta property="og:title" content="Effects of the legal and fiscal framework in UK ownership networks" />
-<meta property="og:description" content="AI-UK presenter: Leonardo Castro Gonzalez
-Project description We study the different shapes that company ownership and control networks take in the UK. By knowing which companies or humans have shares of other companies, we reconstruct the networks using data from Companies House. Observed networks can go from a fairly simple shape (company-owner) to a complex structure with different branches and long chains of companies.
-Put in simple terms, why do we see such a variation in structures?" />
+    <meta property="og:title" content="Local Government Finances" />
+<meta property="og:description" content="By Alejandro Beltran
+Project description Local governments provide a wide range of services within their areas. Financing these services is a constant issue as subnational governments across the world continue to accumulate responsibilities without a proportional ability to generate their own revenue. In order to better compare differences in taxing capacities and spending responsibilities between neighbouring local governments, this project presents various visualizations that facilitate that comparison. It relies on data from distinct sources to build a more complete picture of how local authorities in the UK mind the gap between spending and taxing." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://turingcss.org/projects/firms_design/" /><meta property="article:section" content="projects" />
+<meta property="og:url" content="http://turingcss.org/projects/local_authorities/" /><meta property="article:section" content="projects" />
 
 
 
@@ -94,44 +92,34 @@ Put in simple terms, why do we see such a variation in structures?" />
 					</header>
 
 <article id="main">
-  <header style="background-image: url('/images/projects/companies.jpg')">
-    <h2>Effects of the legal and fiscal framework in UK ownership networks</h2>
+  <header style="background-image: url('/images/projects/tax.jpg')">
+    <h2>Local Government Finances</h2>
     
 	</header>
 	<section class="wrapper style5">
 		<div class="inner">
-      <p>AI-UK presenter: <a href="http://turingcss.org/people/lcg/">Leonardo Castro Gonzalez</a></p>
+      <p>By Alejandro Beltran</p>
 <h2 id="project-description">Project description</h2>
-<p>We study the different shapes that company ownership and control networks take in the UK.
-By knowing which companies or humans have shares of other companies, we reconstruct the networks using data from Companies House.
-Observed networks can go from a fairly simple shape (company-owner) to a complex structure with different branches and long chains of companies.</p>
-<blockquote>
-<p>Put in simple terms, why do we see such a variation in structures?
-Are we looking at an <em>organic</em> structure, or one made <em>by design</em>?</p>
-</blockquote>
-<p>We focus on networks who have as final beneficiary a human. We suppose a network can grow following three principles:</p>
-<ol>
-<li><strong>Logistics/diversification</strong> - A companies network might find useful to open or buy shares from a new company to improve its logistics or diversify</li>
-<li><strong>Minimise liabilities</strong> - A company can decrease the liabilities over a second one by setting a chain of companies in between</li>
-<li><strong>Minimise tax burden</strong> - A human&rsquo;s wealth pays less taxes if it is distributed among the profits of a network</li>
-</ol>
-<h2 id="impact">Impact</h2>
-<p>Companies and humans take the legal framework of the UK as guide to create an ownership network. We intend to create a sandbox with wich:</p>
+<p>Local governments provide a wide range of services within their areas. Financing these services is a constant issue as subnational governments across the world continue to accumulate responsibilities without a proportional ability to generate their own revenue. In order to better compare differences in taxing capacities and spending responsibilities between neighbouring local governments, this project presents various visualizations that facilitate that comparison. It relies on data from distinct sources to build a more complete picture of how local authorities in the UK mind the gap between spending and taxing.</p>
+<h3 id="problem">Problem</h3>
 <ul>
-<li>We can model the effect of different fiscal policies in ownerhip networks</li>
-<li>We can detect which policies affect the finding of fringe behaviours</li>
-<li>Help policy-makers and scientific community to better understand the industrial activity in the UK</li>
-<li>Help Companies House to pinpoint which minimal information is necessary to increase transparency</li>
+<li>DLUHC local authority data is difficult to manipulate and scattered across various spreadsheets of varying file formats.</li>
+<li>Tracking what subnational government is responsible for services and taxes is a challenge because of devolution, fragmentation, and service aggregation.</li>
 </ul>
 <blockquote>
 <ul>
-<li>Adapt our model to other legal and fiscal frameworks around the world</li>
+<li>Can we map taxing responsibilities to better understand nuanced differences between bordering local authorities?</li>
 </ul>
 </blockquote>
-<h2 id="examples">Examples</h2>
+<h3 id="method">Method</h3>
 <ul>
-<li>
-<p>A simple ownership network with two humans (blue nodes) and their owned companies (green).
+<li>Build a time series of local authorities and their revenue accounts, local council tax receipts, and national non-domestic tax rates.</li>
+<li>Merge population data to facilitate comparisons.</li>
+</ul>
+<h3 id="visualizations">Visualizations</h3>
+<h4 id="time-series">Time series</h4>
+<ul>
+<li>Example of time series comparison between neighbouring councils.
 <style>
   .container {
       position: relative;
@@ -154,11 +142,13 @@ Are we looking at an <em>organic</em> structure, or one made <em>by design</em>?
     
     
 <div class="container"> 
-    <iframe class="responsive-iframe" src=https://rawcdn.githack.com/LeonardoCastro/vis_css_turing/68f27f24daa16b0cf8157bdafb787751f2bd110f/src/exploration.html></iframe>
-</div></p>
-</li>
-<li>
-<p>A more complicated ownership network with branches. The blue node refers to a human, purple nodes refer to middle companies and green nodes refer to leaf companies.
+    <iframe class="responsive-iframe" src=https://rawcdn.githack.com/AlejandroBeltranA/firm-vis/35f40270007e758bee3d8e3babfc730fbaa1b008/lac_time.html></iframe>
+</div></li>
+</ul>
+<h4 id="map-of-local-authorities-in-england">Map of Local Authorities in England</h4>
+<ul>
+<li>Example of an interactive visualization.</li>
+</ul>
 <style>
   .container {
       position: relative;
@@ -181,20 +171,23 @@ Are we looking at an <em>organic</em> structure, or one made <em>by design</em>?
     
     
 <div class="container"> 
-    <iframe class="responsive-iframe" src=https://rawcdn.githack.com/LeonardoCastro/vis_css_turing/68f27f24daa16b0cf8157bdafb787751f2bd110f/src/human.html></iframe>
-</div></p>
-</li>
+    <iframe class="responsive-iframe" src=https://rawcdn.githack.com/AlejandroBeltranA/firm-vis/0ef99cea32604fc5db586c1b2ea0335d2a680399/uk_lac_map.html></iframe>
+</div>
+<h2 id="pending">Pending</h2>
+<ul>
+<li>Still need to homogenize revenue accounts over space and time.</li>
+<li>Need to better understand how council tax and nndr move through local authority coffers.</li>
+<li>Need better local council tax data, the live tables need more detail.</li>
 </ul>
 <h2 id="people">People</h2>
 <ul>
-<li><a href="http://turingcss.org/people/lcg/">Leonardo Castro Gonzalez</a></li>
 <li><a href="http://turingcss.org/people/ab/">Alejandro Beltran</a></li>
 <li><a href="http://turingcss.org/people/oag/">Omar A. Guerrero</a></li>
 </ul>
 <h2 id="publications">Publications</h2>
-<p>Pre-print (Spring 2024)</p>
+<p>Pre-print (forthcoming)</p>
 <h2 id="resources">Resources</h2>
-<p>Online repository (under Turing Data Protection)</p>
+<p>Online repository (forthcoming)</p>
 
 		</div>
 	</section>

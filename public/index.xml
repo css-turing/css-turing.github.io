@@ -95,7 +95,7 @@ Project description Complicated company ownership structures are often set up to
       
       <guid>http://turingcss.org/projects/firms_design/</guid>
       <description>AI-UK presenter: Leonardo Castro Gonzalez
-Project description We study the different shapes that company ownership and control networks take in the in the UK. By knowing which companies or humans have shares of other companies, we reconstruct the networks using data from Companies House. Observed networks can go from a fairly simple shape (company-owner) to a complex structure with different branches and long chains of companies.
+Project description We study the different shapes that company ownership and control networks take in the UK. By knowing which companies or humans have shares of other companies, we reconstruct the networks using data from Companies House. Observed networks can go from a fairly simple shape (company-owner) to a complex structure with different branches and long chains of companies.
 Put in simple terms, why do we see such a variation in structures?</description>
     </item>
     
@@ -162,8 +162,8 @@ People Cosmina Dorobantu Nishanth Kumar Tuong M. Vu Ernesto Carrela Omar A. Guer
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://turingcss.org/people/krf/</guid>
-      <description>About me Kathyrn R. Fair is a postdoctoral research associate with the computational social science group in the public policy programme, working on the Shocks and Resilience project. Prior to this, she was a postdoctoral research fellow in the School of Environmental Sciences at the University of Guelph. Kathyrn holds a PhD in Applied Mathematics from the University of Waterloo.
-Her current work focuses on labour market dynamics and aims to move beyond classical economic models and methodologies to improve our understanding of how shocks to the economy impact labour mobility.</description>
+      <description>About me Kathyrn R. Fair is a Senior Research Associate with the Computational Social Science group in the Public Policy Programme. Prior to this, she was a postdoctoral research fellow in the School of Environmental Sciences at the University of Guelph. Kathyrn holds a PhD in Applied Mathematics from the University of Waterloo.
+Her work focuses on labour mobility, developing novel models and analysis techniques to describe the movement of individuals within the labour market and the factors that influence these movements (e.</description>
     </item>
     
     <item>
@@ -183,6 +183,16 @@ Her current work focuses on labour market dynamics and aims to move beyond class
       <guid>http://turingcss.org/people/lcg/</guid>
       <description>About me Leonardo obtained his PhD from the University of Birmingham studying how to make different security and cyber security systems more efficient from a behavioural perspective. These systems, among others, include the illicit-drug distribution method known as the County Lines Model in England. Before his PhD, he read Physics at UNAM – Mexico, and did his MSc in Complex Systems Modelling at King’s College London.
 From September 2019 to October 2021, Leonardo was a visiting student at the Urban Analytics Programme at The Alan Turing institute.</description>
+    </item>
+    
+    <item>
+      <title>Local Government Finances</title>
+      <link>http://turingcss.org/projects/local_authorities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/projects/local_authorities/</guid>
+      <description>By Alejandro Beltran
+Project description Local governments provide a wide range of services within their areas. Financing these services is a constant issue as subnational governments across the world continue to accumulate responsibilities without a proportional ability to generate their own revenue. In order to better compare differences in taxing capacities and spending responsibilities between neighbouring local governments, this project presents various visualizations that facilitate that comparison. It relies on data from distinct sources to build a more complete picture of how local authorities in the UK mind the gap between spending and taxing.</description>
     </item>
     
     <item>
@@ -279,6 +289,15 @@ Projects Skill Interaction and Complexity Contact me sgm21@ic.ac.uk</description
     </item>
     
     <item>
+      <title>Skills and Labour Mobility</title>
+      <link>http://turingcss.org/projects/skills_labour_mobility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turingcss.org/projects/skills_labour_mobility/</guid>
+      <description>Project description Understanding the factors that facilitate (or hinder) the movement of individuals within the labour market is crucial to the development of economic policy, both those efforts towards improving economic productivity, and those towards creating better outcomes for individual workers. While some work has been done to examine how skill could matter in predicting occupational transitions, more exploration with additional, more varied data and methodologies is needed to properly verify this insight.</description>
+    </item>
+    
+    <item>
       <title>Tackling Health Inequalities</title>
       <link>http://turingcss.org/projects/health_equity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -302,7 +321,7 @@ Projects Skill Interaction and Complexity Contact me sgm21@ic.ac.uk</description
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://turingcss.org/people/zbk/</guid>
-      <description>About me Zachary Kessler is postdoctoral research associate with the computational social science group in the Public Policy programme at the Alan Turing Institute. Prior to joining the group, he completed his PhD in Economics at George Mason University where he studied computational methods that can simulate institutional processes
+      <description>About me Zachary Kessler is a postdoctoral research associate with the computational social science group in the Public Policy programme at the Alan Turing Institute. Prior to joining the group, he completed his PhD in Economics at George Mason University where he studied computational methods that can simulate institutional processes
 His research broadly focuses on the use of the computational and econometric methods paired with modern data-driven technologies to explore a variety of micro and macro level economic phenomena.</description>
     </item>
     
