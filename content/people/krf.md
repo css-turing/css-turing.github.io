@@ -9,7 +9,7 @@ draft: false
 
 ## About me
 
-Kathyrn R. Fair is a Senior Research Associate with the Computational Social Science group in the Public Policy Programme. Prior to this, she was a postdoctoral research fellow in the School of Environmental Sciences at the University of Guelph. Kathyrn holds a PhD in Applied Mathematics from the University of Waterloo.
+Kathyrn R. Fair is a Senior Research Associate with the Computational Social Science group in the Public Policy Programme, and an ADR UK Research Fellow. Prior to this, she was a postdoctoral research fellow in the School of Environmental Sciences at the University of Guelph. Kathyrn holds a PhD in Applied Mathematics from the University of Waterloo.
 
 Her work focuses on labour mobility, developing novel models and analysis techniques to describe the movement of individuals within the labour market and the factors that influence these movements (e.g. skills). This work makes novel use of economic microdata on jobs, allowing us to gain further insights from pre-existing datasets.
 
